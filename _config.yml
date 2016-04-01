@@ -1,7 +1,7 @@
 title:            Theravados budizmas
 description:      Describe your website here.
 disqus_shortname:
-reading_time:     true
+reading_time:     false
 words_per_minute: 200
 
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
@@ -54,6 +54,11 @@ permalink:   /:categories/:title/
 
 # Amount of post to show on home page
 paginate: 5
+
+collections:
+  training:
+    output: true
+    permalink: /training/:path/
 
 kramdown:
   auto_ids: true
