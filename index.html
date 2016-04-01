@@ -32,11 +32,8 @@ image:
     {% endif %}
   </header>
   <div class="entry-content">
-    <!-- {{ post.content }} -->
-    {{ post.content | get_post_excerpt }}
-    {% if post.content | post_contains_excerpt_tag %}
-      <a href="{{ post.url }}">Read more →</a>
-    {% endif %}
+    {{ post.excerpt }}
+    <a href="{{ post.url }}">Read more →</a>
   </div><!-- /.entry-content -->
 </article><!-- /.hentry -->
 {% endfor %}
