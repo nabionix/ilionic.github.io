@@ -56,9 +56,9 @@ permalink:   /:categories/:title/
 paginate: 5
 
 collections:
-  training:
+  mokymas:
     output: true
-    permalink: /training/:path/
+    permalink: /mokymas/:path/
 
 kramdown:
   auto_ids: true
