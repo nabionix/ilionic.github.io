@@ -11,4 +11,8 @@ image:
   creditlink:
 comments:
 share:
+annotater:
+  -
+    name: Buddha
+    tooltip: "žmogus savarankiškai, be mokytojo, pasiekęs tobulo prabudimo"
 ---
