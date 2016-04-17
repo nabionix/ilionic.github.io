@@ -6,9 +6,9 @@ words_per_minute: 200
 
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url: 'http://polyhexlabs.com/theravada'
-# url:
-baseurl: 'http://polyhexlabs.com/theravada'
+# url: 'http://polyhexlabs.com/theravada'
+url:
+# baseurl: 'http://polyhexlabs.com/theravada'
 # Owner/author information
 owner:
   name:           Your Name
@@ -56,9 +56,18 @@ permalink:   /:categories/:title/
 paginate: 5
 
 collections:
-  mokymas:
+  pradzia:
     output: true
-    permalink: /mokymas/:path/
+    permalink: /pradzia/:path/
+  budizmas:
+    output: true
+    permalink: /budizmas/:path/
+  praktika:
+    output: true
+    permalink: /praktika/:path/
+  vertimai:
+    output: true
+    permalink: /vertimai/:path/
 
 kramdown:
   auto_ids: true

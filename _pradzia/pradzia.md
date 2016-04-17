@@ -1,0 +1,16 @@
+---
+layout: page
+title: "Pradžia"
+description: ""
+tags: [Pradžia]
+comments: false
+category: "pradzia"
+image:
+  feature: headers/buddha-001.jpg
+---
+
+Šios svetainės tikslas - suteikti lietuviams, norintiems susipažinti su ankstyvaisiais Gautamos Budos mokymais, prieigą prie tekstų, išverstų iš pali *(**pāḷi**)* kalbos ir savo prasme artimiausių (kaip tai tik įmanoma po 2600 metų nuo jų atsiradimo) paties Budos žodžiams. Pali kalba yra stulbinančiai panaši į lietuvių -pirmiausia savo struktūra ir gramatinėmis formomis, o taipogi daug žodžių turi artimas šaknis. Dėl  šios priežasties buvo nuspręsta pateikti tekstus dviem formatais: lietuvių kalba bei pali-lietuvių kalbomis kartu, kur vertimas pateikiamas fraze po frazės. Pirmojo varianto privalumas - teksto gramatika yra pertvarkyta, daugelyje vietų pašalinti pakartojimai (kurių originale yra be galo daug). Jei skaitytojui Budos žodžiai yra visiškai naujas dalykas - geriausiai pradėti nuo jo. Antrojo varianto privalumas - jei skaitytojas yra jau susipažinęs su budizmu, pažvelgęs į tekstą pali kalba, jis lengvai galės atsekti tikslią lietuviško žodžio reikšmę. Tiesa yra ta, kad daugelis senovės Indijoje vartotų žodžių ir savokų yra svetimi mūsų kultūrai, todėl surasti šimtu procentų atitinkantį vertimą yra išties nelengva užduotis. Šalia vienas kito išdėstytų originalo ir vertimo skaitymas padės giliau suprasti tekstą.
+
+Kai kurie žodžiai yra palikti neversti, ir skaitytojo patogumui jų paaiškinimą galima matyti paspaudus ant jų.
+
+Taip pat čia rasite kelis pažintinius straipsnius apie Theravados budizmą - budizmo kryptį, kuriai priklauso čia pateikti išversti tekstai.
