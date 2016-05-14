@@ -18,6 +18,8 @@ Buvo apsistojęs Ražagahe bambukų girioje. Tada gi trisdešimt vienuolių iš 
 
 Palaimintasis štai ką pasakė:
 
+<!–break–>
+
 —Vienuoliai, neįsivaizduojama [kada buvo] šios samsaros pradžia. Neįmanoma nurodyti praeityje būtybių trikdomų nežinojimo, esančių troškimo pančiuose, lakstančių, klajojančių ratais pradžią. Kaip jūs manote, vienuoliai, ko yra daugiau, ar per tą labai ilgą laiką, kol jūs lakstėte, klajojote ratais, dėl nukirstos galvos pralieto, išbėgusio kraujo, ar vandens keturiuose didžiuose vandenynuose?
 
 — Gerbiamasis, kaip mes suprantame Palaimintojo dėstytą Dharmą, tai daugiau yra per tą labai ilgą laiką, kol mes lakstėme, klajojome ratais, dėl nukirstos galvos pralieto, išbėgusio kraujo, bet tikrai ne vandens keturiuose didžiuose vandenynuose."

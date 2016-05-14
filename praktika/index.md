@@ -1,5 +1,5 @@
 ---
-layout: collection
+layout: category
 title: "Praktika"
 description: ""
 tags: [Praktika]
@@ -8,5 +8,3 @@ comments: false
 image:
   feature: buddha-wheel.jpg
 ---
-
-All

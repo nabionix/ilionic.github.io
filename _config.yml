@@ -3,15 +3,16 @@ description:      Describe your website here.
 disqus_shortname:
 reading_time:     false
 words_per_minute: 200
+excerpt_separator: <!–break–>
 
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-# url: 'http://polyhexlabs.com/theravada'
-url:
-# baseurl: 'http://polyhexlabs.com/theravada'
+url: 'http://polyhexlabs.com/theravada'
+# url:
+baseurl: 'http://polyhexlabs.com/theravada'
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Theravados budizmas
   avatar:         avatar.jpg
   bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
   email:          you@email.com
@@ -37,7 +38,7 @@ google_verify:
 bing_verify:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Europe/Vilnius
 future:      true
 highlighter: rouge
 markdown:    kramdown
@@ -50,21 +51,12 @@ sass:
   style: compressed
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title/
+permalink:   /:categories/post-:title/
 
 # Amount of post to show on home page
 paginate: 5
 
 collections:
-  pradzia:
-    output: true
-    permalink: /pradzia/:path/
-  budizmas:
-    output: true
-    permalink: /budizmas/:path/
-  praktika:
-    output: true
-    permalink: /praktika/:path/
   vertimai:
     output: true
     permalink: /vertimai/:path/

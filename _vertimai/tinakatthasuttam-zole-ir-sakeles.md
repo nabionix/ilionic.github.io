@@ -20,6 +20,8 @@ Palaimintasis štai ką pasakė:
 
 —Vienuoliai, neįsivaizduojama [kada buvo] šios samsaros pradžia. Neįmanoma nurodyti praeityje būtybių, trikdomų nežinojimo, esančių troškimo pančiuose, lakstančių, klajojančių ratais, pradžią. Sakykime, žmogus būtų nupjovęs visą Džiambudypos [Indijos] žolę, šakeles, šakas, lapus. Tuomet surinkęs juos į vieną vietą, bei padalinęs šakeles po dešimt centimetrų, dėtų jas [galvodamas]: "Tai mano mama, tai mano mamos mama". Vienuoliai, neužsibaigusios būtų to žmogaus mamų mamos, kai šios Džiambudypos žolė, šakelės, šakos, lapai išsisemtų, ateitų į pabaigą. Dėl ko taip yra? Vienuoliai, neįsivaizduojama [kada buvo] šios samsaros pradžia. Neįmanoma nurodyti praeityje būtybių, trikdomų nežinojimo, esančių troškimo pančiuose, lakstančių, klajojančių ratais pradžią. Taip ilgai jūs, vienuoliai, išgyvenote skausmą, išgyvenote kančią, išgyvenote netektį, prisidėjote prie kapinių auginimo. Ir to, vienuoliai, tikrai jau pakanka nusivilti visais sąlygotais dalykais, užgesinti potraukį [prie jų], išsilaisvinti [nuo jų].
 
+<!–break–>
+
 **1. Tiṇakaṭṭhasuttaṃ** Žolė ir šakelės (SN II.IV.i.1)
 
 **124. Evaṃ [178] me sutaṃ –** Taip aš girdėjau: **ekaṃ samayaṃ bhagavā** vieną kartą Palaimintasis **sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme.** buvo apsistojęs Savathėje Džėtos girioje Anathapindikos vienuolyne. **Tatra kho bhagavā bhikkhū āmantesi –** Tada gi Palaimintasis kreipėsi į vienuolius: "**bhikkhavo"ti**. "Vienuoliai!" “**Bhadante”ti te bhikkhū bhagavato paccassosuṃ.** "Gerbiamasis!", atsakė Palaimintajam vienuoliai. **Bhagavā etadavoca –** Palaimintasis štai ką pasakė:

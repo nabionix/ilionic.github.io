@@ -1,5 +1,5 @@
 ---
-layout: collection
+layout: category
 title: "Budizmas"
 description: ""
 tags: [Budizmas]
@@ -8,5 +8,3 @@ comments: false
 image:
   feature: abstract-1.jpg
 ---
-
-All
