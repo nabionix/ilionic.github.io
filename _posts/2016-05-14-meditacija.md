@@ -17,6 +17,8 @@ Meditacijos tikslas yra proto vystymas, jo lavinimas, dorių proto būsenų inic
 
 Ramuma yra protinio susitelkimo būsena, kuri nuramina negatyvias proto būsenas (tokias kaip jusliniai troškimai, neapykanta ir panašiai). Ramuma taip pat vadinamas susitelkimas, kuris pašalina žalingas emocijas ir stresą.
 
+<!--break-->
+
 Žmogaus protas, kontaktuodamas su išoriniais objektais, tampa nestabiliu. Jei matant objektą atsiranda jo troškimas, protą aplanko jaudinimasis ir nerimavimas, nestabilumas. Jei atsiranda neapykanta, įsivyrauja nerimavimas, nestabilumas. Taip pat jei atsiranda nežinojimas, protą lydės nerimavimas, nestabilumas. Šis proto nestabilumas yra nuraminamas *samathos* pagalba. "*Paccanīkadhamme sametīti samatho*". Dharma kuri nuramina ir pašalina priešingą dhammą vadinama *samatha*.
 
 Ramumos meditacija yra ne tik žingsnis link galutinio tikslo, ji taip pat gali padėti gyvenimo kasdienybėje: sumažinti stresą, vystyti ramybę, kantrybę, atmintį ir panašiai.

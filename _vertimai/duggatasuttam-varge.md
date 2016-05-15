@@ -20,7 +20,7 @@ Palaimintasis štai ką pasakė:
 
 —Vienuoliai, neįsivaizduojama [kada buvo] šios samsaros pradžia. Neįmanoma nurodyti praeityje būtybių, trikdomų nežinojimo, esančių troškimo pančiuose, lakstančių, klajojančių ratais pradžią. Vienuoliai, kai pamatysite kažką varge, kažką luošą, turėtumėte prieiti prie tokios išvados: "Aš gi taip pat per šį labai ilgą laiką esu tai patyręs." Dėl ko taip yra...[žr. SN II.IV.i.1]... ir to, vienuoliai, tikrai jau pakanka nusivilti visais sąlygotais dalykais, užgesinti potraukį [prie jų], išsilaisvinti [nuo jų].
 
-<!–break–>
+<!--break-->
 
 **Duggatasuttaṃ** Varge (SN II.IV.ii.1)
 

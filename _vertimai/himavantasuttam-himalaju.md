@@ -14,7 +14,7 @@ Savathėje. "Vienuoliai, palaikomi kalnų karaliaus – Himalajų – *Nagai** b
 
 * *Naga - *vienos dievybių klasės būtybė, turinti į gyvatę panašų pavidalą; dažnai turi antgamtinių jėgų ir pasižymi didžia stiprybe.
 
-<!–break–>
+<!--break-->
 
 **1. Himavantasuttaṃ** Himalajų sutta (SN V.II.i.1)
 

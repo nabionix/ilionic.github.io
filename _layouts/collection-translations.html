@@ -42,7 +42,7 @@
       </header>
       <div class="entry-content">
         {{ post.excerpt }}
-        <a href="{{ post.url }}">Read more →</a>
+        {% include read-more-excerpt.html %}
       </div><!-- /.entry-content -->
     </article><!-- /.hentry -->
   {% endfor %}

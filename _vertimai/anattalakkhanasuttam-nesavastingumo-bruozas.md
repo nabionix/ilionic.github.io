@@ -20,7 +20,7 @@ Palaimintasis štai ką pasakė:
 
 — Materija, vienuoliai, yra ne-savastis. Nes jeigu materija būtų savastimi, ji nevestų prie ligų, ir panorėjus: "lai mano materija būna tokia, o šitokia lai mano materija nebūna", iš jos galima būtų tai gauti. Bet dėl to gi, vienuoliai, kad materija yra ne-savastis, ji veda prie ligų, ir panorėjus: "lai mano materija būna tokia, o šitokia lai mano materija nebūna", iš jos negalima to gauti.
 
-<!–break–>
+<!--break-->
 
 Jausmas yra ne-savastis...
 
