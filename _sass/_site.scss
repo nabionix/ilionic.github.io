@@ -13,6 +13,10 @@
 
 // Global Classes
 // --------------------------------------------------
+.dashed {
+	border-bottom: 1px dashed #999;
+	display: inline;
+}
 a.anchor{display: block; position: relative; top: -99px; visibility: hidden;}
 
 .wrap {

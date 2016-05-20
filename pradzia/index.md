@@ -5,5 +5,5 @@ description: ""
 category: "pradzia"
 comments: false
 image:
-  feature: buddha-wheel.jpg
+  feature: buddha4801.jpg
 ---

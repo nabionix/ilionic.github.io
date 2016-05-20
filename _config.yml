@@ -95,6 +95,9 @@ defaults:
     values:
       annotater:
         -
+          name: /Arahantas|arahant/
+          tooltip: "žmogus susidorojęs su visais teršalais, pasiekęs meditacijoje aukšiausio, t. y. nušvitimo; po mirties (parinibbānos) jis nebeatgims nei viename iš pasaulių."
+        -
           name: Buddha
           tooltip: "žmogus savarankiškai, be mokytojo, pasiekęs tobulo prabudimo"
         -
