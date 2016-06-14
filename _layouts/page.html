@@ -26,7 +26,6 @@
   <article class="hentry">
     <header class="header-title">
       <div class="header-title-wrap">
-        <h1 class="entry-title">{{ page.title }}</h1>
         <h2>{{ page.description }}</h2>
         {% if site.reading_time %}
         <p class="entry-reading-time">
@@ -55,6 +54,9 @@
 </div><!-- /.footer-wrapper -->
 
 {% include scripts.html %}
+{% if page.title != "Žodinėlis" %}
+  {% include annotations.html %}
+{% endif %}
 
 </body>
 </html>

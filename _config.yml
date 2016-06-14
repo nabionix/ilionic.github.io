@@ -87,28 +87,3 @@ titlecase: true
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
-
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      annotater:
-        -
-          name: /Arahantas|arahant/
-          tooltip: "žmogus susidorojęs su visais teršalais, pasiekęs meditacijoje aukšiausio, t. y. nušvitimo; po mirties (parinibbānos) jis nebeatgims nei viename iš pasaulių."
-        -
-          name: Buddha
-          tooltip: "žmogus savarankiškai, be mokytojo, pasiekęs tobulo prabudimo"
-        -
-          name: Dhamma
-          tooltip: "palikta ne versta kai reiškia Buddhos mokymą"
-        -
-          name: Saṅgaha
-          tooltip: "nusako Arijų (pasiekusių bent tam tikrą laipsnį prabudimo) žmonių bendrija ir vienuolių bendrija"
-        -
-          name: Nibbana
-          tooltip: "realybė esanti už proto-materijos ribų, visų užterštumų išnykimas, budistų kelio galutinis tikslas"
-        -
-          name: Arahat
-          tooltip: "žmogus pasiekęs tobulo prabudimo"
