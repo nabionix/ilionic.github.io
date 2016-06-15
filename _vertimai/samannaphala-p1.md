@@ -11,13 +11,11 @@ image:
 ---
 
 
-Atsiskyrimo vaisiai (DN 2)
-
-*Sāmaññaphalasuttaṃ *
+*Sāmaññaphalasuttaṃ*
 
 1. Ministrų kalba
 
-*Rājāmaccakathā *
+*Rājāmaccakathā*
 
 Taip aš girdėjau vieną kartą Palaimintasis buvo apsistojęs Radžagahoje Džyvakos Komarabhačos mangamedžių girioje kartu su didžiulę vienuolių sanghą, su tūkstančiu dviem šimtais penkiasdešimt vienuoliu. Tuo gi pat metu Magadhos karalius Adžatasatus Vedehiputa per uposathą*, per pilnatį, katikos** mėnesio 15-tą dieną, pilno mėnulio vakarą, apsuptas ministrų sėdėjo viršutiniame rūmų aukšte. Tada gi, per tą uposathą Magadhos karalius Adžatasatus Vedehiputa ištarė šiuos džiaugsmingus žodžius:
 
@@ -63,7 +61,7 @@ Kai tai buvo pasakyta, Magadhos karalius Adžatasatus Vedehiputa pratylėjo.
 
 2. Džyvakos Komarabhačos kalba
 
-*Komārabhaccajīvakakathā *
+*Komārabhaccajīvakakathā*
 
 Tuo gi pat metu Džyvaka Komarabhača sėdėjo netoli Magadhos karaliaus Adžatasatos Vedehiputos tylėdamas. Tada gi Magadhos karalius Adžatasatus Vedehiputa taip pasakė Džyvakai Komarabhačai:
 
@@ -87,7 +85,7 @@ Tada gi vidury mangų girios Magadhos karalių Adžatasatų Vedehiputą** **apė
 
 3. Klausimas apie atsiskyrimo vaisius
 
-*Sāmaññaphalapucchā *
+*Sāmaññaphalapucchā*
 
 Tada gi Magadhos karalius Adžatasatus Vedehiputa kiek buvo įmanoma nukeliavęs drambliu, nulipo nuo dramblio ir pėsčias nuėjo iki apskrito paviljono durų;** **atėjęs, taip pasakė Džyvakai Komarabhačai:
 
@@ -121,7 +119,7 @@ Tada gi Magadhos karalius Adžatasatus Vedehiputa pagerbė Palaimintąjį, pasve
 
 4. Pūranos Kasapos doktrina
 
-*Pūraṇakassapavādo *
+*Pūraṇakassapavādo*
 
 Štai vieną kartą, gerbiamasis, aš nuėjau pas Pūraną Kasapą, atėjęs apsikeičiau su juo mandagiais sveikinimais. Apsikeitus mandagiais sveikinimais ir draugiškais žodžiais atsisėdau iš šono. Sėdint gi iš šono aš, gerbiamasis, štai ką pasakiau Pūranai Kasapai:
 
@@ -135,7 +133,7 @@ Kaip paklaustas apie tai koks yra mangas, bet aprašęs duonmedžio vaisių, ar 
 
 5. Makhalio Gosalos doktrina
 
-*Makkhaligosālavādo *
+*Makkhaligosālavādo*
 
 Štai vieną kartą, gerbiamasis, aš nuėjau pas Makhalį Gosalą atėjęs apsikeičiau su juo mandagiais sveikinimais. Apsikeitus mandagiais sveikinimais ir draugiškais žodžiais atsisėdau iš šono. Sėdint gi iš šono aš, gerbiamasis, štai ką pasakiau Makhaliui Gosalai:
 
@@ -149,7 +147,7 @@ Kai tai buvo pasakyta, gerbiamasis, Makhalis Gosala man štai ką pasakė:
 
 6. Adžitos Kesakambalos doktrina
 
-*Ajitakesakambalavādo *
+*Ajitakesakambalavādo*
 
 Štai vieną kartą, gerbiamasis, aš nuėjau pas Adžitą Kesakambalą, atėjęs apsikeičiau su juo mandagiais sveikinimais. Apsikeitus mandagiais sveikinimais ir draugiškais žodžiais atsisėdau iš šono. Sėdint gi iš šono aš, gerbiamasis, štai ką pasakiau Adžitai Kesakambalai: －Na gi yra, gerbiamas Adžita įvairių amatų žmonės... Nagi ar įmanoma, gerbiamas Adžita, kad būtų nurodyti panašiai, čia pat ir iškart, regimi atsiskyrimo vaisiai?
 
@@ -161,7 +159,7 @@ Kai tai buvo pasakyta, gerbiamasis,** **Adžitas Kesakambalas man štai ką pasa
 
 7. Pakudhos Kačajanos doktrina
 
-*Pakudhakaccāyanavādo *
+*Pakudhakaccāyanavādo*
 
 Štai vieną kartą, gerbiamasis, aš nuėjau pas Pakudhą Kačajaną, atėjęs apsikeičiau su juo mandagiais sveikinimais. Apsikeitus mandagiais sveikinimais ir draugiškais žodžiais atsisėdau iš šono. Sėdint gi iš šono aš, gerbiamasis, štai ką pasakiau Pakudhai Kačajanai:
 
@@ -175,7 +173,7 @@ Kai tai buvo pasakyta, gerbiamasis, Pakudha Kačajana man štai ką pasakė:** *
 
 8. Niganthos Nataputos doktrina
 
-*Nigaṇṭhanāṭaputtavādo *
+*Nigaṇṭhanāṭaputtavādo*
 
 Štai vieną kartą, gerbiamasis,** **aš nuėjau pas Niganthą Nataputą, atėjęs apsikeičiau su juo mandagiais sveikinimais. Apsikeitus maloniais sveikinimais ir draugiškais žodžiais atsisėdau iš šono.** **Sėdint gi iš šono aš, gerbiamasis, štai ką pasakiau Niganthai Nataputai:
 
@@ -189,7 +187,7 @@ Kai tai buvo pasakyta, gerbiamasis, Nigantha Nataputa man štai ką pasakė:** *
 
 9. Sančajos Belathaputos doktrina
 
-*Sañcayabelaṭṭhaputtavādo *
+*Sañcayabelaṭṭhaputtavādo*
 
 Štai vieną kartą, gerbiamasis,** **aš nuėjau pas Sančają Belathaputą, atėjęs apsikeičiau su juo mandagiais sveikinimais. Apsikeitus mandagiais sveikinimais ir draugiškais žodžiais atsisėdau iš šono. Sėdint gi iš šono aš, gerbiamasis, štai ką pasakiau Sančajai Belathaputai:
 
@@ -203,7 +201,7 @@ Kai tai buvo pasakyta, gerbiamasis, Sančaja Belathaputa man štai ką pasakė:
 
 10. Pirmasis čia pat ir iškart regimas atsiskyrimo vaisius
 
-*Paṭhamasandiṭṭhikasāmaññaphalaṃ *
+*Paṭhamasandiṭṭhikasāmaññaphalaṃ*
 
 Tai aš, gerbiamasis, Palaimintojo taip pat paklausiu: "Na gi yra, gerbiamasis,** **įvairių amatų žmonės, tokie kaip: dramblių treneriai, arklių treneriai, kavalerijos kariai, lankininkai, vėliavininkai, maršalai atsakingieji už proviziją, didieji karininkai, žvalgai, narsuoliai, herojai, šarvuoti raiteliai, vergai, virėjai, kirpėjai, pirtininkai, konditeriai, floristai, skalbėjai, audėjai, krepšių pynėjai, puodžiai, matematikai, buhalteriai, ir bet kokie kiti panašaus pobūdžio amatininkai, jie pragyvena iš čia pat ir iškart matomų tų amatų vaisių;** **taip jie neša laimę ir džiaugsmą sau, taip jie neša laimę ir džiaugsmą tėvams, taip jie neša laimę ir džiaugsmą žmonai ir vaikams, taip jie neša laimę ir džiaugsmą draugams, jie įsteigia dvasiškai naudingus aukojimus, dovanas atsiskyrėliams ir brahmanams, kurie veda į dangiškas karalystes, duoda palaimingus rezultatus, atgimimą danguje. Nagi ar įmanoma, gerbiamasis, kad būtų nurodyti panašiai, čia pat ir iškart, regimi atsiskyrimo vaisiai?"
 
@@ -217,7 +215,7 @@ Tai aš, gerbiamasis, Palaimintojo taip pat paklausiu: "Na gi yra, gerbiamasis,*
 
 11. Antrasis čia pat ir iškart regimas atsiskyrimo vaisius
 
-*Dutiyasandiṭṭhikasāmaññaphalaṃ *
+*Dutiyasandiṭṭhikasāmaññaphalaṃ*
 
 －Na bet ar įmanoma, gerbiamasis, kad būtų nurodytas kitas panašiai, čia pat ir iškart, regimas atsiskyrimo vaisius?
 
@@ -233,7 +231,7 @@ Tai aš, gerbiamasis, Palaimintojo taip pat paklausiu: "Na gi yra, gerbiamasis,*
 
 12. Puikesnis atsiskyrimo vaisius
 
-*Paṇītatarasāmaññaphalaṃ *
+*Paṇītatarasāmaññaphalaṃ*
 
 －Na bet ar įmanoma, gerbiamasis,** **kad būtų nurodytas kitas, čia pat ir iškart regimas atsiskyrimo vaisius, nuostabesnis ir puikesnis už šiuos čia pat ir iškart regimus atsiskyrimo vaisius?** **
 
@@ -253,7 +251,7 @@ Jis, taip žengęs priekin, gyvena susitvardęs patimokhos**** laikymusi, pasiž
 
 13. Mažoji dorovė
 
-*Cūḷasīlaṃ *
+*Cūḷasīlaṃ*
 
 Ir kaip, karaliau, vienuolis pasižymi dorove? Štai, karaliau, vienuolis, atsisakęs žudymo,** **susilaiko nuo žudymo. Atidėjęs lazdą, atidėjęs ginklus, yra kuklus,** **gailiaširdis, gyvena su gailesčiu visoms gyvoms būtybėms. Tai irgi yra jo dorovė.
 
@@ -273,7 +271,7 @@ Jis susilaiko nuo visų rūšių sėklų ir augmenijos žalojimo... valgo kartą
 
 14. Vidutinė dorovė
 
-*Majjhimasīlaṃ *
+*Majjhimasīlaṃ*
 
 Tuomet kai vieni gerbiami atsiskyrėliai ir brahmanai suvalgę maistą duotą [jiems] iš tikėjimo gyvena žalodami visokių rūšių sėklas ir augmeniją, t.y. tai kas dauginasi penkias būdais: šaknimis, ūsais, pumpurais, ūgliais ir** **sėklomis; jis susilaiko nuo visų rūšių sėklų ir augmenijos žalojimo. Tai irgi yra jo dorovė.
 
@@ -297,7 +295,7 @@ Tuomet kai vieni gerbiami atsiskyrėliai ir brahmanai suvalgę maistą duotą [j
 
 15. Didžioji dorovė
 
-*Mahāsīlaṃ *
+*Mahāsīlaṃ*
 
 Tuomet kai vieni gerbiami atsiskyrėliai ir brahmanai suvalgę maistą duotą [jiems] iš tikėjimo naudojasi neteisingu pragyvenimo šaltiniu - žemu menu, tokiu kaip: būrimas ir pranašavimas iš galūnių, ženklų, dangaus reiškinių, sapnų, kūno bruožų, pelių nuograužų; aukojimas ugnies, ryžių dulkių, pelų, raudonų ryžių dulkių, ryžių, lydyto sviesto, aliejaus, garstyčių sėklų, kraujo; chiromantija, energetika, politologija, užbūrimas, dvasių valdymas, žeminių mokslas, gyvačių kerėjimas, nuodų mokslas, skorpionų menas, pelių menas, paukščių menas, varnų menas, gyvenimo trukmės pranašavimas, apsauga nuo strėlių, gyvūnų kalbos žinojimas, jis susilaiko nuo neteisingo pragyvenimo šaltinio - žemo meno. Tai irgi yra jo dorovė.
 
@@ -317,18 +315,18 @@ Karaliau, vienuolis pasižymintis tokia dorove, t. y. susitvardęs dorove, nieku
 
 16.** **Juslinių gebėjimų sutvardymas
 
-*Indriyasaṃvaro *
+*Indriyasaṃvaro*
 
 Ir kaip, karaliau, vienuolis apsisaugoja juslinių gebėjimų duris? Štai, karaliau, vienuolis akimis pamatęs formą, nebando pagauti nei [jos] bruožų, nei smulkių detalių. Gyvenant nesutvardžius akių juslinį gebėjimą, gali įtekėti godulys, nusiminimas, blogos, nedoros būsenos, todėl jis žengia susitvardymo keliu, saugo akių juslinį gebėjimą, susitvardo akių juslinio gebėjimo atžvilgiu. Ausimis išgirdęs garsą… nosimi užuodęs kvapą…liežuviu pajutęs skonį... kūnu palietęs apčiuopiamą, protu pažinęs reiškinį nebando pagauti nei [jo] bruožų, nei smulkių detalių. Gyvenant nesutvardžius proto juslinį gebėjimą gali įtekėti godulys, nusiminimas, blogos, nedoros būsenos,** **todėl jis žengia susitvardymo keliu, saugo proto juslinį gebėjimą, susitvardo proto juslinio gebėjimo atžvilgiu. Įgijęs šį taurųjį juslinių gebėjimų sutvardymą, jis jaučia vidinį neliečiamumo [teršalais] džiaugsmą. Štai taip, karaliau, vienuolis apsisaugoja juslinių gebėjimų duris.
 
 17. Sąmoningumas ir aiškus supratimas
 
-*Satisampajaññaṃ *
+*Satisampajaññaṃ*
 
 Ir kaip, karaliau, vienuolis yra išsivystęs sąmoningumą ir aiškų supratimą? Štai, karaliau, vienuolis, kai eina į priekį ir kai eina atgal, daro tai aiškiai suprasdamas,** **kai žiūri į priekį ir kai žiūri į šalis, daro tai aiškiai suprasdamas, kai sulenkia ir kai ištiesia [galūnes], daro tai aiškiai suprasdamas, kai dėvi apdarus ir kai neša dubenį aukoms, daro tai aiškiai suprasdamas, kai valgo, geria, kramto ir kai ragauja, daro tai aiškiai suprasdamas, kai tuštinasi ir kai šlapinasi, daro tai aiškiai suprasdamas, kai eina, stovi, sėdi, guli, pabunda, kalba ir kai tyli, daro tai aiškiai suprasdamas. Štai taip, karaliau, vienuolis yra išsivystęs sąmoningumą ir aiškų supratimą.
 
 18. Pasitenkinimas
 
-*Santoso *
+*Santoso*
 
 Ir kaip, karaliau, vienuolis yra pasitenkinęs? Štai, karaliau, vienuolis yra patenkintas kūną apsaugojančiu apdaru ir paaukotu maistu skrandžiui palaikyti.** **Kur jis beeitų, jis išvyksta pasiėmęs tik [juos]. Panašiai kaip bet kur vykstant, vienintelė** **sparnuoto paukščio našta yra sparnai, lygiai taip vienuolis yra patenkintas kūną apsaugojančiu apdaru ir paaukotu maistu skrandžiui palaikyti－bet kur einant, jis išvyksta pasiėmęs tik juos. Štai taip, karaliau, vienuolis yra pasitenkinęs.
