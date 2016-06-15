@@ -7,6 +7,35 @@ image:
   feature: headers/pali-0.jpg
 ---
 
+
+<article>
+  <h2 class="tag-heading">Ilgos suttos (Dīghanikāyo, DN)</h2>
+  <ul>
+    {% assign category = site.vertimai | where: "category","ilgos suttos" %}
+    {% for post in category %}
+      <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</article>
+
+<article>
+  <h2 class="tag-heading">Vidutinio ilgio suttos (Majjhimanikāyo, MN)</h2>
+</article>
+
+<article>
+  <h2 class="tag-heading">Surištos suttos (Saṃyuttanikāyo, SN)</h2>
+  <ul>
+    {% assign category = site.vertimai | where: "category","suristos suttos" %}
+    {% for post in category %}
+      <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</article>
+
+<article>
+  <h2 class="tag-heading">Palaipsninės suttos (Aṅguttaranikāyo, AN)</h2>
+</article>
+
 <!-- {% capture site_tags %}{% for tag in site[vertimai].tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %} -->
 <!-- {% assign tags_list = site_tags | split:',' | sort %} -->
 <!-- Create empty arrays -->
