@@ -20,6 +20,12 @@ image:
 
 <article>
   <h2 class="tag-heading">Vidutinio ilgio suttos (Majjhimanikāyo, MN)</h2>
+  <ul>
+    {% assign category = site.vertimai | where: "category","vidutinio" %}
+    {% for post in category %}
+      <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
 </article>
 
 <article>
@@ -34,8 +40,16 @@ image:
 
 <article>
   <h2 class="tag-heading">Palaipsninės suttos (Aṅguttaranikāyo, AN)</h2>
+  <ul>
+    {% assign category = site.vertimai | where: "category","palaipsnines" %}
+    {% for post in category %}
+      <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
 </article>
 
+
+<h1 class="text-center">Suttų indeksas</h1>
 <!-- {% capture site_tags %}{% for tag in site[vertimai].tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %} -->
 <!-- {% assign tags_list = site_tags | split:',' | sort %} -->
 <!-- Create empty arrays -->

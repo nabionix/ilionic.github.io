@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Sāmaññaphalasuttaṃ Atsiskyrimo vaisiai (DN 2) part 4"
+title: "Sāmaññaphalasuttaṃ Atsiskyrimo vaisiai (DN 2) dalis 4"
 description: ""
 tags: [S]
 index: "S"
@@ -264,3 +264,5 @@ image:
 ******Naga - vienos žemesnės dėvų klasės būtybė; panašaus į gyvatę pavidalo; dažnai turi antgamtinių galių ir pasižymi didžia stiprybe.*
 
 *******Patimokha (Pātimokkha) - pagrindinės vienuolių elgesio taisyklės, kurių skaičius yra 227 vyrams ir 311 moterims.*
+
+<a href="../samannaphala-p3" class="btn btn-primary btn-prev">← Prev</a>

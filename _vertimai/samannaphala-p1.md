@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Sāmaññaphalasuttaṃ Atsiskyrimo vaisiai (DN 2) part 1"
+title: "Sāmaññaphalasuttaṃ Atsiskyrimo vaisiai (DN 2) dalis 1"
 description: ""
 tags: [S]
 index: "S"
@@ -330,3 +330,5 @@ Ir kaip, karaliau, vienuolis yra išsivystęs sąmoningumą ir aiškų supratim�
 *Santoso*
 
 Ir kaip, karaliau, vienuolis yra pasitenkinęs? Štai, karaliau, vienuolis yra patenkintas kūną apsaugojančiu apdaru ir paaukotu maistu skrandžiui palaikyti.** **Kur jis beeitų, jis išvyksta pasiėmęs tik [juos]. Panašiai kaip bet kur vykstant, vienintelė** **sparnuoto paukščio našta yra sparnai, lygiai taip vienuolis yra patenkintas kūną apsaugojančiu apdaru ir paaukotu maistu skrandžiui palaikyti－bet kur einant, jis išvyksta pasiėmęs tik juos. Štai taip, karaliau, vienuolis yra pasitenkinęs.
+
+<a href="../samannaphala-p2" class="btn btn-primary btn-next">Next →</a>

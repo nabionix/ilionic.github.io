@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Sāmaññaphalasuttaṃ Atsiskyrimo vaisiai (DN 2) part 3"
+title: "Sāmaññaphalasuttaṃ Atsiskyrimo vaisiai (DN 2) dalis 3"
 description: ""
 tags: [S]
 index: "S"
@@ -201,3 +201,7 @@ image:
 **29. Pubbenivāsānussatiñāṇaṃ** Praeitų gyvenimų prisiminimo pažinimas
 
 **244. "So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte** Jis būdamas su taip sutelktu, taip išgrynintu, apvalytu, nesuteptu, be nežymių teršalų, lanksčiu, tinkamu darbui, pasiekusiu nesutrikdomą [būseną] protu **pubbenivāsānussatiñāṇāya cittaṃ abhinīharati abhininnāmeti.** nukreipia, pasuka protą link praeitų gyvenimų prisiminimo žinojimo. **So anekavihitaṃ pubbenivāsaṃ anussarati, seyyathidaṃ –** Jis prisimena daugelį praeitų gyvenimų, t. y.: **ekampi jātiṃ dvepi jātiyo** vieną gimimą, du gimimus, **tissopi jātiyo catassopi jātiyo pañcapi jātiyo** tris gimimus, keturis gimimus, penkis gimimus, **dasapi jātiyo vīsampi jātiyo tiṃsampi** dešimt gimimų, dvidešimt gimimų, trisdešimt gimimų, **jātiyo cattālīsampi jātiyo paññāsampi jātiyo** keturiasdešimt gimimų, penkiasdešimt gimimų, **jātisatampi jātisahassampi jātisatasahassampi** šimtą gimimų, tūkstantį gimimų, šimtą tūkstančių gimimų, **anekepi saṃvaṭṭakappe anekepi vivaṭṭakappe** daugybę vystymosi erų, daugybę nykimo erų **anekepi** **saṃvaṭṭavivaṭṭakappe**, daugybę vystymosi-nykimo erų **‘amutrāsiṃ evaṃnāmo evaṃgotto evaṃvaṇṇo** "buvau toks ir toks, tokiu vardu, tokios giminės, tokios išvaizdos, **evamāhāro evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto,** valgiau taip, patyriau tokius džiaugsmus ir skausmus, gyvenau tiek metų, **so tato cuto amutra udapādiṃ;** ten miręs, atgimiau štai ten; **tatrāpāsiṃ** **evaṃnāmo evaṃgotto evaṃvaṇṇo** toliau buvau ten, tokiu vardu, tokios giminės, tokios išvaizdos, **evamāhāro evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto,** valgiau taip, patyriau tokius džiaugsmus ir skausmus, gyvenau tiek metų, **so tato cuto idhūpapanno’ti.** ten miręs, atgimiau čia". **Iti sākāraṃ sauddesaṃ anekavihitaṃ pubbenivāsaṃ anussarati.** Taip jis išsamiai, su buitiškomis detalėmis prisimena daugelį praeitų gyvenimų.
+
+
+<a href="../samannaphala-p2" class="btn btn-primary btn-prev">← Prev</a>
+<a href="../samannaphala-p4" class="btn btn-primary btn-next">Next →</a>
