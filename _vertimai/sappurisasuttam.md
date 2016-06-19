@@ -6,6 +6,7 @@ tags: [S]
 index: "S"
 comments: false
 category: "palaipsnines"
+sortIndex: 726
 image:
   feature: abstract-2.jpg
 ---

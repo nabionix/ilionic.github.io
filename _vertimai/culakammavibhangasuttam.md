@@ -6,6 +6,7 @@ tags: [C]
 index: "C"
 comments: false
 category: "vidutinio"
+sortIndex: 345
 image:
   feature: abstract-2.jpg
 ---

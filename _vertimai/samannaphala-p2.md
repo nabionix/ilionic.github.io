@@ -1,10 +1,12 @@
 ---
 layout: page
-title: "Sāmaññaphalasuttaṃ Atsiskyrimo vaisiai (DN 2) dalis 2"
+title: "Sāmaññaphalasuttaṃ Atsiskyrimo vaisiai (DN 2)"
 description: ""
 tags: [S]
 index: "S"
 comments: false
+parts: [1,2,3,4]
+hideIndex: true
 category: "ilgos suttos"
 image:
   feature: abstract-2.jpg

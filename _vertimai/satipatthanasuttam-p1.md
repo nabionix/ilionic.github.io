@@ -1,11 +1,13 @@
 ---
 layout: page
-title: "Satipaṭṭhānasuttaṃ (MN I.i.10) dalis 1"
+title: "Satipaṭṭhānasuttaṃ (MN I.i.10)"
 description: ""
 tags: [S]
 index: "S"
+parts: [1,2]
 comments: false
 category: "vidutinio"
+sortIndex: 110
 image:
   feature: abstract-2.jpg
 ---

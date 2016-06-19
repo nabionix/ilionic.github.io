@@ -1,11 +1,13 @@
 ---
 layout: page
-title: "Mahāsatipaṭṭhānasuttaṃ Keturi sąmoningumo įsteigimai (DN 19) dalis 1"
+title: "Mahāsatipaṭṭhānasuttaṃ Keturi sąmoningumo įsteigimai (DN 19)"
 description: ""
 tags: [M]
 index: "M"
 comments: false
+parts: [1,2]
 category: "ilgos suttos"
+sortIndex: 19
 image:
   feature: abstract-2.jpg
 ---

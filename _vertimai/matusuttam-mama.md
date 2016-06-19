@@ -4,6 +4,7 @@ title: "Mātusuttaṃ (Mama, SN II.IV.ii.4)"
 description: ""
 tags: [M]
 index: "M"
+sortIndex: 2424
 comments: false
 category: "suristos suttos"
 image:
