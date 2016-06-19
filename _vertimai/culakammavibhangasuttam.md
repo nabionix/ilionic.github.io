@@ -21,7 +21,7 @@ Vieną kartą Palaimintasis buvo apsistojęs Savathėje, Džėtos girioje, Anath
 —Kokia gi yra priežastis, gerbiamasis Gotama, kas sąlygoja žemesnių ir viršesnių žmonių buvimą, [tokių] žmonių matymą? Gi matomi žmonės kurių gyvenimas trumpas, matomi ilgaamžiai; matomi linkę sirgti, matomi stiprios sveikatos, negražūs, gražūs, [žmonės] be įtakos, įtakingi, vargšai, turtuoliai, prasčiokai, aukštuomenės žmonės, matomi kvaili, matomi išmintingi. Kokia gi yra priežastis, gerbiamasis Gotama, kas sąlygoja žemesnių ir viršesnių žmonių buvimą, [tokių] žmonių matymą?
 
 —Jaunuoli, būtybės yra veiksmų savininkai, veiksmų įpėdiniai, veiksmai yra jų pradėjimas, jų giminės, būtybės yra [savo] veiksmų prieglobstyje. Veiksmai yra tai kas suskirsto būtybes į žemesnes ir viršesnes.
-
+<!--break-->
 —Na ne suprantu aš tikslios prasmės šios Gerbiamojo Gotamos trumpos, neišreiškiančios tikslios prasmės kalbos. Būtų gerai, jei Gerbiamasis Gotama pamokytų manęs Dhammos taip, kad aš suprasčiau tikslią prasmę šios Gerbiamojo Gotamos trumpos, neišreiškiančios tikslios prasmės kalbos.
 
 —Na tada, jaunuolį, klausyki, sutelki visą dėmesį, kalbėsiu.
