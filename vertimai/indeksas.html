@@ -38,7 +38,7 @@ image:
   <ul>
     {% assign category = site.vertimai | where: "category","vidutinio" | sort: 'sortIndex' %}
     {% for post in category %}
-      {% unless post.title == previousTitle %}
+      {% unless post.hideIndex %}
         <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
           {% if post.parts %}
             [
@@ -54,7 +54,6 @@ image:
           {% endif %}
         </li>
       {% endunless %}
-      {% assign previousTitle = post.title %}
     {% endfor %}
   </ul>
 </article>
@@ -108,7 +107,22 @@ image:
     {% assign tagPosts = site.vertimai | where: "index",this_word %}
 
     {% for post in tagPosts %}{% if post.title != null %}
-        <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+        {% unless post.hideIndex %}
+        <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+        {% if post.parts %}
+          [
+          {% for part in post.parts %}
+            {% capture postNum %}-p{{ part }}{% endcapture %}
+            {% assign postName = post.url | replace: '-p1', postNum %}
+            <a href="{{ site.url }}{{ postName }}" title="{{ post.title }}">dalis {{ part }}</a>
+            {% if part != post.parts.size %}
+            |
+            {% endif %}
+          {% endfor %}
+          ]
+        {% endif %}
+        </li>
+        {% endunless %}
     {% endif %}{% endfor %}
 		</ul>
 	</article><!-- /.hentry -->
