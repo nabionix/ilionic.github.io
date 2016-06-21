@@ -1,26 +1,29 @@
 ---
 layout: page
-title: "Mahāsatipaṭṭhānasuttaṃ Keturi sąmoningumo įsteigimai (DN 19)"
-description: ""
-tags: [M]
-index: "M"
+title: Mahāsatipaṭṭhānasuttaṃ Keturi sąmoningumo įsteigimai (DN 19)
+tags:
+  - M
+index: M
 comments: false
-parts: [1,2]
-category: "ilgos suttos"
+parts:
+  - 1
+  - 2
+category: ilgos suttos
 sortIndex: 19
 image:
   feature: abstract-2.jpg
+published: true
 ---
 
 Keturi sąmoningumo įsteigimai (DN 19)
 
-*Mahāsatipaṭṭhānasuttaṃ *
+*Mahāsatipaṭṭhānasuttaṃ*
 
 Taip aš girdėjau: vieną kartą Palaimintasis buvo apsistojęs Kurų šalyje** **Kurų kaime pavadinimu Kamasadhama. Tada gi Palaimintasis kreipėsi į vienuolius:** **"Vienuoliai!"** **“Gerbiamasis,”-** **atsakė tie vienuoliai Palaimintajam.** **Palaimintasis pasakė štai ką:
 
 Teiginys
 
-*Uddeso *
+*Uddeso*
 
 －Vienuoliai, šis yra tiesioginis kelias į būtybių apsivalymą, liūdesio ir raudojimo įveikimą, skausmo ir nusiminimo išnykimą, žinojimo pasiekimą,** **Nirvanos patyrimą.** **Tai yra keturi sąmoningumo įsteigimai.
 
