@@ -1,14 +1,15 @@
 ---
 layout: page
-title: "Anattalakkhaṇasuttaṃ (Nesavastingumo bruožas, (SNIII.I.vi.7)"
-description: ""
-tags: [A]
+title: 'Anattalakkhaṇasuttaṃ (Nesavastingumo bruožas, (SNIII.I.vi.7)'
+tags:
+  - A
 comments: false
-index: "A"
-category: "suristos suttos"
+index: A
+category: suristos suttos
 sortIndex: 3167
 image:
   feature: abstract-2.jpg
+published: true
 ---
 
 Vieną kartą Palaimintasis buvo apsistojęs Varanasyje Išminčių vietovėje Elnių parke. Tada gi Palaimintasis kreipėsi į vienuolių penketuką:
@@ -19,7 +20,7 @@ Vieną kartą Palaimintasis buvo apsistojęs Varanasyje Išminčių vietovėje E
 
 Palaimintasis štai ką pasakė:
 
-— Materija, vienuoliai, yra ne-savastis. Nes jeigu materija būtų savastimi, ji nevestų prie ligų, ir panorėjus: "lai mano materija būna tokia, o šitokia lai mano materija nebūna", iš jos galima būtų tai gauti. Bet dėl to gi, vienuoliai, kad materija yra ne-savastis, ji veda prie ligų, ir panorėjus: "lai mano materija būna tokia, o šitokia lai mano materija nebūna", iš jos negalima to gauti.
+**— Materija, vienuoliai, yra ne-savastis. Nes jeigu materija būtų savastimi, ji nevestų prie ligų, ir panorėjus: "lai mano materija būna tokia, o šitokia lai mano materija nebūna", iš jos galima būtų tai gauti. Bet dėl to gi, vienuoliai, kad materija yra ne-savastis, ji veda prie ligų, ir panorėjus: "lai mano materija būna tokia, o šitokia lai mano materija nebūna", iš jos negalima to gauti.**
 
 <!--break-->
 
@@ -67,7 +68,7 @@ Sąmonė yra ne-savastis. Nes jeigu sąmonė, vienuoliai, būtų savastimi, ši 
 
 — Tikrai ne, Gerbiamasis.
 
-— Todėl, vienuoliai, bet kokia materija: ar tai praeityje, dabar, ar ateityje, ar vidinė, ar išorinė, ar akivaizdi, ar subtili, ar žemesnė, ar viršesnė, ar toli, ar arti - visa materija, "nėra mano, nėra 'aš', nėra manasis 'aš'". Tas su teisinga išmintimi turi būti pamatyta taip, kaip tai iš tiesų yra.
+**— Todėl, vienuoliai, bet kokia materija: ar tai praeityje, dabar, ar ateityje, ar vidinė, ar išorinė, ar akivaizdi, ar subtili, ar žemesnė, ar viršesnė, ar toli, ar arti - visa materija, "nėra mano, nėra 'aš', nėra manasis 'aš'". Tas su teisinga išmintimi turi būti pamatyta taip, kaip tai iš tiesų yra.**
 
 Bet koks jausmas ...
 
