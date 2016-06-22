@@ -1,22 +1,25 @@
 ---
 layout: page
-title: "Sāmaññaphalasuttaṃ Atsiskyrimo vaisiai (DN 2)"
-description: ""
-tags: [S]
-parts: [1,2,3,4]
-index: "S"
+title: Sāmaññaphalasuttaṃ Atsiskyrimo vaisiai (DN 2)
+tags:
+  - S
+parts:
+  - 1
+  - 2
+  - 3
+  - 4
+index: S
 comments: false
 hideIndex: true
-category: "ilgos suttos"
+category: ilgos suttos
 image:
   feature: abstract-2.jpg
+published: true
 ---
 
 **9. Sañcayabelaṭṭhaputtavādo** Sančajos Belathaputos doktrina
 
 **179. "Ekamidāhaṃ, bhante, samayaṃ** Štai vieną kartą, gerbiamasis, **yena sañcayo belaṭṭhaputto tenupasaṅkamim;** aš nuėjau pas Sančają Belathaputą **upasaṅkamitvā sañcayena belaṭṭhaputtena saddhiṃ sammodiṃ.** atėjęs pas Sančają Belathaputą apsikeičiau su juo mandagiais sveikinimais. **Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdiṃ.** Apsikeitus mandagiais sveikinimais ir draugiškais žodžiais atsisėdau iš šono. **Ekamantaṃ nisinno kho ahaṃ, bhante, sañcayaṃ belaṭṭhaputtaṃ etadavocaṃ –** Sėdint gi iš šono aš, gerbiamasis, štai ką pasakiau Sančajai Belathaputai: **‘yathā nu kho imāni, bho sañcaya,** Na gi yra, gerbiamas Sančaja, **puthusippāyatanāni…pe…** įvairių amatų žmonės... **Sakkā nu kho, bho sañcaya,** Nagi ar įmanoma, gerbiamas Sančaja, **evameva diṭṭheva dhamme sandiṭṭhikaṃ sāmaññaphalaṃ paññapetu"nti?** kad būtų nurodyti panašiai, čia pat ir iškart, regimi atsiskyrimo vaisiai?"
-
-<!--break-->
 
 **180. "Evaṃ vutte, bhante,** "Kai tai buvo pasakyta, gerbiamasis, **sañcayo belaṭṭhaputto maṃ etadavoca –** Sančaja Belathaputa man štai ką pasakė:** ‘atthi paro lokoti iti ce maṃ pucchasi,** "Jei manęs paklaustum, ar yra kitas pasaulis, **atthi paro lokoti iti ce me assa,** ir aš manyčiau, kad yra kitas pasaulis, **atthi paro lokoti iti te naṃ byākareyyaṃ.** aš pasakyčiau, kad yra kitas pasaulis. **Evantipi me no, tathātipi me no, aññathātipi me no, notipi me no, no notipi me no.** Bet aš nemanau, kad 'taip' ir nemanau, kad 'panašiai', nemanau, kad 'kitaip' ir nemanau, kad 'ne', nemanau, kad ne 'ne'. **Natthi paro loko…pe…**Nėra kito pasaulio... **atthi ca natthi ca paro loko…pe…** Yra ir nėra kito pasaulio... **nevatthi na natthi paro loko…pe…**Nei yra, nei nėra kito pasaulio... **atthi sattā opapātikā…pe…** Yra savaime gimusios būtybės... **natthi sattā opapātikā…pe…** Nėra savaime gimusių būtybių... **atthi ca natthi ca sattā opapātikā…pe…** Yra ir nėra savaime gimusių būtybių... **nevatthi na natthi sattā opapātikā…pe…** Nei yra, nei nėra savaime gimusių būtybių... **atthi sukatadukkaṭānaṃ kammānaṃ phalaṃ vipāko…pe…** Geri ir blogi veiksmai duoda vaisių, rezultatų... **natthi sukatadukkaṭānaṃ kammānaṃ phalaṃ vipāko...pe…** Geri ir blogi veiksmai neduoda vaisių, rezultatų…**atthi ca natthi ca sukatadukkaṭānaṃ kammānaṃ phalaṃ vipāko…pe…** Geri ir blogi veiksmai ir duoda, ir neduoda vaisių, rezultatų… **nevatthi na natthi sukatadukkaṭānaṃ kammānaṃ phalaṃ vipāko…pe…** Geri ir blogi veiksmai nei duoda, nei neduoda vaisių, rezultatų… **hoti tathāgato paraṃ [59] maraṇā…pe…** Tathagata egzistuoja po mirties... **na hoti tathāgato paraṃ maraṇā…pe…** Tathagata neegzistuoja po mirties... **hoti ca na ca hoti tathāgato paraṃ maraṇā…pe…** Tathāgata ir egzistuoja, ir neegzistuoja po mirties... **neva hoti na na hoti tathāgato paraṃ maraṇāti** Tathagata nei egzistuoja, nei neegzistuoja po mirties" **iti ce maṃ pucchasi,** jei manęs paklaustum **neva hoti na na hoti tathāgato paraṃ maraṇāti iti ce me assa,** ir aš manyčiau, kad Tathagata nei egzistuoja, nei neegzistuoja po mirties, **neva hoti na na hoti tathāgato paraṃ maraṇāti iti te naṃ byākareyyaṃ.** aš pasakyčiau, kad Tathagata nei egzistuoja, nei neegzistuoja po mirties. **Evantipi Evantipi me no, tathātipi me no, aññathātipi me no, notipi me no, no notipi me no’ti.** Bet aš nemanau, kad 'taip' ir nemanau, kad 'panašiai', nemanau, kad 'kitaip' ir nemanau, kad 'ne', nemanau, kad ne 'ne'.
 
