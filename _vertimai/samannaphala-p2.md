@@ -1,15 +1,20 @@
 ---
 layout: page
-title: "Sāmaññaphalasuttaṃ Atsiskyrimo vaisiai (DN 2)"
-description: ""
-tags: [S]
-index: "S"
+title: Sāmaññaphalasuttaṃ Atsiskyrimo vaisiai (DN 2)
+tags:
+  - S
+index: S
 comments: false
-parts: [1,2,3,4]
+parts:
+  - 1
+  - 2
+  - 3
+  - 4
 hideIndex: true
-category: "ilgos suttos"
+category: ilgos suttos
 image:
   feature: abstract-2.jpg
+published: true
 ---
 
 
@@ -159,19 +164,12 @@ Tada gi, netrukus po Magadhos karaliaus Adžatasataus Vedehiputos išvykimo, Pal
 
 Tai pasakė Palaimintasis. Pamaloninti vienuoliai džiaugėsi Palaimintojo kalba.
 
-****Uposatha - religinių apeigų dienos išpuolančios per mėnulio mėnesio pilnatį, jaunatį ir delčią.*
-
-*****Katika (kattik**ā**) - lapkričio mėnuo.*
-
-******naga - vienos žemesnės dėvų klasės būtybė; panašaus į gyvatę pavidalo; dažnai turi antgamtinių galių ir pasižymi didžia stiprybe.*
-
-*******Patimokha (Pātimokkha) - pagrindinės vienuolių elgesio taisyklės, kurių skaičius yra 227 vyrams ir 311 moterims.*
 
 **Sāmaññaphalasuttaṃ** Atsiskyrimo vaisių sutta (DN 2)
 
 **1. Rājāmaccakathā** Ministrų kalba
 
-**150. Evaṃ [47] me sutaṃ –** Taip aš girdėjau **ekaṃ samayaṃ bhagavā** vieną kartą Palaimintasis **rājagahe viharati jīvakassa komārabhaccassa ambavane** buvo apsistojęs Radžagahoje Džyvakos Komarabhačos mangų girioje **mahatā bhikkhusaṅghena saddhiṃ aḍḍhateḷasehi bhikkhusatehi** kartu su didžiulę vienuolių sanghą, su tūkstančiu dviem šimtais ir penkiasdešimt vienuoliu. **Tena kho pana samayena **Tuo gi pat metu **rājā māgadho ajātasattu vedehiputto** Magadhos karalius Adžatasatus Vedehiputa **tadahuposathe pannarase** 15-tos dienos uposathos*, **komudiyā cātumāsiniyā** katika** mėnesio **puṇṇāya puṇṇamāya rattiyā** pilnaties, pilno mėnulio vakarą **rājāmaccaparivuto uparipāsādavaragato nisinno hoti** apsuptas ministrų sėdėjo viršutiniame rūmų aukšte. **Atha kho rājā māgadho ajātasattu vedehiputto tadahuposathe** Tada gi, per tą Uposathą Magadhos karalius Adžatasatus Vedehiputa **udānaṃ udānesi –** ištarė šiuos džiaugsmingus žodžius:** "ramaṇīyā vata bho dosinā ratti,** "O, koks žavingas pilnaties vakaras, draugai, **abhirūpā vata bho dosinā ratti,** o, koks nuostabus pilnaties vakaras, draugai, **dassanīyā vata bho dosinā ratti,** o, koks gražus pilnaties vakaras, draugai, **pāsādikā vata bho dosinā ratti,** o, koks romus pilnaties vakaras, draugai, **lakkhaññā vata bho dosinā ratti.** o, koks daug žadantis pilnaties vakaras, draugai! **Kaṃ nu khvajja samaṇaṃ vā brāhmaṇaṃ vā payirupāseyyāma,** Kokį tokį atsiskyrėlį ar brahmaną šiandien galėtume aplankyti, **yaṃ no payirupāsato cittaṃ pasīdeyyā"ti?** kurį paklausius mūsų protas būtų nuramintas.
+**150. Evaṃ [47] me sutaṃ –** Taip aš girdėjau **ekaṃ samayaṃ bhagavā** vieną kartą Palaimintasis **rājagahe viharati jīvakassa komārabhaccassa ambavane** buvo apsistojęs Radžagahoje Džyvakos Komarabhačos mangų girioje **mahatā bhikkhusaṅghena saddhiṃ aḍḍhateḷasehi bhikkhusatehi** kartu su didžiulę vienuolių sanghą, su tūkstančiu dviem šimtais ir penkiasdešimt vienuoliu. **Tena kho pana samayena **Tuo gi pat metu **rājā māgadho ajātasattu vedehiputto** Magadhos karalius Adžatasatus Vedehiputa **tadahuposathe pannarase** 15-tos dienos uposathos, **komudiyā cātumāsiniyā** katika mėnesio **puṇṇāya puṇṇamāya rattiyā** pilnaties, pilno mėnulio vakarą **rājāmaccaparivuto uparipāsādavaragato nisinno hoti** apsuptas ministrų sėdėjo viršutiniame rūmų aukšte. **Atha kho rājā māgadho ajātasattu vedehiputto tadahuposathe** Tada gi, per tą Uposathą Magadhos karalius Adžatasatus Vedehiputa **udānaṃ udānesi –** ištarė šiuos džiaugsmingus žodžius: **"ramaṇīyā vata bho dosinā ratti,** "O, koks žavingas pilnaties vakaras, draugai, **abhirūpā vata bho dosinā ratti,** o, koks nuostabus pilnaties vakaras, draugai, **dassanīyā vata bho dosinā ratti,** o, koks gražus pilnaties vakaras, draugai, **pāsādikā vata bho dosinā ratti,** o, koks romus pilnaties vakaras, draugai, **lakkhaññā vata bho dosinā ratti.** o, koks daug žadantis pilnaties vakaras, draugai! **Kaṃ nu khvajja samaṇaṃ vā brāhmaṇaṃ vā payirupāseyyāma,** Kokį tokį atsiskyrėlį ar brahmaną šiandien galėtume aplankyti, **yaṃ no payirupāsato cittaṃ pasīdeyyā"ti?** kurį paklausius mūsų protas būtų nuramintas.
 
 **151. Evaṃ vutte,** Kai tai buvo pasakyta **aññataro rājāmacco** vienas ministras **rājānaṃ māgadhaṃ ajātasattuṃ vedehiputtaṃ etadavoca** – Magadhos karaliui Adžatasatui Vedehiputai pasakė taip: **"ayaṃ, deva, pūraṇo kassapo** "Šis, didenybe, Pūrana Kasapa **saṅghī ceva gaṇī ca gaṇācariyo ca** turi bendriją, turi daug pasekėjų, yra daugybės mokytojas, **ñāto yasassī** yra žinomas ir įžymus, **titthakaro** religinės grupės įkūrėjas, **sādhusammato bahujanassa** daugelio žmonių didžiai gerbiamas, **rattaññū cirapabbajito** yra amžiuje, seniai palikęs pasaulietinį gyvenimą, **addhagato vayoanuppatto.** pagyvenęs, sulaukęs senatvės. **Taṃ devo pūraṇaṃ kassapaṃ payirupāsatu.** Lai didenybė aplanko tą Pūraną Kasapą. **Appeva nāma devassa pūraṇaṃ kassapaṃ payirupāsato cittaṃ pasīdeyyā"ti.** Galbūt Pūranos Kasapos paklausius didenybės protas bus nuramintas." **Evaṃ vutte,** Kai tai buvo pasakyta, **rājā māgadho ajātasattu vedehiputto tuṇhī ahosi.** Magadhos karalius Adžatasatus Vedehiputa pratylėjo.
 
