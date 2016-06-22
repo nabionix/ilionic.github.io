@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Anattalakkhaṇasuttaṃ (Nesavastingumo bruožas, (SNIII.I.vi.7)'
+title: 'Nesavastingumo bruožas (Anattalakkhaṇasuttaṃ, SNIII.I.vi.7)'
 tags:
   - A
 comments: false
