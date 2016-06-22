@@ -1,14 +1,15 @@
 ---
 layout: page
-title: "Tiṃsamattasuttaṃ (Trisdešimt, SN II.IV.ii.3)"
-description: ""
-tags: [T]
-index: "T"
+title: 'Trisdešimt (Tiṃsamattasuttaṃ , SN II.IV.ii.3)'
+tags:
+  - T
+index: T
 comments: false
-category: "suristos suttos"
+category: suristos suttos
 sortIndex: 2423
 image:
   feature: abstract-2.jpg
+published: true
 ---
 
 Buvo apsistojęs Ražagahe bambukų girioje. Tada gi trisdešimt vienuolių iš Pavos [Pathos] nuėjo pas Palaimintąjį; atėję pasveikino Palaimintąjį ir atsisėdo iš šono. Tada gi Palaimintasis taip pagalvojo: "Visi šie trisdešimt vienuolių iš Pavos gyvena miške, visi renka aukas, dėvi skudurų iš šiukšlyno apdarus, turi tik tris apdarus, [bet] visi jie yra su pančiais. Duoki aš dabar pamokysiu juos Dharmos taip, kad šioje pačioje vietoje jų protai dėl neprisirišimo išsilaisvintų nuo intakų." Tada gi Palaimintasis kreipėsi į vienuolius:
@@ -19,7 +20,6 @@ Buvo apsistojęs Ražagahe bambukų girioje. Tada gi trisdešimt vienuolių iš 
 
 Palaimintasis štai ką pasakė:
 
-<!--break-->
 
 —Vienuoliai, neįsivaizduojama [kada buvo] šios samsaros pradžia. Neįmanoma nurodyti praeityje būtybių trikdomų nežinojimo, esančių troškimo pančiuose, lakstančių, klajojančių ratais pradžią. Kaip jūs manote, vienuoliai, ko yra daugiau, ar per tą labai ilgą laiką, kol jūs lakstėte, klajojote ratais, dėl nukirstos galvos pralieto, išbėgusio kraujo, ar vandens keturiuose didžiuose vandenynuose?
 
@@ -29,7 +29,7 @@ Palaimintasis štai ką pasakė:
 
 Tai pasakė Palaimintasis. Pamaloninti tie vienuoliai džiaugėsi Palaimintojo kalba. Ir tuo pat metų kai buvo duodamas šis išaiškinimas, išdėstymas trisdešimties vienuolių iš Pāvos protai dėl neprisirišimo išsilaisvino nuo intakų.
 
-**Tiṃsamattasuttaṃ** Trisdešimt (SN II.IV.ii.3)
+##**Tiṃsamattasuttaṃ** Trisdešimt (SN II.IV.ii.3)##
 
 **136. Rājagahe viharati veḷuvane.** Buvo apsistojęs Ražagahe bambukų girioje. **Atha kho tiṃsamattā pāveyyakā [pāṭheyyakā (katthaci) vinayapiṭake mahāvagge kathinakkhandhakepi] bhikkhū** Tada gi trisdešimt vienuolių iš Pavos [Pathos] **yena bhagavā tenupasaṅkamiṃsu;** nuėjo pas Palaimintąjį; **upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu.** atėję pasveikino Palaimintąjį ir atsisėdo iš šono. **Atha kho bhagavato etadahosi –** Tada gi Palaimintasis taip pagalvojo: "**ime kho tiṃsamattā pāveyyakā bhikkhū** "Šie gi trisdešimt vienuolių iš Pavos **sabbe āraññikā **visi gyvenantys miške, **sabbe piṇḍapātikā** visi renkantys aukas, **sabbe paṃsukūlikā** visi dėvintys skudurų iš šiukšlyno apdarus, **sabbe tecīvarikā** visi turintys tik tris apdarus, **sabbe sasaṃyojanā.** visi yra su pančiais. **Yaṃnūnāhaṃ imesaṃ tathā dhammaṃ deseyyaṃ** Duoki aš dabar pamokysiu juos Dharmos taip, **yathā nesaṃ imasmiṃyeva āsane** kad šioje pačioje vietoje jų **anupādāya āsavehi cittāni vimucceyyu"nti.** protai dėl neprisirišimo išsilaisvintų nuo intakų." **Atha kho bhagavā bhikkhū āmantesi –** Tada gi Palaimintasis kreipėsi į vienuolius: “**bhikkhavo”ti.** "Vienuoliai!" “**Bhadante”ti te bhikkhū bhagavato paccassosuṃ.** "Gerbiamasis!", atsakė Palaimintajam vienuoliai. **Bhagavā etadavoca –** Palaimintasis štai ką pasakė:
 
