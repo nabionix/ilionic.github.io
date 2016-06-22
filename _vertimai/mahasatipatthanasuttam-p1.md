@@ -291,7 +291,7 @@ Tai pasakė Palaimintasis. Pamaloninti tie vienuoliai džiaugėsi Palaimintojo k
 
 **372. Evaṃ me sutaṃ –** Taip aš girdėjau: **ekaṃ samayaṃ bhagavā** vieną kartą Palaimintasis **kurūsu viharati** buvo apsistojęs Kurų šalyje **kammāsadhammaṃ nāma kurūnaṃ nigamo.** Kurų kaime pavadinimu Kamasadhama. **Tatra kho bhagavā bhikkhū āmantesi –** Tada gi Palaimintasis kreipėsi į vienuolius: **‘‘bhikkhavo’’ ti.** "Vienuoliai!" **‘‘Bhaddante’’ ti [bhadanteti (sī. syā. pī.)]** “Gerbiamasis,”- **te bhikkhū bhagavato paccassosuṃ.** atsakė tie vienuoliai Palaimintajam. **Bhagavā etadavoca –** Palaimintasis pasakė štai ką:
 
-####**Uddeso** Teiginys 
+#### **Uddeso** Teiginys 
 
 **373. ‘‘Ekāyano ayaṃ, bhikkhave, maggo** „Vienuoliai, šis yra tiesioginis kelias **sattānaṃ visuddhiyā,** į būtybių apsivalymą, **sokaparidevānaṃ samatikkamāya** liūdesio ir raudojimo įveikimą, **dukkhadomanassānaṃ atthaṅgamāya** skausmo ir nusiminimo išnykimą, **ñāyassa adhigamāya** žinojimo pasiekimą, **nibbānassa sacchikiriyāya,** Nirvanos patyrimą. **yadidaṃ cattāro satipaṭṭhānā.** Tai yra keturi sąmoningumo įsteigimai.
 
