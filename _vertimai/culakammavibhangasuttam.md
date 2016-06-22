@@ -1,20 +1,16 @@
 ---
 layout: page
-title: "Cūḷakammavibhaṅgasuttaṃ (MN III.iv.5)"
-description: ""
-tags: [C]
-index: "C"
+title: 'Mažoji veiksmų analizė (Cūḷakammavibhaṅgasuttaṃ, MN III.iv.5)'
+tags:
+  - C
+index: C
 comments: false
-category: "vidutinio"
+category: vidutinio
 sortIndex: 345
 image:
   feature: abstract-2.jpg
+published: true
 ---
-
-Mažoji veiksmų analizė (MN III.iv.5)
-
-*Cūḷakammavibhaṅgasuttaṃ*
-
 Taip aš girdėjau:
 
 Vieną kartą Palaimintasis buvo apsistojęs Savathėje, Džėtos girioje, Anathapindikos vienuolyne. Tada gi jaunuolis Subha Todėjaputa nuėjo pas Palaimintąjį, atėjęs apsikeitė su juo mandagiais sveikinimais. Apsikeitus mandagiais sveikinimais ir draugiškais žodžiais atsisėdo iš šono. Sėdint iš šono jaunuolis Subha Todėjaputa Palaimintajam štai ką pasakė:
@@ -22,7 +18,7 @@ Vieną kartą Palaimintasis buvo apsistojęs Savathėje, Džėtos girioje, Anath
 —Kokia gi yra priežastis, gerbiamasis Gotama, kas sąlygoja žemesnių ir viršesnių žmonių buvimą, [tokių] žmonių matymą? Gi matomi žmonės kurių gyvenimas trumpas, matomi ilgaamžiai; matomi linkę sirgti, matomi stiprios sveikatos, negražūs, gražūs, [žmonės] be įtakos, įtakingi, vargšai, turtuoliai, prasčiokai, aukštuomenės žmonės, matomi kvaili, matomi išmintingi. Kokia gi yra priežastis, gerbiamasis Gotama, kas sąlygoja žemesnių ir viršesnių žmonių buvimą, [tokių] žmonių matymą?
 
 —Jaunuoli, būtybės yra veiksmų savininkai, veiksmų įpėdiniai, veiksmai yra jų pradėjimas, jų giminės, būtybės yra [savo] veiksmų prieglobstyje. Veiksmai yra tai kas suskirsto būtybes į žemesnes ir viršesnes.
-<!--break-->
+
 —Na ne suprantu aš tikslios prasmės šios Gerbiamojo Gotamos trumpos, neišreiškiančios tikslios prasmės kalbos. Būtų gerai, jei Gerbiamasis Gotama pamokytų manęs Dhammos taip, kad aš suprasčiau tikslią prasmę šios Gerbiamojo Gotamos trumpos, neišreiškiančios tikslios prasmės kalbos.
 
 —Na tada, jaunuolį, klausyki, sutelki visą dėmesį, kalbėsiu.
@@ -63,7 +59,7 @@ Kai tai buvo pasakyta, jaunuolis Subha Todėjaputa pasakė Palaimintajam štai k
 
 —Nuostabu, gerbiamasis Gotama, nuostabu, gerbiamasis Gotama! Tai lyg tai kas buvo apversta, jis būtų atstatęs atgal, ar tai kas buvo paslėpta, jis būtų atskleidęs, ar pasiklydusiam jis būtų parodęs kelią, ar į tamsą atnešęs šviestuvą tam, kad tas kas turi akis pamatytų formas, lygiai taip agerbiamasis Gotama daugeliais būdais paaiškino Dhammą. Aš priimu prieglobstį gerbiamajame Gotomoje, Dhammoje ir vienuolių Saṅghoje. Lai gerbiamasis Gotama nuo šiol laiko mane pasauliečiu pasekėju priėmusiu prieglobstį visam gyvenimui.
 
-**Cūḷakammavibhaṅgasuttaṃ** Mažoji veiksmų analizė (MN III.iv.5)
+##Cūḷakammavibhaṅgasuttaṃ (Mažoji veiksmų analizė, MN III.iv.5)##
 
 **289. Evaṃ me sutaṃ –** Taip aš girdėjau: **ekaṃ samayaṃ bhagavā** Vieną kartą Palaimintasis **sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme** buvo apsistojęs Savathėje, Džėtos girioje, Anathapindikos vienuolyne. **Atha kho subho māṇavo todeyyaputto yena bhagavā tenupasaṅkami;** Tada gi jaunuolis Subha Todėjaputa nuėjo pas Palaimintąjį, **upasaṅkamitvā bhagavatā saddhiṃ sammodi.** atėjęs apsikeitė su juo mandagiais sveikinimais. **Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi.** Apsikeitus mandagiais sveikinimais ir draugiškais žodžiais atsisėdo iš šono. **Ekamantaṃ nisinno kho subho māṇavo todeyyaputto bhagavantaṃ etadavoca –** Sėdint iš šono jaunuolis Subho Todeyyaputta Palaimintajam štai ką pasakė:
 
