@@ -18,25 +18,23 @@ published: true
 ---
 
 
-19. Kliūčių pašalinimas
+### 19. Kliūčių pašalinimas
 
-*Nīvaraṇappahānaṃ *
+*Nīvaraṇappahānaṃ*
 
 Jis pasižymėdamas šia taurios dorovės visuma, šiuo tauriu juslinių gebėjimų susitvardymu, išsivystęs šį taurųjį sąmoningumą ir aiškų supratimą, išsivystęs šį taurųjį pasitenkinimą, dažnai lankosi nuošaliuose vietose: miške, medžio papėdėje, kalnuose, olose, kalnų tarpekliuose, kapinėse, miškų glūdumoje, atvirame ore, ant šiaudų krūvelės. Pavalgęs po sugrįžimo iš aukų rinkimo, jis atsisėda sukryžiavęs kojas, laikydamas kūną tiesiai, įsteigęs sąmoningumą priešais save.
 
-Nusikratęs gobšumo pasaulio atžvilgiu jis, gyvena su protu be gobšumo, išgrynina protą nuo gobšumo. Nusikratęs piktavališkumo ydos, jis** **gyvena su geranorišku protu, su gailesčiu visoms gyvoms būtybėms, išgrynina protą nuo piktavališkumo. Nusikratęs tingulio ir apsnūdimo, jis gyvena be tingulio ir apsnūdimo,** **suvokdamas šviesą, būna sąmoningas ir aiškiai suprantantis, išgrynina protą nuo tingulio ir apsnūdimo. Nusikratęs jaudinimosi ir nerimavimo, jis gyvena ramus, su iš vidaus nurimusiu protu, išgrynina protą nuo jaudinimosi ir nerimavimo. Nusikratęs abejonės, jis gyvena išsklaidęs abejones, nedvejodamas doromis būsenomis, išgrynina protą nuo abejonių.
+Nusikratęs gobšumo pasaulio atžvilgiu jis, gyvena su protu be gobšumo, išgrynina protą nuo gobšumo. Nusikratęs piktavališkumo ydos, jis gyvena su geranorišku protu, su gailesčiu visoms gyvoms būtybėms, išgrynina protą nuo piktavališkumo. Nusikratęs tingulio ir apsnūdimo, jis gyvena be tingulio ir apsnūdimo, suvokdamas šviesą, būna sąmoningas ir aiškiai suprantantis, išgrynina protą nuo tingulio ir apsnūdimo. Nusikratęs jaudinimosi ir nerimavimo, jis gyvena ramus, su iš vidaus nurimusiu protu, išgrynina protą nuo jaudinimosi ir nerimavimo. Nusikratęs abejonės, jis gyvena išsklaidęs abejones, nedvejodamas doromis būsenomis, išgrynina protą nuo abejonių.
 
-Sakykime, karaliau, žmogus pasiėmęs paskolą pradėtų verslą. Tas jo verslas suklestėtų. Jis sugrąžintų tuos anksčiau pasiskolintus pinigus, bei jam liktų [pinigų] viršaus žmonai išlaikyti. Jis taip pagalvotų: "Aš gi anksčiau pasiėmęs paskolą pradėjau verslą. Tas mano verslas suklestėjo.** **Aš sugrąžinau tuos anksčiau pasiskolintus pinigus** **ir man liko [pinigų] viršaus žmonai išlaikyti." Jį dėl to apimtų džiaugsmas, aplankytų laimė.
+Sakykime, karaliau, žmogus pasiėmęs paskolą pradėtų verslą. Tas jo verslas suklestėtų. Jis sugrąžintų tuos anksčiau pasiskolintus pinigus, bei jam liktų [pinigų] viršaus žmonai išlaikyti. Jis taip pagalvotų: "Aš gi anksčiau pasiėmęs paskolą pradėjau verslą. Tas mano verslas suklestėjo. Aš sugrąžinau tuos anksčiau pasiskolintus pinigus ir man liko [pinigų] viršaus žmonai išlaikyti." Jį dėl to apimtų džiaugsmas, aplankytų laimė.
 
-Sakykime, karaliau, būtų ligotas žmogus, kenčiantis, baisiai sergantis, negalintis nei maistu mėgautis, nei turintis jėgų kūne. Vėliau jis išsivaduotų iš tos ligos,** **galėtų ir maistu mėgautis, ir turėtų jėgų kūne. Jis taip pagalvotų: "Aš gi anksčiau buvau ligotas, kenčiantis, baisiai sergantis,** **negalėjau nei maistu mėgautis, nei turėjau jėgų kūne. O dabar esu išsivadavęs iš tos ligos; galiu ir maistu mėgautis, ir turiu jėgų kūne." Jį dėl to apimtų džiaugsmas, aplankytų laimė.
+Sakykime, karaliau, būtų ligotas žmogus, kenčiantis, baisiai sergantis, negalintis nei maistu mėgautis, nei turintis jėgų kūne. Vėliau jis išsivaduotų iš tos ligos, galėtų ir maistu mėgautis, ir turėtų jėgų kūne. Jis taip pagalvotų: "Aš gi anksčiau buvau ligotas, kenčiantis, baisiai sergantis, negalėjau nei maistu mėgautis, nei turėjau jėgų kūne. O dabar esu išsivadavęs iš tos ligos; galiu ir maistu mėgautis, ir turiu jėgų kūne." Jį dėl to apimtų džiaugsmas, aplankytų laimė.
 
-Sakykime, karaliau, žmogus būtų įkalintas kalėjime. Vėliau jis sėkmingai ir saugiai išeitų iš kalėjimo į laisvę, ir jo turtas nebūtų niekur pradingęs.** **Jis taip pagalvotų: "Aš gi ankščiau buvau įkalintas kalėjime, o dabar sėkmingai ir saugiai išėjau iš kalėjimo į laisvę. Ir mano turtas nėra niekur pradingęs." Jį dėl to apimtų džiaugsmas, aplankytų laimė.
+Sakykime, karaliau, žmogus būtų įkalintas kalėjime. Vėliau jis sėkmingai ir saugiai išeitų iš kalėjimo į laisvę, ir jo turtas nebūtų niekur pradingęs. Jis taip pagalvotų: "Aš gi ankščiau buvau įkalintas kalėjime, o dabar sėkmingai ir saugiai išėjau iš kalėjimo į laisvę. Ir mano turtas nėra niekur pradingęs." Jį dėl to apimtų džiaugsmas, aplankytų laimė.
 
-Sakykime, karaliau, žmogus būtų vergu, nepriklausančiu sau, priklausančiu kitam, negalinčiu daryti ką panorėjęs. Vėliau jis išsivaduotų iš tos vergystės, priklausytų sau, nebepriklausytų kitam, būtų laisvu žmogumi galinčiu daryti ką panorėjęs. Jis taip pagalvotų: "Aš gi anksčiau buvau vergu, nepriklausančiu sau, priklausančiu kitam, negalinčiu daryti ką panorėjęs. O dabar esu išsivadavęs iš tos vergystės** **priklausau sau, nebepriklausau kitam, esu laisvas žmogus galintis daryti ką panorėjęs." Jį dėl to apimtų džiaugsmas, aplankytų laimė.
+Sakykime, karaliau, žmogus būtų vergu, nepriklausančiu sau, priklausančiu kitam, negalinčiu daryti ką panorėjęs. Vėliau jis išsivaduotų iš tos vergystės, priklausytų sau, nebepriklausytų kitam, būtų laisvu žmogumi galinčiu daryti ką panorėjęs. Jis taip pagalvotų: "Aš gi anksčiau buvau vergu, nepriklausančiu sau, priklausančiu kitam, negalinčiu daryti ką panorėjęs. O dabar esu išsivadavęs iš tos vergystės priklausau sau, nebepriklausau kitam, esu laisvas žmogus galintis daryti ką panorėjęs." Jį dėl to apimtų džiaugsmas, aplankytų laimė.
 
-<!--break-->
-
-Sakykime, karaliau, žmogus su turtais, su vertybėmis keliautų dykumos keliu, pilnu pavojų, su retai aptinkamu maistu. Vėliau jis tą dykumą sėkmingai pereitų, pasiektų galutinį kaimą, saugų, be pavojų. Jis taip pagalvotų: "Aš gi anksčiau su turtais, su vertybėmis keliavau dykumos keliu pilnų pavojų, su retai aptinkamu maistu.** **O dabar aš sėkmingai perėjau tą dykumą, pasiekiau galutinį kaimą, saugų, be pavojų. Jį dėl to apimtų džiaugsmas, aplankytų laimė.
+Sakykime, karaliau, žmogus su turtais, su vertybėmis keliautų dykumos keliu, pilnu pavojų, su retai aptinkamu maistu. Vėliau jis tą dykumą sėkmingai pereitų, pasiektų galutinį kaimą, saugų, be pavojų. Jis taip pagalvotų: "Aš gi anksčiau su turtais, su vertybėmis keliavau dykumos keliu pilnų pavojų, su retai aptinkamu maistu. O dabar aš sėkmingai perėjau tą dykumą, pasiekiau galutinį kaimą, saugų, be pavojų. Jį dėl to apimtų džiaugsmas, aplankytų laimė.
 
 Lygiai, karaliau, taip kaip į skolą, kaip į ligą, kaip į kalėjimą, kaip į vergystę, kaip į dykumos kelią vienuolis žiūri į šių penkių kliūčių nepašalinimą savyje.
 
@@ -44,115 +42,115 @@ Lygiai, karaliau, taip kaip į skolų neturėjimą, kaip į pasveikimą, kaip į
 
 Kai jis pamato, kad šios penkios kliūtys jame yra pašalintos, gimsta džiaugsmas, iš džiaugsmo gimsta gėrėjimasis, dėl gėrėjimosi kūnas nurimsta, kūnui nurimus patiriama laimė, laimingojo protas susitelkia.
 
-20. Pirmoji džhana
+### 20. Pirmoji džhana
 
-*Paṭhamajjhānaṃ *
+*Paṭhamajjhānaṃ*
 
-Atsiskyręs nuo juslinių malonumų, atsiskyręs nuo nedorų būsenų, jis pasiekia pirmąją džhaną, kuri yra su pirminiu pritaikymu, ilgalaikiu taikymu, su dėl atsiskyrimo gimusiais gėrėjimusi ir laime; ir būna joje. Dėl atsiskyrimo gimusiais gėrėjimusi ir laime, jis šitą patį kūną užlieja, užpildo, pripildo, perskverbia** **taip, kad jo kūne nelieka nei dalelytės, kurios nebūtų pasiekę šie dėl atsiskyrimo gimę gėrėjimasis ir laimė.
+Atsiskyręs nuo juslinių malonumų, atsiskyręs nuo nedorų būsenų, jis pasiekia pirmąją džhaną, kuri yra su pirminiu pritaikymu, ilgalaikiu taikymu, su dėl atsiskyrimo gimusiais gėrėjimusi ir laime; ir būna joje. Dėl atsiskyrimo gimusiais gėrėjimusi ir laime, jis šitą patį kūną užlieja, užpildo, pripildo, perskverbia taip, kad jo kūne nelieka nei dalelytės, kurios nebūtų pasiekę šie dėl atsiskyrimo gimę gėrėjimasis ir laimė.
 
 Sakykime, karaliau, įgudęs maudyklos patarnautojas ar maudyklos patarnautojo padėjėjas, pribėręs muilo miltelių į bronzinį indą, pašlakstydamas vandeniu, suminkytų juos į vieną muilo gabalą, taip, kad tas būtų permirkęs, išmirkęs, suvilgytas iš vidaus ir iš išorės, bet nevarvėtų; lygiai gi taip, karaliau, vienuolis dėl atsiskyrimo gimusiais gėrėjimusi ir laime, šitą patį kūną užlieja, užpildo, pripildo, perskverbia taip, kad jo kūne nelieka nei dalelytės, kurios nebūtų pasiekę šie dėl atsiskyrimo gimę gėrėjimasis ir laimė. Tai irgi, karaliau, yra čia pat ir iškart regimas atsiskyrimo vaisius nuostabesnis ir puikesnis už ankstesnius čia pat ir iškart regimus atsiskyrimo vaisius.
 
-21. Antroji džhana
+### 21. Antroji džhana
 
-*Dutiyajjhānaṃ *
+*Dutiyajjhānaṃ*
 
 Ir vėlgi, karaliau, kai liaunasi pradinis pritaikymas ir ilgalaikis taikymas, vienuolis su iš vidaus nurimusiu protu sutelktu į vieną [objektą] pasiekia antrąją džhaną, kuri yra be pradinio pritaikymo, be ilgalaikio taikymo, su dėl susitelkimo gimusiais gėrėjimusi ir laime; ir būna joje. Dėl susitelkimo gimusiais gėrėjimusi ir laime, jis šitą patį kūną užlieja, užpildo, pripildo, perskverbia taip, kad jo kūne nelieka nei dalelytės kurios nebūtų pasiekę šie dėl atsiskyrimo gimę gėrėjimasis ir laimė.
 
-Sakykime, karaliau, būtų gilus ežeras su gilumine versme, į kurį neįtekėtų vanduo nei iš rytinės pusės, nei iš pietinės pusės, nei iš vakarinės pusės,** **iš šiaurinės pusės, nei [virš kurio] laikas nuo laiko stipriai palytų. Tada gi iš to ežero šaltos versmės trykštantis šaltas vanduo tą patį ežerą užlietų, užpildytų, pripildytų, perskverbtų taip, kad tame ežere neliktų nei dalelytės kurios nebūtų pasiekęs šaltas vanduo. Lygiai gi taip, karaliau, vienuolis dėl susitelkimo gimusiais gėrėjimusi ir laime, šitą patį kūną užlieja, užpildo, pripildo, perskverbia taip, kad jo kūne nelieka nei dalelytės kurios nebūtų pasiekę šie dėl susitelkimo gimę gėrėjimasis ir laimė. Tai irgi, karaliau, yra čia pat ir iškart regimas atsiskyrimo vaisius nuostabesnis ir puikesnis už ankstesnius čia pat ir iškart regimus atsiskyrimo vaisius.
+Sakykime, karaliau, būtų gilus ežeras su gilumine versme, į kurį neįtekėtų vanduo nei iš rytinės pusės, nei iš pietinės pusės, nei iš vakarinės pusės, iš šiaurinės pusės, nei [virš kurio] laikas nuo laiko stipriai palytų. Tada gi iš to ežero šaltos versmės trykštantis šaltas vanduo tą patį ežerą užlietų, užpildytų, pripildytų, perskverbtų taip, kad tame ežere neliktų nei dalelytės kurios nebūtų pasiekęs šaltas vanduo. Lygiai gi taip, karaliau, vienuolis dėl susitelkimo gimusiais gėrėjimusi ir laime, šitą patį kūną užlieja, užpildo, pripildo, perskverbia taip, kad jo kūne nelieka nei dalelytės kurios nebūtų pasiekę šie dėl susitelkimo gimę gėrėjimasis ir laimė. Tai irgi, karaliau, yra čia pat ir iškart regimas atsiskyrimo vaisius nuostabesnis ir puikesnis už ankstesnius čia pat ir iškart regimus atsiskyrimo vaisius.
 
-22. Trečioji džhana
+### 22. Trečioji džhana
 
-*Tatiyajjhānaṃ *
+*Tatiyajjhānaṃ*
 
 Ir vėlgi, karaliau, išblėsus gėrėjimuisi, vienuolis būna pusiausviro proto, sąmoningas ir aiškiai suprantantis, bei kūnu patyria laimę, jis pasiekia trečiąją džhaną ir būna joje, taurieji nupasakoja tai taip: "jis būna laimingas, pusiausviras ir sąmoningas". Laime be gėrėjimosi jis šitą patį kūną užlieja, užpildo, pripildo, perskverbia taip, kad jo kūne nelieka nei dalelytės kurios nebūtų pasiekusi ši laimė be gėrėjimosi.
 
-Sakykime, karaliau, žydrų, raudonų ar baltų lotosų tvenkinyje kurie nors žydri, raudoni ar balti lotosai gimę vandenyje, užaugę vandenyje, nepakiltų virš vandens, tarptų panardinti vandenyje. Jie nuo viršaus ir iki pat šaknų šaltu vandeniu būtų užlieti, užpildyti, pripildyti, perskverbti taip, kad tuose žydruose, raudonuose ar baltuose lotosuose neliktų nei dalelytės, kurios nebūtų pasiekęs šaltas vanduo. Lygiai gi taip vienuolis** **laime be gėrėjimosi šitą patį kūną užlieja, užpildo, pripildo, perskverbia taip, kad jo kūne nelieka nei dalelytės, kurios nebūtų pasiekusi ši laimė be gėrėjimosi. Tai irgi, karaliau, yra čia pat ir iškart regimas atsiskyrimo vaisius nuostabesnis ir puikesnis už ankstesnius čia pat ir iškart regimus atsiskyrimo vaisius.
+Sakykime, karaliau, žydrų, raudonų ar baltų lotosų tvenkinyje kurie nors žydri, raudoni ar balti lotosai gimę vandenyje, užaugę vandenyje, nepakiltų virš vandens, tarptų panardinti vandenyje. Jie nuo viršaus ir iki pat šaknų šaltu vandeniu būtų užlieti, užpildyti, pripildyti, perskverbti taip, kad tuose žydruose, raudonuose ar baltuose lotosuose neliktų nei dalelytės, kurios nebūtų pasiekęs šaltas vanduo. Lygiai gi taip vienuolis laime be gėrėjimosi šitą patį kūną užlieja, užpildo, pripildo, perskverbia taip, kad jo kūne nelieka nei dalelytės, kurios nebūtų pasiekusi ši laimė be gėrėjimosi. Tai irgi, karaliau, yra čia pat ir iškart regimas atsiskyrimo vaisius nuostabesnis ir puikesnis už ankstesnius čia pat ir iškart regimus atsiskyrimo vaisius.
 
-23. Ketvirtoji džhana
+### 23. Ketvirtoji džhana
 
-*Catutthajjhānaṃ *
+*Catutthajjhānaṃ*
 
 Ir vėlgi, karaliau, vienuolis atsisakęs malonių ir nemalonių pojūčių, peržengęs ankstesnę laimę ir nusiminimą, pasiekia ketvirtąją džhaną, be nemalonių ir malonių pojūčių, su sąmoningumu išgryninta [proto] pusiausvyra; ir būna joje, jis sėdi persmelkęs visą šitą patį kūną švariu, tyru protu, taip, kad jo kūne nelieka nei dalelytės kurios nebūtų pasiekęs švarus, tyras protas.
 
-Sakykime, karaliau, žmogus būtų su galva apdengtas baltu audeklu, jo kūne neliktų nei dalelytės, kurios nebūtų pasiekęs baltas audeklas;** **lygiai gi taip, karaliau, vienuolis sėdi persmelkęs visą šitą patį kūną švariu, tyru protu, taip, kad jo kūne nelieka nei dalelytės kurios nebūtų pasiekęs švarus, tyras protas. Tai irgi, karaliau, yra čia pat ir iškart regimas atsiskyrimo vaisius nuostabesnis ir puikesnis už ankstesnius čia pat ir iškart regimus atsiskyrimo vaisius.
+Sakykime, karaliau, žmogus būtų su galva apdengtas baltu audeklu, jo kūne neliktų nei dalelytės, kurios nebūtų pasiekęs baltas audeklas; lygiai gi taip, karaliau, vienuolis sėdi persmelkęs visą šitą patį kūną švariu, tyru protu, taip, kad jo kūne nelieka nei dalelytės kurios nebūtų pasiekęs švarus, tyras protas. Tai irgi, karaliau, yra čia pat ir iškart regimas atsiskyrimo vaisius nuostabesnis ir puikesnis už ankstesnius čia pat ir iškart regimus atsiskyrimo vaisius.
 
-24. Įžvalgos pažinimas
+### 24. Įžvalgos pažinimas
 
-*Vipassanāñāṇaṃ *
+*Vipassanāñāṇaṃ*
 
 [Ir vėlgi, karaliau,] jis būdamas su taip sutelktu, taip išgrynintu, apvalytu, nesuteptu, be nežymių teršalų, lanksčiu, tinkamu darbui, pasiekusiu nesutrikdomą [būseną] protu, nukreipia, pasuka protą link pažinimo ir matymo. Jis suvokia tai: "Šis gi mano kūnas yra materialus, [sudarytas] iš keturių didžiųjų elementų, gimęs iš motinos ir tėvo, ryžių košės ir rūgpienio sankaupa, turi prigimti keistis, dėvėtis, suirti, pranykti; bet ši mano sąmonė į jį remiasi, prie jo pririšta."
 
-Sakykime, karaliau, blizgantis lazurito brangakmenis, tikras, aštuonkampis, gerai apdirbtas, skaidrus, tyras, švarus, pasižymintis visomis geromis savybėmis, būtų užmautas ant siūlo ar tai juodo, geltono, raudono, balto ar pilko.** **Jį paėmęs į rankas žmogus turintis akis taip pagalvotų: "Tai yra blizgantis lazurito brangakmenis, tikras, aštuonkampis, gerai apdirbtas, skaidrus, tyras, švarus, pasižymintis visomis geromis savybėmis; jis yra užmautas ant siūlo ar tai juodo, geltono, raudono, balto, ar pilko." Lygiai gi taip, karaliau, jis turėdamas taip sutelktą, taip išgrynintą, apvalytą, tokį nesuteptą, be nežymių teršalų, lankstų, tinkamą darbui, pasiekusį nesutrikdomą [būseną] protą, nukreipia, pasuka jį link pažinimo ir matymo. Jis suvokia tai: "Šis gi mano kūnas yra materialus, [sudarytas] iš keturių didžiųjų elementų, gimęs iš motinos ir tėvo, ryžių košės ir rūgpienio sankaupa,** **turi prigimti keistis, dėvėtis, suirti, pranykti; bet ši mano sąmonė į jį remiasi, prie jo pririšta." Tai irgi, karaliau, yra čia pat ir iškart regimas atsiskyrimo vaisius nuostabesnis ir puikesnis už ankstesnius čia pat ir iškart regimus atsiskyrimo vaisius.
+Sakykime, karaliau, blizgantis lazurito brangakmenis, tikras, aštuonkampis, gerai apdirbtas, skaidrus, tyras, švarus, pasižymintis visomis geromis savybėmis, būtų užmautas ant siūlo ar tai juodo, geltono, raudono, balto ar pilko. Jį paėmęs į rankas žmogus turintis akis taip pagalvotų: "Tai yra blizgantis lazurito brangakmenis, tikras, aštuonkampis, gerai apdirbtas, skaidrus, tyras, švarus, pasižymintis visomis geromis savybėmis; jis yra užmautas ant siūlo ar tai juodo, geltono, raudono, balto, ar pilko." Lygiai gi taip, karaliau, jis turėdamas taip sutelktą, taip išgrynintą, apvalytą, tokį nesuteptą, be nežymių teršalų, lankstų, tinkamą darbui, pasiekusį nesutrikdomą [būseną] protą, nukreipia, pasuka jį link pažinimo ir matymo. Jis suvokia tai: "Šis gi mano kūnas yra materialus, [sudarytas] iš keturių didžiųjų elementų, gimęs iš motinos ir tėvo, ryžių košės ir rūgpienio sankaupa, turi prigimti keistis, dėvėtis, suirti, pranykti; bet ši mano sąmonė į jį remiasi, prie jo pririšta." Tai irgi, karaliau, yra čia pat ir iškart regimas atsiskyrimo vaisius nuostabesnis ir puikesnis už ankstesnius čia pat ir iškart regimus atsiskyrimo vaisius.
 
-25. Antžmogiško gebėjimo padaryti protu [kūną] pažinimas
+### 25. Antžmogiško gebėjimo padaryti protu [kūną] pažinimas
 
-*Manomayiddhiñāṇaṃ *
+*Manomayiddhiñāṇaṃ*
 
 Jis turėdamas taip sutelktą, taip išgrynintą, apvalytą, tokį nesuteptą, be nežymių teršalų, lankstų, tinkamą darbui, pasiekusį nesutrikdomą [būseną] protą, nukreipia, pasuka jį link protu padaryto kūno sutvėrimo. Jis iš šio kūno sutveria kitą kūną, turintį formą, padarytą protu, su visomis kūno dalimis ir galūnėmis, su pilnaverčiais gebėjimais.
 
 Sakykime, karaliau, žmogus būtų išėmęs smilgą iš lendrūno. Jis pagalvotų taip: "Štai lendrūnas, štai smilga, lendrūnas yra viena, smilga - kita, išties, smilga yra ištraukta iš lendrūno." Arba, sakykime, žmogus būtų ištraukęs kardą iš makšties. Jis pagalvotų taip: "Štai kardas, štai makštis, kardas yra viena, makštis - kita, išties, kardas yra ištrauktas iš makšties." Arba, sakykime, žmogus būtų išnėręs gyvatę iš išnaros. Jis taip pagalvotų: "Štai gyvatė, štai išnara. Gyvatė yra viena, išnara - kita, išties, gyvatė išnerta iš išnaros." Lygiai gi taip, karaliau, vienuolis turėdamas taip sutelktą, taip išgrynintą, apvalytą... kūno dalimis ir galūnėmis, pilnaverčiais gebėjimais. Tai irgi, karaliau, yra čia pat ir iškart regimas atsiskyrimo vaisius nuostabesnis ir puikesnis už ankstesnius čia pat ir iškart regimus atsiskyrimo vaisius.
 
-26. Antžmogiškų gebėjimų pažinimas
+### 26. Antžmogiškų gebėjimų pažinimas
 
-*Iddhividhañāṇaṃ *
+*Iddhividhañāṇaṃ*
 
-Jis turėdamas taip sutelktą, taip išgrynintą, apvalytą, tokį nesuteptą, be nežymių teršalų, lankstų, tinkamą darbui, pasiekusį nesutrikdomą [būseną] protą, nukreipia, pasuka jį link antžmogiškų gebėjimų. Jis pažįsta įvairius antžmogiškus gebėjimus: iš vieno pasidaro daugeliu, iš daugelio, pasidaro vienas;** **pasirodo ir pradingsta, pro sieną, pro pylimą, pro kalną be trikdžių pereina kaip oru. Ir iš žemės išneria ir paneria lyg į vandenį. Ir vandeniu eina neskęsdamas lyg žeme. Ir sėdėdamas sukryžiavęs kojas oru juda lyg paukštis. Ir šiuos Mėnulį ir Saulę, tokius galingus ir tokius išdidžius, paliečia, paglosto ranka. Ir gali valdyti [savo] kūną lygi pat Brahmų pasaulių.
+Jis turėdamas taip sutelktą, taip išgrynintą, apvalytą, tokį nesuteptą, be nežymių teršalų, lankstų, tinkamą darbui, pasiekusį nesutrikdomą [būseną] protą, nukreipia, pasuka jį link antžmogiškų gebėjimų. Jis pažįsta įvairius antžmogiškus gebėjimus: iš vieno pasidaro daugeliu, iš daugelio, pasidaro vienas; pasirodo ir pradingsta, pro sieną, pro pylimą, pro kalną be trikdžių pereina kaip oru. Ir iš žemės išneria ir paneria lyg į vandenį. Ir vandeniu eina neskęsdamas lyg žeme. Ir sėdėdamas sukryžiavęs kojas oru juda lyg paukštis. Ir šiuos Mėnulį ir Saulę, tokius galingus ir tokius išdidžius, paliečia, paglosto ranka. Ir gali valdyti [savo] kūną lygi pat Brahmų pasaulių.
 
-Sakykime, karaliau, įgudęs puodžius ar puodžiaus padėjėjas iš gerai paruošto molio padarytų, pagamintų tokios formos indą, kokios panorėtų. Arba, sakykime, dramblio kaulo dirbėjas arba dramblio kaulo dirbėjo padėjėjas iš gerai paruošto dramblio kaulo padarytų, pagamintų dramblio kaulo dirbinį tokios formos, kokios panorėtų. Arba, sakykime, auksakalys arba auksakalio padėjėjas iš gerai paruošto aukso** **padarytų, pagamintų aukso dirbinį tokios formos, kokios panorėtų. Lygiai gi taip, karaliau, vienuolis turėdamas taip sutelktą, taip išgrynintą, apvalytą... lygi pat Brahmų pasaulių. Tai irgi, karaliau, yra čia pat ir iškart regimas atsiskyrimo vaisius nuostabesnis ir puikesnis už ankstesnius čia pat ir iškart regimus atsiskyrimo vaisius.
+Sakykime, karaliau, įgudęs puodžius ar puodžiaus padėjėjas iš gerai paruošto molio padarytų, pagamintų tokios formos indą, kokios panorėtų. Arba, sakykime, dramblio kaulo dirbėjas arba dramblio kaulo dirbėjo padėjėjas iš gerai paruošto dramblio kaulo padarytų, pagamintų dramblio kaulo dirbinį tokios formos, kokios panorėtų. Arba, sakykime, auksakalys arba auksakalio padėjėjas iš gerai paruošto aukso padarytų, pagamintų aukso dirbinį tokios formos, kokios panorėtų. Lygiai gi taip, karaliau, vienuolis turėdamas taip sutelktą, taip išgrynintą, apvalytą... lygi pat Brahmų pasaulių. Tai irgi, karaliau, yra čia pat ir iškart regimas atsiskyrimo vaisius nuostabesnis ir puikesnis už ankstesnius čia pat ir iškart regimus atsiskyrimo vaisius.
 
-27. Dieviškos ausies pažinimas
+### 27. Dieviškos ausies pažinimas
 
-*Dibbasotañāṇaṃ *
+*Dibbasotañāṇaṃ*
 
 Jis turėdamas taip sutelktą, taip išgrynintą, apvalytą, tokį nesuteptą, be nežymių teršalų, lankstų, tinkamą darbui, pasiekusį nesutrikdomą [būseną] protą, nukreipia, pasuka jį link dieviškų ausų elemento. Jis išgrynintu antžmogišku dieviškos ausies elementu girdi tiek dievų, tiek ir žmonių garsus, ir arti, ir toli.
 
-Sakykime, karaliau, žmogus keliautų tolimą kelią. Jis išgirstų litaurų garsą, būgnelio garsą, taip pat kriauklės, būgno, tamtamo garsą. Jis taip pagalvotų: "tai litaurų garsas, tai būgnelio garsas, tai kriauklės, būgno, tamtamo garsas". Lygiai taip pat vienuolis turėdamas taip sutelktą, taip išgrynintą... ir arti, ir toli. Tai irgi, karaliau, yra čia pat ir iškart regimas atsiskyrimo vaisius** **nuostabesnis ir puikesnis už ankstesnius čia pat ir iškart regimus atsiskyrimo vaisius.
+Sakykime, karaliau, žmogus keliautų tolimą kelią. Jis išgirstų litaurų garsą, būgnelio garsą, taip pat kriauklės, būgno, tamtamo garsą. Jis taip pagalvotų: "tai litaurų garsas, tai būgnelio garsas, tai kriauklės, būgno, tamtamo garsas". Lygiai taip pat vienuolis turėdamas taip sutelktą, taip išgrynintą... ir arti, ir toli. Tai irgi, karaliau, yra čia pat ir iškart regimas atsiskyrimo vaisius nuostabesnis ir puikesnis už ankstesnius čia pat ir iškart regimus atsiskyrimo vaisius.
 
-28. Kitų protų pažinimas
+### 28. Kitų protų pažinimas
 
-*Cetopariyañāṇaṃ *
+*Cetopariyañāṇaṃ*
 
-Jis turėdamas taip sutelktą, taip išgrynintą, apvalytą, tokį nesuteptą, be nežymių teršalų, lankstų, tinkamą darbui, pasiekusį nesutrikdomą [būseną] protą, nukreipia, pasuka jį link kitų protų žinojimo. Jis kitų būtybių, kitų asmenų protą apgaubęs savuoju pažįsta: protą su geiduliu jis žino kaip "protas su geiduliu", protą be geidulio jis žino kaip "protas be geidulio", protą su bjaurėjimusi jis žino kaip "protas su bjaurėjimusi", protą be bjaurėjimosi jis žino kaip "protas be bjaurėjimosi", protą su nežinojimu jis žino kaip "protas su nežinojimu",** **protą be nežinojimo jis žino kaip "protas be nežinojimo", susitraukusi protą jis žino kaip "susitraukęs protas", nesusitraukusi protą jis žino kaip "nesusitraukęs protas", išsiplėtusi protą jis žino kaip "išsiplėtęs protas", neišsiplėtusi protą jis žino kaip "neišsiplėtęs protas", pralenkiamą protą jis žino kaip "pralenkiamas protas", nepralenkiamą protą jis žino kaip "nepralenkiamas protas", sutelktą protą jis žino kaip "sutelktas protas",** **nesutelktą protą jis žino kaip "nesutelktas protas",** **išsilaisvinusį protą jis žino kaip "išsilaisvinęs protas", neišsilaisvinusį protą jis žino kaip "neišsilaisvinęs protas".
+Jis turėdamas taip sutelktą, taip išgrynintą, apvalytą, tokį nesuteptą, be nežymių teršalų, lankstų, tinkamą darbui, pasiekusį nesutrikdomą [būseną] protą, nukreipia, pasuka jį link kitų protų žinojimo. Jis kitų būtybių, kitų asmenų protą apgaubęs savuoju pažįsta: protą su geiduliu jis žino kaip "protas su geiduliu", protą be geidulio jis žino kaip "protas be geidulio", protą su bjaurėjimusi jis žino kaip "protas su bjaurėjimusi", protą be bjaurėjimosi jis žino kaip "protas be bjaurėjimosi", protą su nežinojimu jis žino kaip "protas su nežinojimu", protą be nežinojimo jis žino kaip "protas be nežinojimo", susitraukusi protą jis žino kaip "susitraukęs protas", nesusitraukusi protą jis žino kaip "nesusitraukęs protas", išsiplėtusi protą jis žino kaip "išsiplėtęs protas", neišsiplėtusi protą jis žino kaip "neišsiplėtęs protas", pralenkiamą protą jis žino kaip "pralenkiamas protas", nepralenkiamą protą jis žino kaip "nepralenkiamas protas", sutelktą protą jis žino kaip "sutelktas protas", nesutelktą protą jis žino kaip "nesutelktas protas", išsilaisvinusį protą jis žino kaip "išsilaisvinęs protas", neišsilaisvinusį protą jis žino kaip "neišsilaisvinęs protas".
 
-Sakykime, karaliau, jaunas vaikinas ar mergina mėgstanti puoštis, švariame, nuvalytame veidrodyje** **arba inde su tyru vandeniu apžiūrėtų savo veido atspindį. Jei jis būtų su apgamu, ji žinotų "su apgamu", arba jei būtų be apgamo, žinotų "be apgamo". Lygiai, taip pat vienuolis turėdamas taip sutelktą, taip išgrynintą... jis žino kaip "neišsilaisvinęs protas". Tai irgi, karaliau, yra čia pat ir iškart regimas atsiskyrimo vaisius nuostabesnis ir puikesnis už ankstesnius čia pat ir iškart regimus atsiskyrimo vaisius.
+Sakykime, karaliau, jaunas vaikinas ar mergina mėgstanti puoštis, švariame, nuvalytame veidrodyje arba inde su tyru vandeniu apžiūrėtų savo veido atspindį. Jei jis būtų su apgamu, ji žinotų "su apgamu", arba jei būtų be apgamo, žinotų "be apgamo". Lygiai, taip pat vienuolis turėdamas taip sutelktą, taip išgrynintą... jis žino kaip "neišsilaisvinęs protas". Tai irgi, karaliau, yra čia pat ir iškart regimas atsiskyrimo vaisius nuostabesnis ir puikesnis už ankstesnius čia pat ir iškart regimus atsiskyrimo vaisius.
 
-29. Praeitų gyvenimų prisiminimo pažinimas
+### 29. Praeitų gyvenimų prisiminimo pažinimas
 
-*Pubbenivāsānussatiñāṇaṃ *
+*Pubbenivāsānussatiñāṇaṃ*
 
-Jis turėdamas taip sutelktą, taip išgrynintą, apvalytą, tokį nesuteptą, be nežymių teršalų, lankstų, tinkamą darbui, pasiekusį nesutrikdomą [būseną] protą, nukreipia, pasuka jį link praeitų gyvenimų prisiminimo žinojimo. Jis prisimena daugelį praeitų gyvenimų, t. y.: vieną gimimą, du gimimus, tris gimimus, keturis gimimus, penkis gimimus,** **dešimt gimimų, dvidešimt gimimų, trisdešimt gimimų, keturiasdešimt gimimų, penkiasdešimt gimimų, šimtą gimimų, tūkstantį gimimų, šimtą tūkstančių gimimų, daugybę vystymosi erų, daugybę nykimo erų daugybę vystymosi-nykimo erų. "Buvau toks ir toks, tokiu vardu, tokios giminės, tokios išvaizdos, valgiau taip, patyriau tokius džiaugsmus ir skausmus, gyvenau tiek metų, ten miręs, atgimiau štai ten; toliau buvau ten, tokiu vardu, tokios giminės, tokios išvaizdos,** **valgiau taip, patyriau tokius džiaugsmus ir skausmus, gyvenau tiek metų, ten miręs, atgimiau čia". Taip jis išsamiai, su buitiškomis detalėmis prisimena daugelį praeitų gyvenimų.
+Jis turėdamas taip sutelktą, taip išgrynintą, apvalytą, tokį nesuteptą, be nežymių teršalų, lankstų, tinkamą darbui, pasiekusį nesutrikdomą [būseną] protą, nukreipia, pasuka jį link praeitų gyvenimų prisiminimo žinojimo. Jis prisimena daugelį praeitų gyvenimų, t. y.: vieną gimimą, du gimimus, tris gimimus, keturis gimimus, penkis gimimus, dešimt gimimų, dvidešimt gimimų, trisdešimt gimimų, keturiasdešimt gimimų, penkiasdešimt gimimų, šimtą gimimų, tūkstantį gimimų, šimtą tūkstančių gimimų, daugybę vystymosi erų, daugybę nykimo erų daugybę vystymosi-nykimo erų. "Buvau toks ir toks, tokiu vardu, tokios giminės, tokios išvaizdos, valgiau taip, patyriau tokius džiaugsmus ir skausmus, gyvenau tiek metų, ten miręs, atgimiau štai ten; toliau buvau ten, tokiu vardu, tokios giminės, tokios išvaizdos, valgiau taip, patyriau tokius džiaugsmus ir skausmus, gyvenau tiek metų, ten miręs, atgimiau čia". Taip jis išsamiai, su buitiškomis detalėmis prisimena daugelį praeitų gyvenimų.
 
-Sakykime, karaliau, žmogus nueitų iš savo kaimo į kitą kaimą,** **o iš to kaimo nueitų į dar kitą.** **Iš ano kaimo vėliau jis sugrįžtų į savo. Jis taip pagalvotų: "Aš gi iš savo kaimo nuėjau į tokį ir tokį kaimą, ten taip stovėjau, taip sėdėjau, taip kalbėjau, taip tylėjau, o iš to kaimo nuėjau į tokį ir tokį kaimą, ten taip stovėjau, taip sėdėjau, taip kalbėjau, taip tylėjau, ir iš ano kaimo aš sugrįžau į savo." Lygiai taip pat vienuolis turėdamas taip sutelktą, taip išgrynintą... prisimena daugelį praeitų gyvenimų. Tai irgi, karaliau, yra čia pat ir iškart regimas atsiskyrimo vaisius nuostabesnis ir puikesnis už ankstesnius čia pat ir iškart regimus atsiskyrimo vaisius.
+Sakykime, karaliau, žmogus nueitų iš savo kaimo į kitą kaimą, o iš to kaimo nueitų į dar kitą. Iš ano kaimo vėliau jis sugrįžtų į savo. Jis taip pagalvotų: "Aš gi iš savo kaimo nuėjau į tokį ir tokį kaimą, ten taip stovėjau, taip sėdėjau, taip kalbėjau, taip tylėjau, o iš to kaimo nuėjau į tokį ir tokį kaimą, ten taip stovėjau, taip sėdėjau, taip kalbėjau, taip tylėjau, ir iš ano kaimo aš sugrįžau į savo." Lygiai taip pat vienuolis turėdamas taip sutelktą, taip išgrynintą... prisimena daugelį praeitų gyvenimų. Tai irgi, karaliau, yra čia pat ir iškart regimas atsiskyrimo vaisius nuostabesnis ir puikesnis už ankstesnius čia pat ir iškart regimus atsiskyrimo vaisius.
 
-30. Dieviškos akies pažinimas
+### 30. Dieviškos akies pažinimas
 
-*Dibbacakkhuñāṇaṃ *
+*Dibbacakkhuñāṇaṃ*
 
 Jis turėdamas taip sutelktą, taip išgrynintą, apvalytą, tokį nesuteptą, be nežymių teršalų, lankstų, tinkamą darbui, pasiekusį nesutrikdomą [būseną] protą, nukreipia, pasuka jį link būtybių mirties ir atgimimo. Jis išgryninta antžmogiška dieviška akimi mato kaip mirusios būtybės atgimsta žemesnėmis, aukštesnėmis, gražiomis, negražiomis, geroje vietoje, blogoje vietoje, jis žino kaip būtybių gyvenimų eiga priklauso nuo jų veiksmų. "Šios gerbiamos būtybės blogo kūno elgesio, blogo kalbos elgesio, blogo proto elgesio, įžeidinėjančios tauriuosius, neteisingų pažiūrų, elgėsi vadovaudamosios neteisingomis pažiūromis. Jos po kūno žūties, po mirties atgimė nelaimingoje sferoje, blogoje vietoje, kančių sferoje, pragare. O šios gerbiamos būtybės gero kūno elgesio, gero kalbos elgesio, gero proto elgesio, neįžeidinėjančios tauriųjų, teisingų pažiūrų, elgėsi vadovaudamosios teisingomis pažiūromis, jos po kūno žūties, po mirties atgimė geroje vietoje, dangaus pasaulyje." Taip jis išgryninta antžmogiška dieviška akimi mato kaip mirusios būtybės atgimsta žemesnėmis, aukštesnėmis, gražiomis, negražiomis, geroje vietoje, blogoje vietoje, jis žino kaip būtybių gyvenimų eiga priklauso nuo jų veiksmų.
 
 Sakykime, karaliau, sankryžos viduryje [būtų] pakyla. Ant jos stovintis, turintis akis žmogus matytų žmones ir įeinančius į namus, ir išeinančius, ir važiuojančius ekipažu gatve, ir sėdinčius viduryje sankryžos. Jis taip pagalvotų: "Šitie žmonės įeina į namus, šitie išeina, šitie važiuoja ekipažu gatve, šitie sėdi viduryje sankryžos." Lygiai taip pat vienuolis turėdamas taip sutelktą, taip išgrynintą... gyvenimų eiga priklauso nuo jų veiksmų. Tai irgi, karaliau, yra čia pat ir iškart regimas atsiskyrimo vaisius nuostabesnis ir puikesnis už ankstesnius čia pat ir iškart regimus atsiskyrimo vaisius.
 
-31.** **Intakų panaikinimo pažinimas
+### 31. Intakų panaikinimo pažinimas
 
-*Āsavakkhayañāṇaṃ *
+*Āsavakkhayañāṇaṃ*
 
-Jis turėdamas taip sutelktą, taip išgrynintą, apvalytą, tokį nesuteptą, be nežymių teršalų, lankstų, tinkamą darbui, pasiekusį nesutrikdomą [būseną] protą, nukreipia, pasuka jį link intakų panaikinimo žinojimo. Jis žino tai kaip yra iš tikrųjų: "Tai yra kentėjimas", jis žino tai kaip yra iš tikrųjų: "Tai yra kentėjimo priežastis", jis žino tai kaip yra iš tikrųjų: "Tai yra kentėjimo išnykimas", jis žino tai kaip yra iš tikrųjų: "Tai yra kelias vedantis į kentėjimo išnykimą". Jis žino tai kaip yra iš tikrųjų: "Tai yra intakai",** **jis žino tai kaip yra iš tikrųjų: "Tai yra intakų priežastis", jis žino tai kaip yra iš tikrųjų: "Tai yra intakų išnykimas", jis žino tai kaip yra iš tikrųjų: "Tai yra kelias vedantis į intakų išnykimą". Jam tai pažinus, tai pamačius, protas išsilaisvina ir nuo juslinių troškimų intako, ir nuo būties troškimo intako,** **ir nuo nežinojimo intako. Išsilaisvinus ateina supratimas 'išsilaisvinęs'. Jis supranta: "Panaikintas gimimas, nugyventas šventas gyvenimas, padaryta tai kas turi būti padaryta, nebebus daugiau šio būvio".
+Jis turėdamas taip sutelktą, taip išgrynintą, apvalytą, tokį nesuteptą, be nežymių teršalų, lankstų, tinkamą darbui, pasiekusį nesutrikdomą [būseną] protą, nukreipia, pasuka jį link intakų panaikinimo žinojimo. Jis žino tai kaip yra iš tikrųjų: "Tai yra kentėjimas", jis žino tai kaip yra iš tikrųjų: "Tai yra kentėjimo priežastis", jis žino tai kaip yra iš tikrųjų: "Tai yra kentėjimo išnykimas", jis žino tai kaip yra iš tikrųjų: "Tai yra kelias vedantis į kentėjimo išnykimą". Jis žino tai kaip yra iš tikrųjų: "Tai yra intakai", jis žino tai kaip yra iš tikrųjų: "Tai yra intakų priežastis", jis žino tai kaip yra iš tikrųjų: "Tai yra intakų išnykimas", jis žino tai kaip yra iš tikrųjų: "Tai yra kelias vedantis į intakų išnykimą". Jam tai pažinus, tai pamačius, protas išsilaisvina ir nuo juslinių troškimų intako, ir nuo būties troškimo intako, ir nuo nežinojimo intako. Išsilaisvinus ateina supratimas 'išsilaisvinęs'. Jis supranta: "Panaikintas gimimas, nugyventas šventas gyvenimas, padaryta tai kas turi būti padaryta, nebebus daugiau šio būvio".
 
 Sakykime, karaliau, būtų tyras, švarus, skaidrus ežeras kalno papėdėje. Turintis akis, stovintis jo pakrantėje žmogus matytų ir austres, ir kriaukles, ir žvyrą, ir akmenukus, ir judančius bei nejudrius žuvų būrius. Jis taip pagalvotų: "Štai tyras, švarus, skaidrus ežeras. Jame yra ir austrės, ir kriauklės, ir žvyras, ir akmenukai, ir judantys bei nejudrūs žuvų būriai." Lygiai taip pat vienuolis turėdamas taip sutelktą, taip išgrynintą... nebebus daugiau šio būvio" jis supranta. Tai, karaliau, yra čia pat ir iškart regimas atsiskyrimo vaisius nuostabesnis ir puikesnis už ankstesnius čia pat ir iškart regimus atsiskyrimo vaisius. Ir už šį čia pat ir iškart regimą atsiskyrimo vaisių nėra kito nuostabesnio ir puikesnio.
 
-32. Adžiatasatus pasiskelbia pasauliečiu pasekėju
+### 32. Adžiatasatus pasiskelbia pasauliečiu pasekėju
 
-*Ajātasattuupāsakattapaṭivedanā *
-
-Kai tai buvo pasakyta, Magadhos karalius Adžatasatus Vedehiputa pasakė Paliamintajam štai ką:
-
-－Nuostabu, gerbiamasis, nuostabu, gerbiamasis. Tai lyg, gerbiamasis, tai kas buvo apversta jis būtų atstatęs atgal, ar tai kas buvo paslėpta jis būtų atskleidęs, ar pasiklydusiam jis būtų parodęs kelią, ar į tamsą atnešęs šviestuvą tam, kad tas kas turi akis pamatytų formas, lygiai taip, gerbiamasis, Palaimintasis daugeliais būdais padarė Dharmą aiškia. Gerbiamasis, aš imu prieglobstį Palaimintajame, Dharmoje ir vienuolių Sanghoje. Lai Palaimintasis nuo šiol laiko mane pasauliečiu pasekėju priėmusi prieglobstį visam gyvenimui.** **Padariau nusikaltimą, gerbiamasis, [tai buvo] taip kvaila, taip neišmintinga, taip nedora, kad aš iš tėvo, iš doro žmogaus, teisingo karaliaus norėdamas sosto atėmiau gyvybę. Gerbiamasis, lai Palaimintasis priima šį mano nusikaltimo prisipažinimą, tam, kad ateityje aš susilaikyčiau.
-
-－Tikrai tu, karaliau, padarei nusikaltimą, [tai buvo] taip kvaila, taip neišmintinga, taip nedora, kad tu iš tėvo, iš doro žmogaus, teisingo karaliaus atėmei gyvybę. Bet dėl to, kad tu pamatęs nusikaltimą kaip nusikaltimą, kaip pridera [jame] mes priimame tavo prisipažinimą.** **Karaliau, švarus tauriųjų drausmės atžvilgiu yra tas, kas pamatęs nusikaltimą kaip nusikaltimą, kaip pridera, [jame] prisipažinai, mes priimame tavo prisipažinimą. Švarus tauriųjų drausmės atžvilgiu yra tas,** **kas pamatęs nusikaltimą kaip nusikaltimą, kaip pridera, [jame] prisipažįsta,** **o ateityje susilaiko.
+*Ajātasattuupāsakattapaṭivedanā*
 
 Kai tai buvo pasakyta, Magadhos karalius Adžatasatus Vedehiputa pasakė Paliamintajam štai ką:
 
-－Na ką gi, gerbiamasis, dabar** **eisiu, turiu daug reikalų, daug ką reikia padaryti.
+－Nuostabu, gerbiamasis, nuostabu, gerbiamasis. Tai lyg, gerbiamasis, tai kas buvo apversta jis būtų atstatęs atgal, ar tai kas buvo paslėpta jis būtų atskleidęs, ar pasiklydusiam jis būtų parodęs kelią, ar į tamsą atnešęs šviestuvą tam, kad tas kas turi akis pamatytų formas, lygiai taip, gerbiamasis, Palaimintasis daugeliais būdais padarė Dharmą aiškia. Gerbiamasis, aš imu prieglobstį Palaimintajame, Dharmoje ir vienuolių Sanghoje. Lai Palaimintasis nuo šiol laiko mane pasauliečiu pasekėju priėmusi prieglobstį visam gyvenimui. Padariau nusikaltimą, gerbiamasis, [tai buvo] taip kvaila, taip neišmintinga, taip nedora, kad aš iš tėvo, iš doro žmogaus, teisingo karaliaus norėdamas sosto atėmiau gyvybę. Gerbiamasis, lai Palaimintasis priima šį mano nusikaltimo prisipažinimą, tam, kad ateityje aš susilaikyčiau.
+
+－Tikrai tu, karaliau, padarei nusikaltimą, [tai buvo] taip kvaila, taip neišmintinga, taip nedora, kad tu iš tėvo, iš doro žmogaus, teisingo karaliaus atėmei gyvybę. Bet dėl to, kad tu pamatęs nusikaltimą kaip nusikaltimą, kaip pridera [jame] mes priimame tavo prisipažinimą. Karaliau, švarus tauriųjų drausmės atžvilgiu yra tas, kas pamatęs nusikaltimą kaip nusikaltimą, kaip pridera, [jame] prisipažinai, mes priimame tavo prisipažinimą. Švarus tauriųjų drausmės atžvilgiu yra tas, kas pamatęs nusikaltimą kaip nusikaltimą, kaip pridera, [jame] prisipažįsta, o ateityje susilaiko.
+
+Kai tai buvo pasakyta, Magadhos karalius Adžatasatus Vedehiputa pasakė Paliamintajam štai ką:
+
+－Na ką gi, gerbiamasis, dabar eisiu, turiu daug reikalų, daug ką reikia padaryti.
 
 －Daryki, karaliau, dabar taip kaip išmanąs.
 
@@ -160,7 +158,7 @@ Tada gi Magadhos karalius Adžatasatus Vedehiputa pasidžiaugęs, patenkintas Pa
 
 Tada gi, netrukus po Magadhos karaliaus Adžatasataus Vedehiputos išvykimo, Palaimintasis kreipėsi į vienuolius:
 
-－Šis karalius, vienuoliai, pražudė save.** **Šis karalius, vienuoliai, sužeidė save. Jei, vienuoliai, šis karalius nebūtų atėmęs gyvybės iš tėvo, iš doro žmogaus, teisingo karaliaus, šitoje pačioje vietoje [jame] būtų atsivėręs nesuterštas, tyras Dharmos matymas.
+－Šis karalius, vienuoliai, pražudė save. Šis karalius, vienuoliai, sužeidė save. Jei, vienuoliai, šis karalius nebūtų atėmęs gyvybės iš tėvo, iš doro žmogaus, teisingo karaliaus, šitoje pačioje vietoje [jame] būtų atsivėręs nesuterštas, tyras Dharmos matymas.
 
 Tai pasakė Palaimintasis. Pamaloninti vienuoliai džiaugėsi Palaimintojo kalba.
 
