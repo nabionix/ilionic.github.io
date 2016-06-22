@@ -1,26 +1,22 @@
 ---
 layout: page
-title: "Sappurisasuttaṃ Apie gerą žmogų (AN 7.II.ii.6)"
-description: ""
-tags: [S]
-index: "S"
+title: 'Apie gerą žmogų (Sappurisasuttaṃ, AN 7.II.ii.6)'
+tags:
+  - S
+index: S
 comments: false
-category: "palaipsnines"
+category: palaipsnines
 sortIndex: 726
 image:
   feature: abstract-2.jpg
+published: true
 ---
-
-Apie gerą žmogų (AN 7.II.ii.6)
-
-*Sappurisasuttaṃ*
-
 Vienuoliai, tas, kas pasižymi keturiomis savybėmis, turėtų būti žinomas kaip negeras žmogus. Kokias keturias? Štai, vienuoliai, negeras žmogus ir nepaklaustas kitų trūkumus atskleidžia, ką jau sakyti kai paklaustas?! O jei klausiamas, jei tardomas, nieko nepraleisdamas, nenutylėdamas, pilnai, detaliai kalba apie kitų trūkumus. Vienuoliai, gali būti žinoma: šis yra negeras žmogus.
 
 Ir vėlgi, vienuoliai, negeras žmogus kitų privalumus ir paklaustas neatskleidžia, ką jau sakyti kai nepaklaustas?! O jei klausiamas, jei tardomas, praleisdamas, nutylėdamas, nepilnai, nedetaliai kalba apie kitų privalumus. Vienuoliai, gali būti žinoma: šis yra negeras žmogus.
 
-Ir vėlgi, vienuoliai, negeras žmogus savo trūkumus ir paklaustas neatskleidžia, ką jau sakyti kai nepaklaustas?! O jei klausiamas, jei tardomas, praleisdamas, nutylėdamas, nepilnai, nedetaliai kalba apie savo trūkumus. Vienuoliai, gali būti žinoma: šis yra negeras žmogus.
-<!--break-->
+Ir vėlgi, vienuoliai, negeras žmogus savo trūkumus ir paklaustas neatskleidžia, ką jau sakyti kai nepaklaustas?! O jei klausiamas, jei tardomas, praleisdamas, nutylėdamas, nepilnai, nedetaliai kalba apie savo trūkumus. Vienuoliai, gali būti žinoma: šis yra negeras žmogus.  
+
 Ir vėlgi, vienuoliai, negeras žmogus savo privalumus ir nepaklaustas atskleidžia, ką jau sakyti kai paklaustas?! O jei klausiamas, jei tardomas nieko nepraleisdamas, nenutylėdamas, pilnai, detaliai kalba apie savo privalumus. Vienuoliai, gali būti žinoma: šis kaip negeras žmogus. Vienuoliai, tas kas turi šias keturias savybes, turėtų būti žinomas yra negeras žmogus.
 
 Vienuoliai, tas, kas pasižymi keturiomis savybėmis, turėtų būti žinomas esąs geras žmogus. Kokias keturias? Štai, vienuoliai, geras žmogus kitų trūkumus ir paklaustas neatskleidžia, ką jau sakyti kai nepaklaustas?! O jei klausiamas, jei tardomas, praleisdamas, nutylėdamas, nepilnai, nedetaliai kalba apie kitų trūkumus. Vienuoliai, gali būti žinoma: šis yra geras žmogus.
@@ -33,7 +29,7 @@ Ir vėlgi, vienuoliai geras žmogus savo privalumus ir paklaustas neatskleidžia
 
 Panašiai, vienuoliai, kaip tik šį vakarą ar dieną atvesta [į vyro namus] marti, turėtų moralinės gėdos ir moralinės baimės jausmą ir anytos, ir šešuro, ir vyro, ar net vergų, darbininkų ir tarnų atžvilgiu. Vėliau, pagyvenus kartu, atsiradus pasitikėjimui, ji ir anytai, ir šešurui, ir vyrui taip pasakys: "Dink, o tu ką išmanai?!" Lygiai gi taip, kažkuris vienuolis tik šį vakarą ar dieną žengęs priekin iš namų į benamį gyvenimą, turėtų moralinės gėdos ir moralinės baimės jausmą vyrų vienuolių, moterų vienuolių, vyrų pasauliečių pasekėjų, moterų pasauliečių pasekėjų ar net vienuolyno naujokų vienuolių atžvilgiu. Vėliau, pagyvenus kartu, atsiradus pasitikėjimui, jis ir mokytojui, ir auklėtojui taip pasakys: "Dink, o tu ką išmanai?!" Taigi, vienuoliai, turėtumėte mokytis taip: "Gyvensiu su ką tik atvestos marčios protu". Vienuoliai, jus turėtumėte mokytis taip.
 
-**Sappurisasuttaṃ** Apie gerą žmogų (AN 7.II.ii.6)
+##**Sappurisasuttaṃ** (Apie gerą žmogų, AN 7.II.ii.6)##
 
 **73. "Catūhi, bhikkhave, dhammehi samannāgato** Vienuoliai, tas, kas pasižymi keturiomis savybėmis, **asappuriso veditabbo.** turėtų būti žinomas kaip negeras žmogus. **Katamehi catūhi?** Kokias keturias? **Idha, bhikkhave, asappuriso** Štai, vienuoliai, negeras žmogus **yo hoti parassa avaṇṇo** kitų trūkumus **taṃ apuṭṭhopi pātu karoti,** ir nepaklaustas atskleidžia, **ko pana vādo puṭṭhassa!** ką jau sakyti kai paklaustas?! **Puṭṭho kho pana pañhābhinīto** O jei klausiamas, jei tardomas, **ahāpetvā alambitvā** nieko nepraleisdamas, nenutylėdamas, **paripūraṃ vitthārena** pilnai, detaliai **parassa avaṇṇaṃ bhāsitā hoti.** kalba apie kitų trūkumus. **Veditabbametaṃ, bhikkhave,** Vienuoliai, gali būti žinoma: **asappuriso ayaṃ bhavanti.** šis yra negeras žmogus.
 
