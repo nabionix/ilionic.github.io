@@ -83,7 +83,6 @@ Tai pasakė Palaimintasis. Pamalonintas vienuolių penketukas džiaugėsi Palaim
 ## Anattalakkhaṇasuttaṃ (Nesavastingumo bruožas, SNIII.I.vi.7)##
 
 
-
 **Ekaṃ samayaṃ bhagavā** Vieną kartą Palaimintasis **bārāṇasiyaṃ viharati** buvo apsistojęs Varanasyje **isipatane** Išminčių vietovėje **migadāye** Elnių parke. **Tatra kho bhagavā** Tada gi Palaimintasis **pañcavaggiyee bhikkhū āmantesi –** kreipėsi į vienuolių penketuką, "**bhikkhavo"ti** "Vienuoliai!". “**Bhadante”ti te bhikkhū bhagavato paccassosuṃ** "Gerbiamasis!"— atsakė Palaimintajam vienuoliai. **Bhagavā etadavoca –** Palaimintasis štai ką pasakė:
 
 "**Rūpaṃ, bhikkhave, anattā.** —Materija, vienuoliai, yra ne-savastis. **Rūpañca hidaṃ, bhikkhave, attā abhavissa** Nes jeigu materija, vienuoliai, būtų savastimi, **nayidaṃ rūpaṃ ābādhāya saṃvatteyya** ši materija nevestų prie ligų, **labbhetha ca rūpe –** ir iš materijos galima būtų gauti: ‘**evaṃ me rūpaṃ hotu** “lai mano materija būna tokia, **evaṃ me rūpaṃ mā ahosī’ti** o šitokia lai mano materija nebūna." **Yasmā ca kho, bhikkhave rūpaṃ anattā** Bet dėl to gi, vienuoliai, kad materija yra ne-savastis, **tasmā rūpaṃ ābādhāya saṃvattati** materija veda prie ligų, **na ca labbhati rūpe –** ir iš materijos negalima gauti: ‘**evaṃ me rūpaṃ hotu** lai mano materija būna tokia, **evaṃ me rūpaṃ mā ahosī’ti** o šitokia lai mano materija nebūna.”
