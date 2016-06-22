@@ -1,21 +1,18 @@
 ---
 layout: page
-title: "Pahārādasuttaṃ Paharadai (AN 8.ii.9)"
-description: ""
-tags: [P]
-index: "P"
+title: 'Paharadai (Pahārādasuttaṃ, AN 8.ii.9)'
+tags:
+  - P
+index: P
 comments: false
-category: "palaipsnines"
+category: palaipsnines
 sortIndex: 829
 image:
   feature: abstract-2.jpg
+published: true
 ---
 
-Paharadai (AN 8.ii.9)
-
-*Pahārādasuttaṃ*
-
-Vieną kartą Palaimintasis buvo apsistojęs Verandžijos nendryne didžiulio Nimmedžio papėdėje. Tada gi pas Palaimintąjį nuėjo asuras* Paharadas, atėjęs pasveikino jį ir atsistojo iš šono. Stovinčiam gi iš šono asurai Paharadai Palaimintasis pasakė štai ką:
+Vieną kartą Palaimintasis buvo apsistojęs Verandžijos nendryne didžiulio Nimmedžio papėdėje. Tada gi pas Palaimintąjį nuėjo asuras\* Paharadas, atėjęs pasveikino jį ir atsistojo iš šono. Stovinčiam gi iš šono asurai Paharadai Palaimintasis pasakė štai ką:
 
 —Bet ar gauna malonumą, Paharadai, asurai iš didžiuojo vandenyno?
 
@@ -24,7 +21,7 @@ Vieną kartą Palaimintasis buvo apsistojęs Verandžijos nendryne didžiulio Ni
 —Bet kiek gi yra nuostabių, stulbinančių didžiojo vandenyno dalykų kuriuos pamatę asurai gauną malonumą iš jo?
 
 —Gerbiamasis, yra aštuoni, nuostabūs, stulbinantys didžiojo vandenyno dalykai, kuriuos pamatę asurai gauną malonumą iš jo. Kurie aštuoni? Didysis vandenynas leidžiasi, šlija, svyra laipsniškai, o ne stačiai kaip skardis. Tai yra pirmas didžiojo vandenyno nuostabus, stulbinantis dalykas, kurį pamatę asurai gauną malonumą iš jo.
-<!--break-->
+
 Ir vėl gi, Gerbiamasis, didysis vandenynas turi stabilumo prigimtį, jis neperžengia krantų. Tai, yra antras didžiojo vandenyno nuostabus, stulbinantis dalykas, kurį pamatę asurai gauną malonumą iš jo.
 
 Ir vėl gi, Gerbiamasis, didysis vandenynas nesubūna nei su mirusiu, nei su maita: gan greitai, tai kas didžiajame vandenyne yra mirę, kas yra maita išnešama į krantą, išstumiama į sausumą. Tai yra trečias didžiojo vandenyno nuostabus, stulbinantis dalykas, kurį pamatę asurai gauną malonumą iš jo.
@@ -37,7 +34,7 @@ Ir vėl gi, Gerbiamasis, didysis vandenynas yra vieno skonio: suraus skonio. Tai
 
 Ir vėl gi, Gerbiamasis, didžiajame vandenyne yra daug brangenybių, brangenybių begalė: ten yra tokios brangenybės kaip: perlas, brangakmenis, lazuritas, kriauklė, kvarcas, koralas, sidabras, auksas, rubinas, turmalinas. Tai yra septintas didžiojo vandenyno nuostabus, stulbinantis dalykas, kurį pamatę asurai gauną malonumą iš jo.
 
-Ir vėl gi, Gerbiamasis, didysis vandenynas yra didelių būtybių namai. Ten yra šios būtybės: kašalotas, mėlynasis banginis, asurai*, nagai**, gandhabai***. Yra didžiajame vandenyne ir vieno šimto jodžianų**** esybės, dviejų šimtų jodžianų esybės, trijų šimtų jodžianų esybės, keturių šimtų jodžianų esybės, penkių šimtų jodžianų esybės. Tai yra aštuntas didžiojo vandenyno nuostabus, stulbinantis dalykas, kurį pamatę asurai gauną malonumą iš jo. Šie gi, Gerbiamasis, yra aštuoni didžiojo vandenyno nuostabūs, stulbinantys dalykai, kuriuos pamatę asurai gauną malonumą iš jo.
+Ir vėl gi, Gerbiamasis, didysis vandenynas yra didelių būtybių namai. Ten yra šios būtybės: kašalotas, mėlynasis banginis, *asurai*\*, *nagai*\*\*, *gandhabai*\*\*\*. Yra didžiajame vandenyne ir vieno šimto *jodžianų*\*\*\*\* esybės, dviejų šimtų jodžianų esybės, trijų šimtų jodžianų esybės, keturių šimtų jodžianų esybės, penkių šimtų jodžianų esybės. Tai yra aštuntas didžiojo vandenyno nuostabus, stulbinantis dalykas, kurį pamatę asurai gauną malonumą iš jo. Šie gi, Gerbiamasis, yra aštuoni didžiojo vandenyno nuostabūs, stulbinantys dalykai, kuriuos pamatę asurai gauną malonumą iš jo.
 
 Gerbiamasis, o ar vienuoliai gauna malonumą iš šios Dharmos-Drausmės?
 
@@ -51,7 +48,7 @@ Panašiai, Paharadai, kaip didysis vandenynas turi stabilumo prigimtį, neperže
 
 Panašiai, Paharadai, kaip didysis vandenynas nesubūna nei su mirusiu, nei su maita: gan greitai, tai kas didžiajame vandenyne mirę, kas yra maita išnešama į krantą, išstumiama į sausumą; taip pat ir sangha nesubūna su morališkai žlugusiu, blogos prigimties, atmintinu dėl nešvaraus, abėjotino elgesio, veikiančiu paslapčiomis asmeniu, su apsimetančiu esą vienuolis netikru vienuoliu, neskaisčuoju apsimetančiu esą skaistuolis, supuvusiu iš vidaus, gaišliu ir purvinu. Gan greitai susirinkę tokį nušalina. Net ir sėdint viduryje vienuolių sangahos, jis yra toli nuo sangahos ir sangaha [yra toli] nuo jo. Tai yra trečias Dharmos-Drausmės nuostabus, stulbinantis dalykas, kurį pamatę vienuoliai gauną malonumą iš jų.
 
-Panašiai, Paharadai, kaip bet kuri didžioji upė, tokia kaip: Ganga Jamuna, Ačiravatė, Sarabhū, Mahy - įtekėjusi į didįjį vandenyną praranda anksetsnį pavadnimą, tampa apybrėžiama tik kaip ‘didysis vandenynas’; taip pat ir šios keturios kastos: kšatrijai, brahmanai, vaišijai, ir šudros - kai jie žengia priekyn iš namų į benamį gyvenimą Tathāgatos skelbiamoje Dhammoje-Disciplinoje, jie** **praranda ankstesnį vardą-pavardę, tampa apybrėžiami tik kaip ‘Sakjaputos atsiskyrėliai’. ITai yra ketvirtas Dharmos-Drausmės nuostabus, stulbinantis dalykas, kurį pamatę vienuoliai gauną malonumą iš jų.
+Panašiai, Paharadai, kaip bet kuri didžioji upė, tokia kaip: Ganga Jamuna, Ačiravatė, Sarabhū, Mahy - įtekėjusi į didįjį vandenyną praranda anksetsnį pavadnimą, tampa apybrėžiama tik kaip ‘didysis vandenynas’; taip pat ir šios keturios kastos: kšatrijai, brahmanai, vaišijai, ir šudros - kai jie žengia priekyn iš namų į benamį gyvenimą Tathāgatos skelbiamoje Dhammoje-Disciplinoje, jie praranda ankstesnį vardą-pavardę, tampa apybrėžiami tik kaip ‘Sakjaputos atsiskyrėliai’. ITai yra ketvirtas Dharmos-Drausmės nuostabus, stulbinantis dalykas, kurį pamatę vienuoliai gauną malonumą iš jų.
 
 Panašiai, Paharadai, kaip nors ir teka pasaulio upės į didįjį vandenyną, nors ir dangaus turinys krenta, dėl to nepasireiškia didžiojo vandenyno nei sumažėjimas, nei pripildymas; taip pat ir nors ir daug vienuolių galutinai įžengia į Nibbanos elementą be liekanos, dėl to nepasireiškia Nibbanos elemento nei sumažėjimas, nei pripildymas. Tai yra penktas Dharmos-Drausmės nuostabus, stulbinantis dalykas, kurį pamatę vienuoliai gauną malonumą iš jų.
 
@@ -61,17 +58,17 @@ Panašiai, Paharadai, kaip didžiajame vandenyne yra daug brangenybių, brangeny
 
 Panašiai, Paharadai, kaip didysis vandenynas yra didelių būtybių namai; ten yra tokios būtybės: kašalotas, mėlynasis banginis, asurai, nagai, gandhabai; yra didžiajame vandenyne ir vieno šimto jodžianų esybės, dviejų šimtų jodžianų esybės, trijų šimtų jodžianų esybės, keturių šimtų jodžianų esybės, penkių šimtų jodžianų esybės; taip pat ir ši Dhamma-Disciplina yra didelių būtybių namai; ten yra tokios būtybės: įžengęs į srautą, keliaujantis link įžengimo į srauto vaisiaus pažinimo, kartą sugrįžtantis, keliaujantis link karto sugrįžimo vaisiaus pažinimo, nebesugrįžtantis, keliaujantis link nebesugrįžimo vaisiaus pažinimo, arahatas, keliaujantis link arahatystės. Tai yra aštuntas Dharmos-Drausmės nuostabus, stulbinantis dalykas, kurį pamatę vienuoliai gauną malonumą iš jų. Šie gi, Paharadai, yra Dharmos-Drausmės aštuoni nuostabūs, stulbinantys dalykai, kuriuos pamatę vienuoliai gauną malonumą iš jų."
 
-**asura - vienos žemesnės dėvų klasės būtybė, budizmo puolęs angelas*
+\**asura - vienos žemesnės dėvų klasės būtybė, budizmo puolęs angelas*
 
-***naga - vienos žemesnės dėvų klasės būtybė; panašaus į gyvatę pavidalo; dažnai turi antgamtinių galių ir pasižymi didžia stiprybe.*
+\*\**naga - vienos žemesnės dėvų klasės būtybė; panašaus į gyvatę pavidalo; dažnai turi antgamtinių galių ir pasižymi didžia stiprybe.*
 
-****gandhaba - žemiausios dėvų klasės būtybė, dangiškasis muzikantas.*
+\*\*\**gandhaba - žemiausios dėvų klasės būtybė, dangiškasis muzikantas.*
 
-*****1 jodžiana ~ 12 km*
+\*\*\*\**1 jodžiana ~ 12 km*
 
-**Pahārādasuttaṃ** 8.2.9?
+##Pahārādasuttaṃ (Paharadai, AN 8.ii.9)
 
-**19. Ekaṃ samayaṃ bhagavā** Vieną kartą Palaimintasis **verañjāyaṃ viharati naḷerupucimandamūle.** buvo apsistojęs Verandžijos nendryne didžiulio Nimmedžio papėdėje. **Atha kho pahārādo asurindo yena bhagavā tenupasaṅkami;** Tada gi pas Palaimintąjį nuėjo asuras* Paharadas, **upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi.** atėjęs pas Palaimintąjį pasveinlkino jį ir atsistojo iš šono. **Ekamantaṃ ṭhitaṃ kho pahārādaṃ asurindaṃ** Stovinčiam gi iš šono asurai Paharadai **bhagavā etadavoca –** Palaimintasis pasakė štai ką:
+**19. Ekaṃ samayaṃ bhagavā** Vieną kartą Palaimintasis **verañjāyaṃ viharati naḷerupucimandamūle.** buvo apsistojęs Verandžijos nendryne didžiulio Nimmedžio papėdėje. **Atha kho pahārādo asurindo yena bhagavā tenupasaṅkami;** Tada gi pas Palaimintąjį nuėjo asuras\* Paharadas, **upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi.** atėjęs pas Palaimintąjį pasveinlkino jį ir atsistojo iš šono. **Ekamantaṃ ṭhitaṃ kho pahārādaṃ asurindaṃ** Stovinčiam gi iš šono asurai Paharadai **bhagavā etadavoca –** Palaimintasis pasakė štai ką:
 
 **"Api [kiṃ (ka.)] pana, pahārāda[198], asurā mahāsamudde abhiramantī"ti?** "Bet ar gauna malonumą, Paharadai, asurai iš didžiuojo vandenyno?" **“Abhiramanti, bhante, asurā mahāsamudde”ti.** "Gauna, gerbiamasis, malonumą asurai iš didžiojo vandenyno." **“Kati pana, pahārāda, mahāsamudde acchariyā abbhutā dhammā [abbhutadhammā (syā. ka.) cūḷava. 384 passitabbaṃ],** "Bet kiek gi yra didžiuojo vandenyno nuostabių, stulbinančių dalykų, **ye disvā disvā asurā mahāsamudde abhiramantī”ti?** kuriuos pamatę asurai gauną malonumą iš didžiojo vandenyno?"
 
@@ -89,7 +86,7 @@ Panašiai, Paharadai, kaip didysis vandenynas yra didelių būtybių namai; ten 
 
 **"Puna caparaṃ, bhante,** Ir vėl gi, Gerbiamasis, **mahāsamuddo bahuratano [pahūtaratano (ka.)] anekaratano.** didžiajame vandenyne yra daug brangenybių, brangenybių begalė. **Tatrimāni ratanāni, seyyathidaṃ –** Ten yra tokios brangenybės kaip **muttā maṇi veḷuriyo** perlas, brangakmenis, lazuritas, **saṅkho silā pavāḷaṃ** kriauklė, kvarcas, koralas, **rajataṃ jātarūpaṃ lohitako masāragallaṃ.** sidabras, auksas, rubinas, turmalinas. **Yampi, bhante,** Ir tai, Gerbiamasis, kad **mahāsamuddo bahuratano anekaratano;** didžiajame vandenyne yra daug brangenybių, brangenybių begalė, **Tatrimāni ratanāni, seyyathidaṃ –** ten yra tokios brangenybės kaip **muttā maṇi veḷuriyo **perlas, brangakmenis, lazuritas, **saṅkho silā pavāḷaṃ** kriauklė, kvarcas, koralas, **rajataṃ jātarūpaṃ lohitako masāragallaṃ.** sidabras, auksas, rubinas, turmalinas; **Ayaṃ, bhante, mahāsamudde [200] sattamo acchariyo abbhuto dhammo,** yra septintas didžiojo vandenyno nuostabus, stulbinantis dalykas, **yaṃ disvā disvā asurā mahāsamudde abhiramanti.** kurį pamatę asurai gauną malonumą iš didžiojo vandenyno.
 
-**"Puna caparaṃ, bhante,** Ir vėl gi, Gerbiamasis, **mahāsamuddo mahataṃ bhūtānaṃ āvāso.** didysis vandenynas yra didelių būtybių namai. **Tatrime bhūtā – **Ten yra šios būtybės: **timi timiṅgalo timirapiṅgalo [timitimiṅgalā timirapiṅgalā (sī.), timitimiṅgalā timiramiṅgalā (syā. pī.)]** kašalotas, mėlynasis banginis, **asurā nāgā gandhabbā.** asurai, nagai, gandhabai. **Santi mahāsamudde yojanasatikāpi attabhāvā,** Yra didžiajame vandenyne ir vieno šimto jodžianų esybės, **dviyojanasatikāpi attabhāvā,** dviejų šimtų jodžianų esybės, **tiyojanasatikāpi attabhāvā,** trijų šimtų jodžianų esybės, **catuyojanasatikāpi attabhāvā,** keturių šimtų jodžianų esybės, **pañcayojanasatikāpi attabhāvā.** penkių šimtų jodžianų esybės. **Yampi, bhante,** Ir tai, Gerbiamasis, kad **mahāsamuddo mahataṃ bhūtānaṃ āvāso;** didysis vandenynas yra didelių būtybių namai, **tatrime bhūtā – **ten yra tokios būtybės: **timi timiṅgalo timirapiṅgalo** kašalotas, mėlynasis banginis, **asurā nāgā gandhabbā;** asurai, nagai, gandhabai; **santi mahāsamudde yojanasatikāpi attabhāvā…pe…**yra didžiajame vandenyne ir vieno šimto jodžianų esybės... **dviyojana… tiyojana… catuyojana… pañcayojanasatikāpi attabhāvā;** dvejų... trijų... keturių... penkių šimtų jodžianų esybės; **ayaṃ, bhante, mahāsamudde aṭṭhamo acchariyo abbhuto dhammo,** yra aštuntas didžiojo vandenyno nuostabus, stulbinantis dalykas, **yaṃ disvā disvā asurā mahāsamudde abhiramanti.** kurį pamatę asurai gauną malonumą iš didžiojo vandenyno. **Ime kho, bhante, mahāsamudde aṭṭha acchariyā abbhutā dhammā, **Šie gi, Gerbiamasis, yra didžiojo vandenyno aštuoni, nuostabūs, stulbinantys dalykai, **ye disvā disvā asurā mahāsamudde abhiramantīti.** kuriuos pamatę asurai gauną malonumą iš didžiojo vandenyno.
+**"Puna caparaṃ, bhante,** Ir vėl gi, Gerbiamasis, **mahāsamuddo mahataṃ bhūtānaṃ āvāso.** didysis vandenynas yra didelių būtybių namai. **Tatrime bhūtā – **Ten yra šios būtybės: **timi timiṅgalo timirapiṅgalo [timitimiṅgalā timirapiṅgalā (sī.), timitimiṅgalā timiramiṅgalā (syā. pī.)]** kašalotas, mėlynasis banginis, **asurā nāgā gandhabbā.** *asurai*\*, *nagai*\*\*, *gandhabai*\*\*\*. **Santi mahāsamudde yojanasatikāpi attabhāvā,** Yra didžiajame vandenyne ir vieno šimto jodžianų esybės, **dviyojanasatikāpi attabhāvā,** dviejų šimtų *jodžianų*\*\*\*\* esybės, **tiyojanasatikāpi attabhāvā,** trijų šimtų jodžianų esybės, **catuyojanasatikāpi attabhāvā,** keturių šimtų jodžianų esybės, **pañcayojanasatikāpi attabhāvā.** penkių šimtų jodžianų esybės. **Yampi, bhante,** Ir tai, Gerbiamasis, kad **mahāsamuddo mahataṃ bhūtānaṃ āvāso;** didysis vandenynas yra didelių būtybių namai, **tatrime bhūtā – **ten yra tokios būtybės: **timi timiṅgalo timirapiṅgalo** kašalotas, mėlynasis banginis, **asurā nāgā gandhabbā;** asurai, nagai, gandhabai; **santi mahāsamudde yojanasatikāpi attabhāvā…pe…**yra didžiajame vandenyne ir vieno šimto jodžianų esybės... **dviyojana… tiyojana… catuyojana… pañcayojanasatikāpi attabhāvā;** dvejų... trijų... keturių... penkių šimtų jodžianų esybės; **ayaṃ, bhante, mahāsamudde aṭṭhamo acchariyo abbhuto dhammo,** yra aštuntas didžiojo vandenyno nuostabus, stulbinantis dalykas, **yaṃ disvā disvā asurā mahāsamudde abhiramanti.** kurį pamatę asurai gauną malonumą iš didžiojo vandenyno. **Ime kho, bhante, mahāsamudde aṭṭha acchariyā abbhutā dhammā, **Šie gi, Gerbiamasis, yra didžiojo vandenyno aštuoni, nuostabūs, stulbinantys dalykai, **ye disvā disvā asurā mahāsamudde abhiramantīti.** kuriuos pamatę asurai gauną malonumą iš didžiojo vandenyno.
 
 **"Api pana, bhante, bhikkhū** "Gerbiamasis, o ar vienuoliai **imasmiṃ dhammavinaye abhiramantī"ti?** gauna malonumą iš šios Dharmos-Drausmės?" **“Abhiramanti, pahārāda, bhikkhū** "Paharadai, vienuoliai gauna malonumą **imasmiṃ dhammavinaye”ti.** iš šios Dharmos-Drausmės." **“Kati pana, bhante, imasmiṃ dhammavinaye acchariyā abbhutā dhammā,** "Bet kiek gi yra nuostabių, stulbinančių dalykų, **ye disvā disvā bhikkhū imasmiṃ dhammavinaye abhiramantī”ti?** kuriuos pamatę vienuoliai gauną malonumą iš šios Dharmos-Drausmės?" **“Aṭṭha, pahārāda, imasmiṃ dhammavinaye acchariyā abbhutā dhammā,** Paharadai, yra aštuoni šios Dharmos-Drausmės nuostabūs, stulbinantys dalykai, **ye disvā disvā bhikkhū imasmiṃ dhammavinaye abhiramanti.** kuriuos pamatę vienuoliai gauną malonumą iš šios Dharmos-Drausmės. **Katame aṭṭha?** Kurie aštuoni? **Seyyathāpi, pahārāda,** Panašiai, Paharadai, kaip **mahāsamuddo anupubbaninno anupubbapoṇo anupubbapabbhāro,** didysis vandenynas leidžiasi laipsniškai, šlija laipsniškai, svyra laipsniškai, **na āyatakeneva papāto [201];** o ne stačiai kaip skardis; **evamevaṃ kho, pahārāda,** Paharadai, taip pat ir **imasmiṃ dhammavinaye anupubbasikkhā anupubbakiriyā anupubbapaṭipadā, na āyatakeneva aññāpaṭivedho.** prasiskverbimas į tobulą pažinimą šioje Dhammoje-Disciplinoje [įvyksta] dėl laipsniško mokymosi, laipsniškos veiklos, laipsniško ėjimo keliu. **Yampi, pahārāda,** Ir tai, Paharadai, **imasmiṃ dhammavinaye anupubbasikkhā anupubbakiriyā anupubbapaṭipadā, na āyatakeneva aññāpaṭivedho.** kad prasiskverbimas į tobulą pažinimą šioje Dhammoje-Disciplinoje [įvyksta] dėl laipsniško mokymosi, laipsniškos veiklos, laipsniško ėjimo keliu, **Ayaṃ, pahārāda, imasmiṃ dhammavinaye paṭhamo acchariyo abbhuto dhammo,** yra, Paharadai, pirmas šios Dharmos-Drausmės nuostabus, stulbinantis dalykas, **yaṃ disvā disvā bhikkhū imasmiṃ dhammavinaye abhiramanti.** kurį pamatę vienuoliai gauną malonumą iš šios Dharmos-Drausmės.
 
@@ -107,10 +104,10 @@ Panašiai, Paharadai, kaip didysis vandenynas yra didelių būtybių namai; ten 
 
 **"Seyyathāpi, pahārāda,** Panašiai, Paharadai, kaip **mahāsamuddo mahataṃ bhūtānaṃ āvāso;** didysis vandenynas yra didelių būtybių namai; **tatrime bhūtā –** ten yra tokios būtybės: **timi timiṅgalo timirapiṅgalo** kašalotas, mėlynasis banginis, **asurā nāgā gandhabbā;** asurai, nagai, Gandhabai; **Santi mahāsamudde yojanasatikāpi attabhāvā,** yra didžiajame vandenyne ir vieno šimto jodžianų esybės, **dviyojanasatikāpi attabhāvā,** dviejų šimtų jodžianų esybės, **tiyojanasatikāpi attabhāvā,** trijų šimtų jodžianų esybės, **catuyojanasatikāpi attabhāvā,** keturių šimtų jodžianų esybės, **pañcayojanasatikāpi attabhāvā;** penkių šimtų jodžianų esybės; **evamevaṃ kho, pahārāda,** Paharadai, taip pat ir **ayaṃ dhammavinayo mahataṃ bhūtānaṃ āvāso;** ši Dhamma-Disciplina yra didelių būtybių namai; **tatrime bhūtā –** ten yra tokios būtybės: **sotāpanno sotāpattiphalasacchikiriyāya paṭipanno,** įžengęs į srautą, keliaujantis link įžengimo į srauto vaisiaus pažinimo, **sakadāgāmī sakadāgāmiphalasacchikiriyāya paṭipanno,** kartą sugrįžtantis, keliaujantis link karto sugrįžimo vaisiaus pažinimo, **anāgāmī anāgāmiphalasacchikiriyāya paṭipanno,** nebesugrįžtantis, keliaujantis link nebesugrįžimo vaisiaus pažinimo, **arahā arahattāya paṭipanno.** arahatas, keliaujantis link arahatystės. **Yampi, pahārāda,** Ir tai, Paharadai, **ayaṃ dhammavinayo mahataṃ bhūtānaṃ āvāso;** kad ši Dhamma-Disciplina yra didelių būtybių namai; **tatrime bhūtā – sotāpanno sotāpattiphalasacchikiriyāya paṭipanno,** ten yra tokios būtybės: **sotāpanno sotāpattiphalasacchikiriyāya paṭipanno,** įžengęs į srautą, keliaujantis link įžengimo į srauto vaisiaus pažinimo, **sakadāgāmī sakadāgāmiphalasacchikiriyāya paṭipanno,** kartą sugrįžtantis, keliaujantis link karto sugrįžimo vaisiaus pažinimo, **anāgāmī anāgāmiphalasacchikiriyāya paṭipanno,** nebesugrįžtantis, keliaujantis link nebesugrįžimo vaisiaus pažinimo, **arahā arahattāya paṭipanno;** arahatas, keliaujantis link arahatystės; **ayaṃ, pahārāda, imasmiṃ dhammavinaye aṭṭhamo acchariyo abbhuto dhammo,** yra, Paharadai, aštuntas šios Dharmos-Drausmės nuostabus, stulbinantis dalykas, **yaṃ disvā disvā bhikkhū imasmiṃ dhammavinaye abhiramanti.** kurį pamatę vienuoliai gauną malonumą iš šios Dharmos-Drausmės. **Ime kho, pahārāda, imasmiṃ dhammavinaye aṭṭha acchariyā abbhutā dhammā,** Šie gi, Paharadai, yra šios Dharmos-Drausmės aštuoni, nuostabūs, stulbinantys dalykai, **ye disvā disvā bhikkhū imasmiṃ dhammavinaye abhiramantī"** kuriuos pamatę vienuoliai gauną malonumą iš šios Dharmos-Drausmės."
 
-**asura - vienos žemesnės dėvų klasės būtybė, budizmo puolęs angelas*
+\**asura - vienos žemesnės dėvų klasės būtybė, budizmo puolęs angelas*
 
-***naga - vienos žemesnės dėvų klasės būtybė; panašaus į gyvatę pavidalo; dažnai turi antgamtinių galių ir pasižymi didžia stiprybe.*
+\*\**naga - vienos žemesnės dėvų klasės būtybė; panašaus į gyvatę pavidalo; dažnai turi antgamtinių galių ir pasižymi didžia stiprybe.*
 
-****gandhaba - žemiausios dėvų klasės būtybė, dangiškasis muzikantas.*
+\*\*\**gandhaba - žemiausios dėvų klasės būtybė, dangiškasis muzikantas.*
 
-*****1 jodžiana ~ 12 km*
+\*\*\*\**1 jodžiana ~ 12 km*
