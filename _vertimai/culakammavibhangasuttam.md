@@ -59,7 +59,7 @@ Kai tai buvo pasakyta, jaunuolis Subha Todėjaputa pasakė Palaimintajam štai k
 
 —Nuostabu, gerbiamasis Gotama, nuostabu, gerbiamasis Gotama! Tai lyg tai kas buvo apversta, jis būtų atstatęs atgal, ar tai kas buvo paslėpta, jis būtų atskleidęs, ar pasiklydusiam jis būtų parodęs kelią, ar į tamsą atnešęs šviestuvą tam, kad tas kas turi akis pamatytų formas, lygiai taip agerbiamasis Gotama daugeliais būdais paaiškino Dhammą. Aš priimu prieglobstį gerbiamajame Gotomoje, Dhammoje ir vienuolių Saṅghoje. Lai gerbiamasis Gotama nuo šiol laiko mane pasauliečiu pasekėju priėmusiu prieglobstį visam gyvenimui.
 
-##Cūḷakammavibhaṅgasuttaṃ (Mažoji veiksmų analizė, MN III.iv.5)##
+## Cūḷakammavibhaṅgasuttaṃ (Mažoji veiksmų analizė, MN III.iv.5)
 
 **289. Evaṃ me sutaṃ –** Taip aš girdėjau: **ekaṃ samayaṃ bhagavā** Vieną kartą Palaimintasis **sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme** buvo apsistojęs Savathėje, Džėtos girioje, Anathapindikos vienuolyne. **Atha kho subho māṇavo todeyyaputto yena bhagavā tenupasaṅkami;** Tada gi jaunuolis Subha Todėjaputa nuėjo pas Palaimintąjį, **upasaṅkamitvā bhagavatā saddhiṃ sammodi.** atėjęs apsikeitė su juo mandagiais sveikinimais. **Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi.** Apsikeitus mandagiais sveikinimais ir draugiškais žodžiais atsisėdo iš šono. **Ekamantaṃ nisinno kho subho māṇavo todeyyaputto bhagavantaṃ etadavoca –** Sėdint iš šono jaunuolis Subho Todeyyaputta Palaimintajam štai ką pasakė:
 
