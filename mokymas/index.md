@@ -1,12 +1,9 @@
 ---
-layout: collection
+layout: category
 title: "Mokymas"
 description: ""
-tags: [mokymas]
 category: "mokymas"
 comments: false
 image:
-  feature: buddha-wheel.jpg
+  feature: buddha4801.jpg
 ---
-
-All
