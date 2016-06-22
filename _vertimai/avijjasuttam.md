@@ -1,20 +1,16 @@
 ---
 layout: page
-title: "Avijjāsuttaṃ (AN10.II.ii.1)"
-description: ""
-tags: [A]
-index: "A"
+title: 'Nežinojimas (Avijjāsuttaṃ, AN10.II.ii.1)'
+tags:
+  - A
+index: A
 comments: false
-category: "palaipsnines"
+category: palaipsnines
 sortIndex: 10221
 image:
   feature: abstract-2.jpg
+published: true
 ---
-
-1. Nežinojimas (AN10.II.ii.1)
-
-*Avijjāsuttaṃ*
-
 — Vienuoliai, yra sakoma, kad neįmanoma nurodyti nežinojimo pradinį tašką [sakant]: "Prieš tai nežinojimo nebuvo, o tada, vėliau, atsirado." Bet vis dėl to įmanoma nurodyti: "Štai nežinojimo priežastis".
 
 Vienuoliai, aš sakau, kad nežinojimas turi maitinimą, nėra be maitinimo. Ir kas yra nežinojimo maitinimas? Pasakytina: penkios kliūtys. Vienuoliai, aš taip pat sakau, kad penkios kliūtys turi maitinimą, nėra be maitinimo. Ir kas yra penkių kliūčių maitinimas? Pasakytina: trys blogi elgesiai. Vienuoliai, aš taip pat sakau, kad trys blogi elgesiai turi maitinimą, nėra be maitinimo. Ir kas yra trijų blogų elgesių maitinimas? Pasakytina: juslinių gebėjimų nesutvardymas. Vienuoliai, aš taip pat sakau, kad juslinių gebėjimų nesutvardymas turi maitinimą, nėra be maitinimo. Ir kas yra juslinių gebėjimų nesutvardymo maitinimas? Pasakytina: sąmoningumo ir aiškaus supratimo nebuvimas. Vienuoliai, aš taip pat sakau, kad sąmoningumo ir aiškaus supratimo nebuvimas turi maitinimą, nėra be maitinimo. Ir kas yra sąmoningumo ir aiškaus supratimo nebuvimo maitinimas? Pasakytina: nuodugnaus dėmėjimosi nebuvimas. Vienuoliai, aš taip pat sakau, kad nuodugnaus dėmėjimosis nebuvimas turi maitinimą, nėra be maitinimo. Ir kas yra nuodugnaus dėmėjimosi nebuvimo maitinimas? Pasakytina: tikėjimo nebuvimas. Vienuoliai, aš taip pat sakau, kad tikėjimo nebuvimas turi maitinimą, nėra be maitinimo. Ir kas yra tikėjimo nebuvimo maitinimas? Pasakytina: geros Dharmos negirdėjimas. Vienuoliai, aš taip pat sakau, kad geros Dharmos negirdėjimas turi maitinimą, nėra be maitinimo. Ir kas yra geros Dharmos negirdėjimo maitinimas? Pasakytina: nebendravimas su gerais žmoniemis.
