@@ -22,8 +22,6 @@ Palaimintasis štai ką pasakė:
 
 — Materija, vienuoliai, yra ne-savastis. Nes jeigu materija būtų savastimi, ji nevestų prie ligų, ir panorėjus: "lai mano materija būna tokia, o šitokia lai mano materija nebūna", iš jos galima būtų tai gauti. Bet dėl to gi, vienuoliai, kad materija yra ne-savastis, ji veda prie ligų, ir panorėjus: "lai mano materija būna tokia, o šitokia lai mano materija nebūna", iš jos negalima to gauti.
 
-<!--break-->
-
 Jausmas yra ne-savastis...
 
 Suvokimas yra ne-savastis...
@@ -68,7 +66,7 @@ Sąmonė yra ne-savastis. Nes jeigu sąmonė, vienuoliai, būtų savastimi, ši 
 
 — Tikrai ne, Gerbiamasis.
 
-**— Todėl, vienuoliai, bet kokia materija: ar tai praeityje, dabar, ar ateityje, ar vidinė, ar išorinė, ar akivaizdi, ar subtili, ar žemesnė, ar viršesnė, ar toli, ar arti - visa materija, "nėra mano, nėra 'aš', nėra manasis 'aš'". Tas su teisinga išmintimi turi būti pamatyta taip, kaip tai iš tiesų yra.**
+— Todėl, vienuoliai, bet kokia materija: ar tai praeityje, dabar, ar ateityje, ar vidinė, ar išorinė, ar akivaizdi, ar subtili, ar žemesnė, ar viršesnė, ar toli, ar arti - visa materija, "nėra mano, nėra 'aš', nėra manasis 'aš'". Tas su teisinga išmintimi turi būti pamatyta taip, kaip tai iš tiesų yra.
 
 Bet koks jausmas ...
 
@@ -80,9 +78,11 @@ Bet kuri sąmonė ar tai praeityje, dabar, ar ateityje, ar vidinė, ar išorinė
 
 Tai pamatęs, vienuoliai, apsišvietęs tauriųjų mokinys nusivilia materija, jausmu, suvokimu, proto dariniais ir sąmone. Nusivylus užgęsta potraukis. Užgesus potraukiui išsilaisvinama. Išsilaisvinus ateina supratimas: 'Išsilaisvinęs'. Jis supranta, "Panaikintas gimimas, nugyventas šventas gyvenimas, padaryta tai kas turi būti padaryta, nebebus daugiau šio būvio".
 
-Tai pasakė Palaimintasis. Pamalonintas vienuolių penketukas džiaugėsi Palaimintojo kalba. Ir tuo pat metų kai buvo duodamas šis išaiškinimas, išdėstymas vienuolių penketuko protai dėl neprisirišimo išsilaisvino nuo intakų.
+Tai pasakė Palaimintasis. Pamalonintas vienuolių penketukas džiaugėsi Palaimintojo kalba. Ir tuo pat metų kai buvo duodamas šis išaiškinimas, išdėstymas vienuolių penketuko protai dėl neprisirišimo išsilaisvino nuo intakų. 
 
-**Anattalakkhaṇasuttaṃ **Nesavastingumo bruožas (SNIII.I.vi.7)
+## Anattalakkhaṇasuttaṃ (Nesavastingumo bruožas, SNIII.I.vi.7)##
+
+
 
 **Ekaṃ samayaṃ bhagavā** Vieną kartą Palaimintasis **bārāṇasiyaṃ viharati** buvo apsistojęs Varanasyje **isipatane** Išminčių vietovėje **migadāye** Elnių parke. **Tatra kho bhagavā** Tada gi Palaimintasis **pañcavaggiyee bhikkhū āmantesi –** kreipėsi į vienuolių penketuką, "**bhikkhavo"ti** "Vienuoliai!". “**Bhadante”ti te bhikkhū bhagavato paccassosuṃ** "Gerbiamasis!"— atsakė Palaimintajam vienuoliai. **Bhagavā etadavoca –** Palaimintasis štai ką pasakė:
 
