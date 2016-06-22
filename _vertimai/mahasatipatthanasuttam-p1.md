@@ -19,7 +19,7 @@ Taip aš girdėjau: vieną kartą Palaimintasis buvo apsistojęs Kurų šalyje K
 －Gerbiamasis, - atsakė tie vienuoliai Palaimintajam.  
 Palaimintasis pasakė štai ką:
 
-###Teiginys
+### Teiginys
 
 *Uddeso*
 
@@ -27,7 +27,7 @@ Palaimintasis pasakė štai ką:
 
 Kurie keturi? Štai, vienuoliai, vienuolis gyvena kūno atžvilgiu kontempliuodamas kūną, būdamas uolus, su aiškiu supratimu, sąmoningas, be godulio ir nepasitenkinimo pasauliu; gyvena jausmų atžvilgiu kontempliuodamas jausmus, būdamas uolus, su aiškiu supratimu, sąmoningas, be godulio ir nepasitenkinimo pasauliu; gyvena proto atžvilgiu kontempliuodamas protą, būdamas uolus, su aiškiu supratimu, sąmoningas, be godulio ir nepasitenkinimo pasauliu; gyvena reiškinių atžvilgiu kontempliuodamas reiškinius, būdamas uolus, su aiškiu supratimu, sąmoningas, be godulio ir nepasitenkinimo pasauliu.
 
-###Kūno kontempliacija, kvėpavimo sąmoningumo skyrius
+### Kūno kontempliacija, kvėpavimo sąmoningumo skyrius
 
 *Kāyānupassanā ānāpānapabbaṃ*
 
@@ -35,19 +35,19 @@ Ir kaipgi, vienuoliai, vienuolis gyvena kūno atžvilgiu kontempliuodamas kūną
 
 Panašiai, vienuoliai, kaip įgudęs sukėjas arba sukėjo padėjėjas traukdamas ilgai žino „traukiu ilgai", traukdamas trumpai žino „traukiu trumpai“, taip, vienuoliai, ir vienuolis ilgai įkvėpdamas žino “įkvepiu ilgai", ilgai iškvėpdamas žino “iškvepiu ilgai"; trumpai įkvėpdamas žino “įkvepiu trumpai", trumpai iškvėpdamas žino “iškvepiu trumpai"; jis mokosi "įkvėpsiu patirdamas visą kūną", mokosi "iškvėpsiu patirdamas visą kūną"; mokosi "įkvėpsiu nuramindamas kūno darinius", mokosi "iškvėpsiu nuramindamas kūno darinius". Taip, jis kūno atžvilgiu būna stebintis kūną viduje, arba kūno atžvilgiu būna stebintis kūną išorėje, arba kūno atžvilgiu būna stebintis kūną ir viduje, ir išorėje. Jis stebi atsiradimo prigimtį kūno atžvilgiu, arba stebi irimo prigimtį kūno atžvilgiu, arba stebi atsiradimo ir irimo prigimtį kūno atžvilgiu, arba “yra kūnas“ jame yra įsteigtas sąmoningumas, toks, kad to pakanka žinojimui ir besitęsiančiam sąmoningumui. Jis būna nepriklausomas ir pasaulyje prie nieko neprisiriša. Taip irgi, vienuoliai, vienuolis gyvena kūno atžvilgiu kontempliuodamas kūną
 
-###Kūno kontempliacija, pozų skyrius
+### Kūno kontempliacija, pozų skyrius
 
 *Kāyānupassanā iriyāpathapabbaṃ*
 
 Ir vėlgi, vienuoliai, vienuolis eidamas žino "aš einu", stovėdamas žino "aš stoviu", sėdėdamas žino "aš sėdžiu" arba gulėdamas žino "aš guliu". Ir kokioje pozoje jo kūnas bebūtų, jis tai žino. Taip, jis kūno atžvilgiu būna stebintis kūną viduje, arba kūno atžvilgiu būna stebintis kūną išorėje, arba kūno atžvilgiu būna stebintis kūną ir viduje, ir išorėje. Jis stebi atsiradimo prigimtį kūno atžvilgiu, arba stebi irimo prigimtį kūno atžvilgiu, arba stebi atsiradimo ir irimo prigimtį kūno atžvilgiu, arba "yra kūnas“ jame yra įsteigtas sąmoningumas, toks, kad to pakanka žinojimui ir besitęsiančiam sąmoningumui. Jis būna nepriklausomas ir pasaulyje prie nieko neprisiriša. Taip irgi, vienuoliai, vienuolis gyvena kūno atžvilgiu kontempliuodamas kūną.
 
-###Kūno kontempliacija, aiškaus supratimo skyrius
+### Kūno kontempliacija, aiškaus supratimo skyrius
 
 *Kāyānupassanā sampajānapabbaṃ*
 
 Ir vėlgi, vienuoliai, vienuolis kai eina į priekį ir kai eina atgal, daro tai aiškiai suprasdamas, kai žiūri į priekį ir kai žiūri į šalis, daro tai aiškiai suprasdamas, kai sulenkia ir kai ištęsia [galūnes], daro tai aiškiai suprasdamas, kai dėvi apdarus ir kai neša dubenį aukoms, daro tai aiškiai suprasdamas, kai valgo, geria, kramto ir kai ragauja, daro tai aiškiai suprasdamas, kai tuštinasi ir kai šlapinasi, daro tai aiškiai suprasdamas, kai eina, stovi, sėdi, guli, pabunda, kalba ir kai tyli, daro tai aiškiai suprasdamas. Taip, jis kūno atžvilgiu... Taip irgi, vienuoliai, vienuolis gyvena kūno atžvilgiu kontempliuodamas kūną.
 
-###Kūno kontempliacija, šlykštėjimosis skyrius
+### Kūno kontempliacija, šlykštėjimosis skyrius
 
 *Kāyānupassanā paṭikūlamanasikārapabbaṃ*
 
@@ -57,7 +57,7 @@ Panašiai, vienuoliai, kaip kad būtų maišas turintis dvi angas pilnas visokia
 
 Taip, jis kūno atžvilgiu... Taip irgi, vienuoliai, vienuolis gyvena kūno atžvilgiu kontempliuodamas kūną.
 
-###Kūno kontempliacija, dėmesio į elementus skyrius
+### Kūno kontempliacija, dėmesio į elementus skyrius
 
 *Kāyānupassanā dhātumanasikārapabbaṃ*
 
@@ -67,7 +67,7 @@ Panašiai, vienuoliai, kaip įgudęs skerdikas ar skerdiko padėjėjas sėdėtų
 
 Taip, jis kūno atžvilgiu būna stebintis kūną viduje... Taip irgi, vienuoliai, vienuolis gyvena kūno atžvilgiu kontempliuodamas kūną.
 
-###Kūno kontempliacija, devynios kapinių kontempliacijos
+### Kūno kontempliacija, devynios kapinių kontempliacijos
 
 *Kāyānupassanā navasivathikapabbaṃ*
 
@@ -85,19 +85,19 @@ Taip, jis kūno atžvilgiu... Taip irgi, vienuoliai, vienuolis kūno atžvilgiu 
 
 Ir vėlgi, vienuoliai, vienuolis panašiai kaip kad jei matytų išmesto kapinėse kūno baltus kaulus įgavusius kriauklės spalvą... pasenusių kaulų krūvą... supuvusius kaulus pavirtusius dulkėmis. Jis sulygina šitą patį kūną [su juo]: "Šitas gi kūnas taip pat yra tokios prigimties, tokia [jo] ateitis, [jis] to neišvengs." Taip, jis kūno atžvilgiu būna stebintis kūną viduje, arba kūno atžvilgiu būna stebintis kūną išorėje, arba kūno atžvilgiu būna stebintis kūną ir viduje, ir išorėje. Jis stebi atsiradimo prigimtį kūno atžvilgiu, arba stebi irimo prigimtį kūno atžvilgiu, arba stebi atsiradimo ir irimo prigimtį kūno atžvilgiu. Arba "yra kūnas“ jame yra įsteigtas sąmoningumas, toks, kad to pakanka žinojimui ir besitęsiančiam sąmoningumui. Jis būna nepriklausomas ir pasaulyje prie nieko neprisiriša. Taip irgi, vienuoliai, vienuolis gyvena kūno atžvilgiu kontempliuodamas kūną.
 
-###Jausmų kontempliacija
+### Jausmų kontempliacija
 
 *Vedanānupassana*
 
 Ir kaipgi, vienuoliai, vienuolis gyvena jausmų atžvilgiu kontempliuodamas jausmus? Štai vienuolis, jausdamas malonų jausmą, žino „jaučiu malonų jausmą"; jausdamas nemalonų jausmą, žino „jaučiu nemalonų jausmą“; jausdamas nei nemalonų, nei malonų jausmą, žino „jaučiu nei nemalonų, nei malonų jausmą“; jausdamas žemišką malonų jausmą, žino „jaučiu žemišką malonų jausmą; jausdamas dvasinį malonų jausmą, žino „jaučiu dvasinį malonų jausmą“; jausdamas žemišką nemalonų jausmą, žino „jaučiu žemišką nemalonų jausmą“; jausdamas dvasinį nemalonų jausmą, žino „jaučiu dvasinį nemalonų jausmą“; jausdamas žemišką nei nemalonų, nei malonų jausmą, žino „jaučiu žemišką nei nemalonų, nei malonų jausmą“; jausdamas dvasinį nei nemalonų, nei malonų jausmą, žino „jaučiu dvasinį nei nemalonų, nei malonų jausmą.“ Taip, jis jausmų atžvilgiu būna stebintis jausmus viduje, arba jausmų atžvilgiu būna stebintis jausmus išorėje, arba jausmų atžvilgiu būna stebintis jausmus ir viduje, ir išorėje. Jis stebi atsiradimo prigimtį jausmų atžvilgiu, arba stebi irimo prigimtį jausmų atžvilgiu, arba stebi atsiradimo ir irimo prigimtį jausmų atžvilgiu. Arba “yra jausmas“ jame yra įsteigtas sąmoningumas, toks, kad to pakanka žinojimui ir besitęsiančiam sąmoningumui. Jis būna nepriklausomas ir pasaulyje prie nieko neprisiriša. Taip irgi, vienuoliai, vienuolis gyvena jausmų atžvilgiu kontempliuodamas jausmus.
 
-###Proto kontempliacija
+### Proto kontempliacija
 
 *Cittānupassanā*
 
 Ir kaipgi, vienuoliai, vienuolis gyvena proto atžvilgiu kontempliuodamas protą? Štai vienuolis protą su geiduliu žino kaip "protas su geiduliu", protą be geidulio žino kaip "protas be geidulio", protą su bjaurėjimusi žino kaip "protas su bjaurėjimusi", protą be bjaurėjimosi žino kaip "protas be bjaurėjimosi", protą su nežinojimu žino kaip "protas su nežinojimu", protą be nežinojimo žino kaip "protas be nežinojimo", susitraukusi protą žino kaip "susitraukęs protas", nesusitraukusi protą žino kaip "nesusitraukęs protas", išsiplėtusi protą žino kaip "išsiplėtęs protas", neišsiplėtusi protą žino kaip "neišsiplėtęs protas", pralenkiamą protą žino kaip "pralenkiamas protas", nepralenkiamą protą žino kaip "nepralenkiamas protas", sutelktą protą žino kaip "sutelktas protas", nesutelktą protą žino kaip "nesutelktas protas", išsilaisvinusį protą žino kaip "išsilaisvinęs protas", neišsilaisvinusį protą žino kaip "neišsilaisvinęs protas". Taip, jis proto atžvilgiu būna stebintis protą viduje, arba proto atžvilgiu būna stebintis protą išorėje, arba proto atžvilgiu būna stebintis protą viduje ir išorėje. Jis stebi atsiradimo prigimtį proto atžvilgiu, arba stebi irimo prigimtį proto atžvilgiu, arba stebi atsiradimo ir irimo prigimtį proto atžvilgiu. Arba "yra protas“ jame yra įsteigtas sąmoningumas, toks, kad to pakanka žinojimui ir besitęsiančiam sąmoningumui. Jis būna nepriklausomas ir pasaulyje prie nieko neprisiriša. Taip irgi, vienuoliai, vienuolis gyvena proto atžvilgiu kontempliuodamas protą.
 
-###Reiškinių kontempliacija, kliūčių skyrius
+### Reiškinių kontempliacija, kliūčių skyrius
 
 *Dhammānupassanā nīvaraṇapabbaṃ*
 
@@ -115,13 +115,13 @@ Viduje esant abejonei, jis žino „mano viduje yra abejonė", arba viduje nesan
 
 Taip, jis reiškinių atžvilgiu būna stebintis reiškinius viduje, arba reiškinių atžvilgiu būna stebintis reiškinius išorėje, arba reiškinių atžvilgiu būna stebintis reiškinius viduje ir išorėje. Jis stebi atsiradimo prigimtį reiškinių atžvilgiu, arba stebi irimo prigimtį reiškinių atžvilgiu, arba stebi atsiradimo ir irimo prigimtį reiškinių atžvilgiu, Arba "yra reiškiniai“ jame yra įsteigtas sąmoningumas, toks, kad to pakanka žinojimui ir besitęsiančiam sąmoningumui. Jis būna nepriklausomas ir pasaulyje prie nieko neprisiriša. Taip irgi, vienuoliai, vienuolis gyvena reiškinių atžvilgiu kontempliuodamas penkių kliūčių reiškinius.
 
-###Reiškinių kontempliacija, komponentų skyrius
+### Reiškinių kontempliacija, komponentų skyrius
 
 *Dhammānupassanā khandhapabbaṃ*
 
 Ir vėlgi, vienuoliai, vienuolis gyvena reiškinių atžvilgiu kontempliuodamas penkių prisirišimo komponentų reiškinius. Ir kaipgi vienuolis gyvena reiškinių atžvilgiu kontempliuodamas penkių prisirišimo komponentų reiškinius? Štai vienuolis [žino]: "Tai yra materija, tai materijos atsiradimas, tai materijos išnykimas; tai yra jausmas, tai jausmo atsiradimas, tai jausmo išnykimas; tai yra suvokimas, tai suvokimo atsiradimas, tai suvokimo išnykimas; tai yra proto dariniai, tai proto darinių atsiradimas, tai proto darinių išnykimas; tai yra sąmonė, tai sąmonės atsiradimas, tai sąmonės išnykimas". Taip, jis reiškinių atžvilgiu būna stebintis reiškinius viduje, arba reiškinių atžvilgiu būna stebintis reiškinius išorėje, arba reiškinių atžvilgiu būna stebintis reiškinius viduje ir išorėje. Jis stebi atsiradimo prigimtį reiškinių atžvilgiu, arba stebi irimo prigimtį reiškinių atžvilgiu, arba stebi atsiradimo ir irimo prigimtį reiškinių atžvilgiu, Arba “yra reiškiniai“ jame yra įsteigtas sąmoningumas, toks, kad to pakanka žinojimui ir besitęsiančiam sąmoningumui. Jis būna nepriklausomas ir pasaulyje prie nieko neprisiriša. Taip irgi, vienuoliai, vienuolis gyvena reiškinių atžvilgiu kontempliuodamas penkių prisirišimo komponentų reiškinius.
 
-###Reiškinių kontempliacija, jautimo pagrindų skyrius
+### Reiškinių kontempliacija, jautimo pagrindų skyrius
 
 *Dhammānupassanā āyatanapabbaṃ*
 
@@ -141,7 +141,7 @@ Jis žino protą, ir proto objektus, jis taip pat žino tą pančią, kuris atsi
 
 Taip, jis reiškinių atžvilgiu būna stebintis reiškinius viduje, arba reiškinių atžvilgiu būna stebintis reiškinius išorėje, arba reiškinių atžvilgiu būna stebintis reiškinius viduje ir išorėje. Jis stebi atsiradimo prigimtį reiškinių atžvilgiu, arba stebi irimo prigimtį reiškinių atžvilgiu, arba stebi atsiradimo ir irimo prigimtį reiškinių atžvilgiu, arba "yra reiškiniai“ jame yra įsteigtas sąmoningumas, toks, kad to pakanka žinojimui ir besitęsiančiam sąmoningumui. Jis būna nepriklausomas ir pasaulyje prie nieko neprisiriša. Taip irgi, vienuoliai, vienuolis gyvena reiškinių atžvilgiu kontempliuodamas šešių jautimo pagrindų reiškinius.
 
-###Reiškinių kontempliacija, septynių atbudimo veiksnių skyrius
+### Reiškinių kontempliacija, septynių atbudimo veiksnių skyrius
 
 *Dhammānupassanā bojjhaṅgapabbaṃ*
 
@@ -161,13 +161,13 @@ Viduje esant pusiausvirumo atbudimo veiksniui, žino "mano viduje yra pusiausvir
 
 Taip, jis reiškinių atžvilgiu būna stebintis reiškinius viduje, arba reiškinių atžvilgiu būna stebintis reiškinius išorėje, arba reiškinių atžvilgiu būna stebintis reiškinius viduje ir išorėje. Jis stebi atsiradimo prigimtį reiškinių atžvilgiu, arba stebi irimo prigimtį reiškinių atžvilgiu, arba stebi atsiradimo ir irimo prigimtį reiškinių atžvilgiu, arba "yra reiškiniai“ jame yra įsteigtas sąmoningumas, toks, kad to pakanka žinojimui ir besitęsiančiam sąmoningumui. Jis būna nepriklausomas ir pasaulyje prie nieko neprisiriša. Taip irgi, vienuoliai, vienuolis gyvena reiškinių atžvilgiu kontempliuodamas septynių atbudimo veiksnių reiškinius.
 
-###Reiškinių kontempliacija, tiesų skyrius
+### Reiškinių kontempliacija, tiesų skyrius
 
 *Dhammānupassanā saccapabbaṃ*
 
 Ir vėlgi, vienuoliai, vienuolis gyvena reiškinių atžvilgiu kontempliuodamas keturių tauriųjų tiesų reiškinius. Ir kaipgi vienuolis gyvena reiškinių atžvilgiu kontempliuodamas keturių tauriųjų tiesų reiškinius? Štai vienuolis žino tai kaip yra iš tikrųjų: "Tai yra kentėjimas", jis žino tai kaip yra iš tikrųjų: "Tai yra kentėjimo priežastis", jis žino tai kaip yra iš tikrųjų: "Tai yra kentėjimo išnykimas", jis žino tai kaip yra iš tikrųjų: "Tai yra kelias vedantis į kentėjimo išnykimą".
 
-###Kentėjimo tiesos išdėstymas
+### Kentėjimo tiesos išdėstymas
 
 *Dukkhasaccaniddeso*
 
@@ -197,7 +197,7 @@ Ir kas, vienuoliai, yra negavimas to ko norisi? Būtybėms turinčioms prigimtį
 
 Vienuoliai, ir kas tai per trumpiau, penki prisirišimo komponentai [kurie] yra kentėjimas? Tai yra materijos prisirišimo komponentas, jausmo prisirišimo komponentas, suvokimo prisirišimo komponentas, proto darinių prisirišimo komponentas, sąmonės prisirišimo komponentas. Šie, vienuoliai, vadinami trumpiau, penkiais prisirišimo komponentais [kurie] yra kentėjimas. Tai, vienuoliai, vadinama kentėjimo tauriąja tiesa.
 
-###Priežasties tiesos išdėstymas
+### Priežasties tiesos išdėstymas
 
 *Samudayasaccaniddeso*
 
@@ -225,7 +225,7 @@ Mintis apie formą pasaulyje... Mintis apie garsą pasaulyje... Mintis apie kvap
 
 Galvojimas apie formą pasaulyje... Galvojimas apie garsą pasaulyje... Galvojimas apie kvapą pasaulyje... Galvojimas apie skonį pasaulyje... Galvojimas apie kūnu jaučiamą pasaulyje... Galvojimas apie proto objektą pasaulyje iš prigimties yra mielas, iš prigimties yra malonus, ten šis troškimas gimdamas gimsta, ten jis būdamas būna. Tai, vienuoliai, vadinama kentėjimo priežasties tauriąja tiesa.
 
-###Išnykimo tiesos išdėstymas
+### Išnykimo tiesos išdėstymas
 
 *Nirodhasaccaniddeso*
 
@@ -235,7 +235,7 @@ Bet kurgi, vienuoliai, šis troškimas pašalinamas būna pašalintas, kur išny
 
 Ir kas pasaulyje iš prigimties yra miela, kas iš prigimties yra malonu? Akis pasaulyje iš prigimties yra miela, iš prigimties yra maloni, ten šis troškimas pašalinamas būna pašalintas, ten išnykdamas jis išnyksta. Ausis pasaulyje... Nosis pasaulyje... Liežuvis pasaulyje... Kūnas pasaulyje... Protas pasaulyje iš prigimties yra mielas, iš prigimties yra malonus, ten šis troškimas pašalinamas būna pašalintas, ten išnykdamas jis išnyksta.
 
-**‘**Formos pasaulyje... Garsai pasaulyje... Kvapai pasaulyje... Skoniai pasaulyje... Kūnu jaučiama pasaulyje... Proto objektai pasaulyje iš prigimties yra mieli, iš prigimties yra malonūs, ten šis troškimas pašalinamas būna pašalintas, ten išnykdamas jis išnyksta.
+‘Formos pasaulyje... Garsai pasaulyje... Kvapai pasaulyje... Skoniai pasaulyje... Kūnu jaučiama pasaulyje... Proto objektai pasaulyje iš prigimties yra mieli, iš prigimties yra malonūs, ten šis troškimas pašalinamas būna pašalintas, ten išnykdamas jis išnyksta.
 
 Akies sąmonė pasaulyje... Ausies sąmonė pasaulyje... Nosies sąmonė pasaulyje... Liežuvio sąmonė pasaulyje... Kūno sąmonė pasaulyje... Proto sąmonė pasaulyje iš prigimties yra miela, iš prigimties yra maloni, ten šis troškimas pašalinamas būna pašalintas, ten išnykdamas jis išnyksta.
 
@@ -253,7 +253,7 @@ Mintis apie formą pasaulyje... Mintis apie garsą pasaulyje... Mintis apie kvap
 
 Galvojimas apie formą pasaulyje... Galvojimas apie garsą pasaulyje... Galvojimas apie kvapą pasaulyje... Galvojimas apie skonį pasaulyje... Galvojimas apie kūnu jaučiamą pasaulyje... Galvojimas apie proto objektą pasaulyje iš prigimties yra mielas, iš prigimties yra malonus, ten šis troškimas pašalinamas būna pašalintas, ten išnykdamas jis išnyksta. Tai, vienuoliai, vadinama kentėjimo išnykimo tauriąja tiesa.
 
-###Kelio tiesos išdėstymas
+### Kelio tiesos išdėstymas
 
 *Maggasaccaniddeso*
 
@@ -287,7 +287,7 @@ Vienuoliai, šis yra tiesioginis kelias į būtybių apsivalymą, liūdesio ir r
 
 Tai pasakė Palaimintasis. Pamaloninti tie vienuoliai džiaugėsi Palaimintojo kalba.
 
-##Mahāsatipaṭṭhānasuttaṃ (Keturi sąmoningumo įsteigimai, DN 19)
+## Mahāsatipaṭṭhānasuttaṃ (Keturi sąmoningumo įsteigimai, DN 19)
 
 **372. Evaṃ me sutaṃ –** Taip aš girdėjau: **ekaṃ samayaṃ bhagavā** vieną kartą Palaimintasis **kurūsu viharati** buvo apsistojęs Kurų šalyje** kammāsadhammaṃ nāma kurūnaṃ nigamo.** Kurų kaime pavadinimu Kamasadhama. **Tatra kho bhagavā bhikkhū āmantesi –** Tada gi Palaimintasis kreipėsi į vienuolius:** ‘‘bhikkhavo’’ ti.** "Vienuoliai!"** ‘‘Bhaddante’’ ti [bhadanteti (sī. syā. pī.)]** “Gerbiamasis,”-** te bhikkhū bhagavato paccassosuṃ.** atsakė tie vienuoliai Palaimintajam.** Bhagavā etadavoca –** Palaimintasis pasakė štai ką:
 
