@@ -29,7 +29,7 @@ Palaimintasis štai ką pasakė:
 
 Tai pasakė Palaimintasis. Pamaloninti tie vienuoliai džiaugėsi Palaimintojo kalba. Ir tuo pat metų kai buvo duodamas šis išaiškinimas, išdėstymas trisdešimties vienuolių iš Pāvos protai dėl neprisirišimo išsilaisvino nuo intakų.
 
-## Tiṃsamattasuttaṃ Trisdešimt (SN II.IV.ii.3)
+## Tiṃsamattasuttaṃ (Trisdešimt, SN II.IV.ii.3)
 
 **136. Rājagahe viharati veḷuvane.** Buvo apsistojęs Ražagahe bambukų girioje. **Atha kho tiṃsamattā pāveyyakā [pāṭheyyakā (katthaci) vinayapiṭake mahāvagge kathinakkhandhakepi] bhikkhū** Tada gi trisdešimt vienuolių iš Pavos [Pathos] **yena bhagavā tenupasaṅkamiṃsu;** nuėjo pas Palaimintąjį; **upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu.** atėję pasveikino Palaimintąjį ir atsisėdo iš šono. **Atha kho bhagavato etadahosi –** Tada gi Palaimintasis taip pagalvojo: "**ime kho tiṃsamattā pāveyyakā bhikkhū** "Šie gi trisdešimt vienuolių iš Pavos **sabbe āraññikā** visi gyvenantys miške, **sabbe piṇḍapātikā** visi renkantys aukas, **sabbe paṃsukūlikā** visi dėvintys skudurų iš šiukšlyno apdarus, **sabbe tecīvarikā** visi turintys tik tris apdarus, **sabbe sasaṃyojanā.** visi yra su pančiais. **Yaṃnūnāhaṃ imesaṃ tathā dhammaṃ deseyyaṃ** Duoki aš dabar pamokysiu juos Dharmos taip, **yathā nesaṃ imasmiṃyeva āsane** kad šioje pačioje vietoje jų **anupādāya āsavehi cittāni vimucceyyu"nti.** protai dėl neprisirišimo išsilaisvintų nuo intakų." **Atha kho bhagavā bhikkhū āmantesi –** Tada gi Palaimintasis kreipėsi į vienuolius: “**bhikkhavo”ti.** "Vienuoliai!" “**Bhadante”ti te bhikkhū bhagavato paccassosuṃ.** "Gerbiamasis!", atsakė Palaimintajam vienuoliai. **Bhagavā etadavoca –** Palaimintasis štai ką pasakė:
 
