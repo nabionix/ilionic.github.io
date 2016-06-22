@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Ādittasuttaṃ (Liepsnose sutta, SN IV.I.iii.6)'
+title: 'Liepsnose (Ādittasuttaṃ, SN IV.I.iii.6)'
 tags:
   - A
 index: A
