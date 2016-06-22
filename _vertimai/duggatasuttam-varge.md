@@ -1,14 +1,15 @@
 ---
 layout: page
-title: "Duggatasuttaṃ (Varge SN II.IV.ii.1)"
-description: ""
-tags: [D]
-index: "D"
+title: 'Varge (Duggatasuttaṃ, SN II.IV.ii.1)'
+tags:
+  - D
+index: D
 comments: false
-category: "suristos suttos"
+category: suristos suttos
 sortIndex: 2421
 image:
   feature: abstract-2.jpg
+published: true
 ---
 
 Vieną kartą Palaimintasis buvo apsistojęs Savathėje. Tada gi Palaimintasis kreipėsi į vienuolius:
