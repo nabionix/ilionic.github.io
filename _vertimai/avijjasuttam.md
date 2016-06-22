@@ -29,7 +29,7 @@ Vienuoliai, kai virš kalno dideliais lašais ... Štai toks yra didžio vandeny
 
 Lygiai gi, vienuoliai, taip, kai nebendravimas su gerais žmoniemis yra pilnas, jis pildo geros Dharmos girdėjimą; kai geros Dharmos girdėjimas yra pilnas, jis pildo tikėjimą; kai tikėjimas yra pilnas, jis pildo nuodugnų dėmėjimąsi; kai nuodugnus dėmėjimasis yra pilnas, jis pildo sąmoningumą ir aiškų supratimą; kai sąmoningumas ir aiškus supratimas yra pilnas, jis pildo juslinių gebėjimų sutvardymą; kai juslinių gebėjimų sutvardymas yra pilnas, jis pildo tris gerus elgesius; kai trys geri elgesiai yra pilni, jie pildo keturis sąmoningumo įsteigimus; kai keturi sąmoningumo įsteigimai yra pilni, jie pildo septynis atbudimo veiksnius; kai septyni atbudimo veiksniai yra pilni, jie pildo išsilaisvinimą išmintimi. Štai toks yra išsilaisvinimo išmintimi maitinimas ir toks jo pildymas.
 
-##Avijjāsuttaṃ (Nežinojimas, AN10.II.ii.1)##
+## Avijjāsuttaṃ (Nežinojimas, AN10.II.ii.1)
 
 **61. "Purimā[113], bhikkhave, koṭi na paññāyati avijjāya –** Vienuoliai, neįmanoma nurodyti nežinojimo pradinį tašką, ‘**ito pubbe avijjā nāhosi,** "Prieš tai nežinojimo nebuvo, **atha pacchā samabhavī’ti.** o tada, vėliaiu, atsirado." - **Evañcetaṃ, bhikkhave, vuccati,** taip, vienuoliai, sakoma. **atha ca pana paññāyati –** Bet vis dėl to įmanoma nurodyti, ‘**idappaccayā avijjā’ti.** "Štai nežinojimo priežastis".
 
