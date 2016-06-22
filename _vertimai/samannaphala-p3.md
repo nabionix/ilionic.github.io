@@ -7,7 +7,6 @@ parts:
   - 1
   - 2
   - 3
-  - 4
 index: S
 comments: false
 hideIndex: true
@@ -253,4 +252,3 @@ Adžiātasattu pasiskelbia pasauliečiu pasekėju
 **253. Atha kho bhagavā acirapakkantassa rañño māgadhassa [86] ajātasattussa vedehiputtassa** Tada gi, netrukus po Magadhos karaliaus Adžatasataus Vedehiputos išvykimo, Palaimintasis **bhikkhū āmantesi –** kreipėsi į vienuolius: **"khatāyaṃ, bhikkhave, rājā.** "Šis karalius, vienuoliai, pražudė save. **Upahatāyaṃ, bhikkhave, rājā.** Šis karalius, vienuoliai, sužeidė save. **Sacāyaṃ, bhikkhave, rājā** Jei, vienuoliai, šis karalius **pitaraṃ dhammikaṃ dhammarājānaṃ jīvitā na voropessatha,** nebūtų atėmęs gyvybės iš tėvo, iš doro žmogaus, teisingo karaliaus, **imasmiññeva āsane virajaṃ vītamalaṃ dhammacakkhuṃ uppajjissathā"ti.** šitoje pačioje vietoje [jame] būtų atsivėręs nesuterštas, tyras Dharmos matymas." **Idamavoca bhagavā.** Tai pasakė Palaimintasis. **Attamanā te bhikkhū** Pamaloninti vienuoliai **bhagavato bhāsitaṃ abhinandunti.** džiaugėsi Palaimintojo kalba.
 
 <a href="../samannaphala-p2" class="btn btn-primary btn-prev">← Prev</a>
-<a href="../samannaphala-p4" class="btn btn-primary btn-next">Next →</a>

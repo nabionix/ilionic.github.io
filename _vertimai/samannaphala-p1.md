@@ -9,7 +9,6 @@ parts:
   - 1
   - 2
   - 3
-  - 4
 category: ilgos suttos
 sortIndex: 2
 image:
@@ -58,7 +57,7 @@ Ir kitas gi ministras Magadhos karaliui Adžatasatui Vedehiputai pasakė taip:
 
 ...karalius Adžatasatus Vedehiputa pratylėjo.
 
-Ir kitas gi ministras Magadhos karaliui Adžatasatui Vedehiputai pasakė taip: 
+Ir kitas gi ministras Magadhos karaliui Adžatasatui Vedehiputai pasakė taip:
 
 
 －Šis, didenybe, Nigantha Nataputa turi bendruomenę turi daug pasekėjų, yra daugybės mokytojas, yra žinomas ir įžymus, religinės grupės įkūrėjas, daugelio žmonių didžiai gerbiamas, yra amžiuje, seniai palikęs pasaulietinį gyvenimą, pagyvenęs, sulaukęs senatvės. Lai didenybė aplanko tą Niganthą Nataputą. Galbūt paklausius Niganthos Nataputos didenybės protas bus nuramintas.
@@ -215,7 +214,7 @@ Tai aš, gerbiamasis, Palaimintojo taip pat paklausiu: "Na gi yra, gerbiamasis, 
 
 －Na gi ne, gerbiamasis. Tada gi mes šį ir pagerbtume, ir atsikeltume pasveikinant, ir paruoštume vietą atsisėsti, ir padovanotume jam tokių būtinybių kaip apdarų, maisto, būsto, vaistų, ir parūpintume tinkamą apsaugą, priedangą bei gynybą.  
 
-－Kaip manai, karaliau, tokiu atveju ar yra čia pat ir iškart regimas atsiskyrimo vaisius, ar ne? 
+－Kaip manai, karaliau, tokiu atveju ar yra čia pat ir iškart regimas atsiskyrimo vaisius, ar ne?
 
 －Kaip gi, gerbiamasis, tokiu atveju yra čia pat ir iškart regimas atsiskyrimo vaisius.  
 
@@ -339,4 +338,4 @@ Ir kaip, karaliau, vienuolis yra išsivystęs sąmoningumą ir aiškų supratim�
 
 Ir kaip, karaliau, vienuolis yra pasitenkinęs? Štai, karaliau, vienuolis yra patenkintas kūną apsaugojančiu apdaru ir paaukotu maistu skrandžiui palaikyti. Kur jis beeitų, jis išvyksta pasiėmęs tik [juos]. Panašiai kaip bet kur vykstant, vienintelė sparnuoto paukščio našta yra sparnai, lygiai taip vienuolis yra patenkintas kūną apsaugojančiu apdaru ir paaukotu maistu skrandžiui palaikyti－bet kur einant, jis išvyksta pasiėmęs tik juos. Štai taip, karaliau, vienuolis yra pasitenkinęs.
 
-<a href="../samannaphala-p2" class="btn btn-primary btn-next">Next →</a>
+<a href="../samannaphala-p2" class="btn btn-primary btn-next">Toliau →</a>

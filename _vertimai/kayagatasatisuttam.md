@@ -102,7 +102,8 @@ Išgrynintu antžmogišku dieviškos ausies elementu girdi tiek dėvų, tiek ir 
 
 Kitų būtybių, kitų asmenų protą apgaubęs savuoju pažįsta: protą su geiduliu jis žino kaip "protas su geiduliu", protą be geidulio... protą su bjaurėjimusi... protą be bjaurėjimosi... protą su nežinojimu... protą be nežinojimo... susitraukusi protą... nesusitraukusi protą... išsiplėtusi protą... neišsiplėtusi protą... pralenkiamą protą... nepralenkiamą protą... sutelktą protą... nesutelktą protą... išsilaisvinusį protą... neišsilaisvinusį protą jis žino kaip "neišsilaisvinęs protas".
 
-Jis prisimena daugelį praeitų gyvenimų, t. y.: vieną gimimą, du gimimus...{žr. DN 2.29} taip jis išsamiai, su buitiškomis detalėmis prisimena daugelį praeitų gyvenimų.
+Jis prisimena daugelį praeitų gyvenimų, t. y.: vieną gimimą, du gimimus... <a href="../samannaphala-p1">{žr. DN 2.29}</a>"
+ taip jis išsamiai, su buitiškomis detalėmis prisimena daugelį praeitų gyvenimų.
 
 Išgryninta antžmogiška dieviška akimi mato kaip mirusios būtybės atgimsta žemesnėmis, aukštesnėmis, gražiomis, negražiomis, geroje vietoje, blogoje vietoje, jis žino kaip būtybių gyvenimų eiga priklauso nuo jų veiksmų.
 
@@ -178,5 +179,3 @@ Tai pasakė Palaimintasis. Pamaloninti tie vienuoliai džiaugėsi Palaimintojo k
 **"Kāyagatāya, bhikkhave, satiyā** Vienuoliai, kūno sąmoningumui esant **āsevitāya bhāvitāya bahulīkatāya** taikytam, išlavintam, dažnai praktikuotam, **yānīkatāya vatthukatāya** padarytam transportu, padarytam pagrindu **anuṭṭhitāya paricitāya susamāraddhāya** patiriamam, padaugintam, gerai atliekamam, **ime dasānisaṃsā pāṭikaṅkhā"ti.** yra lauktina ši dešimtalypė nauda.
 
 **Idamavoca bhagavā.** Tai pasakė Palaimintasis. **Attamanā te bhikkhū** Pamaloninti tie vienuoliai **bhagavato bhāsitaṃ abhinandunti.** džiaugėsi Palaimintojo kalba.
-
-
