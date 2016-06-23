@@ -1,14 +1,16 @@
 ---
 layout: page
-title: "Žodinėlis"
-description: ""
-category: "zodinelis"
+title: Žodinėlis
+category: zodinelis
 comments: false
 image:
   feature: buddha4801.jpg
+published: true
 ---
 
 **Arahantas (arahant)** - žmogus susidorojęs su visais teršalais, pasiekęs meditacijoje aukšiausio, t. y. nušvitimo; po mirties (parinibbānos) jis nebeatgims nei viename iš pasaulių.
+
+**Asura (asura)** - vienos žemesnės dėvų klasės būtybė, budizmo puolęs angelas.
 
 **Bhavanga (bhavaṅga)** - vienuodų sąmonių tęstinumas, kuris nutrunka tik pažinimo proceso metu; jos objektas  yra toks pat kaip praeito gyvenimo artimos mirčiai sąmonės objektas.
 
@@ -28,13 +30,25 @@ image:
 
 **Džhana (jhāna)** - viena iš aštuonių labai aukšto ir subtilaus susitelkimo į tam tikrą objektą būsenų, kurioje protas yra ypač sąmoningas ir švarus.
 
+**Gandhaba (gandhabba)** - žemiausios dėvų klasės būtybė, dangiškasis muzikantas.
+
+**Jodžiana (yojana)** ~ 12 km.
+
 **Karma (kamma)** - veiksmas; valios sukuriama jėga, kuri verčia gerus valios aktus duoti gerus vaisius, o blogus - blogus.
+
+**Katika (kattikā)** - lapkričio mėnuo.
+
+**Mara (Māra)** - vieno iš dėvų pasaulių valdovas, budizmo Šėtonas, Gundytojas, mirties personifikacija.
+
+**Naga (nāga)** - vienos žemesnės dėvų klasės būtybė; panašaus į gyvatę pavidalo; dažnai turi antgamtinių galių ir pasižymi didžia stiprybe.
 
 **Nirvana (nibbāna)** - galutinis nušvitimas; išnykimo elementas; galutinė realybė; pasiekiama pažinus ir peržengus galinius protą-materiją; 'matoma' subrendus įžvalgos pažinimams; tai nesavastis ir neprilygstamai pastovu ir ramu; tai nėra vieta.
 
 **Pačėkabudha (paccekabuddha)** - be mokytojo pagalbos višiskai atbudes žmogus, tas kas pats atranda keturias tauriasias tiesas, bet jų nemoko.
 
 **Parinirvana (parinibbāna)** - Budos, Pačėkabudos ir visų Arahantų mirtis po kurios nebėra daugiau gimimų, nebėra materijos ir proto.
+
+**Patimokha (pātimokkha)** - pagrindinės vienuolių elgesio taisyklės, kurių skaičius yra 227 vyrams ir 311 moterims.
 
 **Pėta (peta)** - žemesnio už žmogaus, bet aukštesnio už gyvūnų pasaulio gyventojas; nematomas žmogaus akimis, bet gali būti pamatytas susitelkimo šviesos pagalba.
 
@@ -51,5 +65,7 @@ image:
 **Suta (sutta)** - pamokymas iš antro iš trijų Pāḷi kanono krepšių; Budos mokymai kasdienine, sutartine kalba.
 
 **Tathagata (Tathāgata)** - 'taip žengęs', epitetas, kuri Buda naudoja kalbant apie save.
+
+**Uposatha (uposatha)** - religinių apeigų dienos išpuolančios per mėnulio mėnesio pilnatį, jaunatį ir delčią.
 
 **Vipasana (vipassana)** - įžvalga; savitų materijos ir proto bruožų, priežasties ir pasekmės, bei jiems bendrai būdingų nepastovumo, kančios ir nesavastingumo bruožų pažinimas galutinės realybės lygmenyje.
