@@ -357,4 +357,4 @@ Jausmų kontempliacija
 
 
 
-<a href="../mahasatipatthanasuttam-p2" class="btn btn-primary btn-next">Toliau →</a>
+<a href="../mahasatipatthanasuttam-p2" class="btn btn-primary btn-next">Kitas →</a>
