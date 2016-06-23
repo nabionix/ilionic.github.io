@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Mātusuttaṃ (Mama, SN II.IV.ii.4)'
+title: 'Mama, (Mātusuttaṃ, SN II.IV.ii.4)'
 tags:
   - M
 index: M
