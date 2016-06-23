@@ -12,7 +12,7 @@ image:
 published: true
 ---
 
-Vieną kartą Palaimintasis buvo apsistojęs Verandžijos nendryne didžiulio Nimmedžio papėdėje. Tada gi pas Palaimintąjį nuėjo asuras Paharadas, atėjęs pasveikino jį ir atsistojo iš šono. Stovinčiam gi iš šono asurai Paharadai Palaimintasis pasakė štai ką:
+Vieną kartą Palaimintasis buvo apsistojęs Verandžijos nendryne didžiulio Nimmedžio papėdėje. Tada gi pas Palaimintąjį nuėjo asura Paharadas, atėjęs pasveikino jį ir atsistojo iš šono. Stovinčiam gi iš šono asurai Paharadai Palaimintasis pasakė štai ką:
 
 —Bet ar gauna malonumą, Paharadai, asurai iš didžiuojo vandenyno?
 
@@ -60,7 +60,7 @@ Panašiai, Paharadai, kaip didysis vandenynas yra didelių būtybių namai; ten 
 
 ## Pahārādasuttaṃ (Paharadai, AN 8.ii.9)
 
-**19. Ekaṃ samayaṃ bhagavā** Vieną kartą Palaimintasis **verañjāyaṃ viharati naḷerupucimandamūle.** buvo apsistojęs Verandžijos nendryne didžiulio Nimmedžio papėdėje. **Atha kho pahārādo asurindo yena bhagavā tenupasaṅkami;** Tada gi pas Palaimintąjį nuėjo asuras Paharadas, **upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi.** atėjęs pas Palaimintąjį pasveinlkino jį ir atsistojo iš šono. **Ekamantaṃ ṭhitaṃ kho pahārādaṃ asurindaṃ** Stovinčiam gi iš šono asurai Paharadai **bhagavā etadavoca –** Palaimintasis pasakė štai ką:
+**19. Ekaṃ samayaṃ bhagavā** Vieną kartą Palaimintasis **verañjāyaṃ viharati naḷerupucimandamūle.** buvo apsistojęs Verandžijos nendryne didžiulio Nimmedžio papėdėje. **Atha kho pahārādo asurindo yena bhagavā tenupasaṅkami;** Tada gi pas Palaimintąjį nuėjo asura Paharadas, **upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi.** atėjęs pas Palaimintąjį pasveinlkino jį ir atsistojo iš šono. **Ekamantaṃ ṭhitaṃ kho pahārādaṃ asurindaṃ** Stovinčiam gi iš šono asurai Paharadai **bhagavā etadavoca –** Palaimintasis pasakė štai ką:
 
 **"Api [kiṃ (ka.)] pana, pahārāda[198], asurā mahāsamudde abhiramantī"ti?** "Bet ar gauna malonumą, Paharadai, asurai iš didžiuojo vandenyno?" **“Abhiramanti, bhante, asurā mahāsamudde”ti.** "Gauna, gerbiamasis, malonumą asurai iš didžiojo vandenyno." **“Kati pana, pahārāda, mahāsamudde acchariyā abbhutā dhammā [abbhutadhammā (syā. ka.) cūḷava. 384 passitabbaṃ],** "Bet kiek gi yra didžiuojo vandenyno nuostabių, stulbinančių dalykų, **ye disvā disvā asurā mahāsamudde abhiramantī”ti?** kuriuos pamatę asurai gauną malonumą iš didžiojo vandenyno?"
 
