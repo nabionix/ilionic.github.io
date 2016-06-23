@@ -200,4 +200,4 @@ Kelio tiesos išdėstymas
 
 **Idamavoca bhagavā.** Tai pasakė Palaimintasis. **Attamanā te bhikkhū** Pamaloninti tie vienuoliai **bhagavato bhāsitaṃ abhinandunti.** džiaugėsi Palaimintojo kalba.
 
-<a href="../mahasatipatthanasuttam-p1" class="btn btn-primary btn-prev">← Prev</a>
+<a href="../mahasatipatthanasuttam-p1" class="btn btn-primary btn-prev">← Ankst</a>
