@@ -23,13 +23,13 @@ published: true
 
 *Rājāmaccakathā*
 
-Taip aš girdėjau vieną kartą Palaimintasis buvo apsistojęs Radžagahoje Džyvakos Komarabhačos mangamedžių girioje kartu su didžiulę vienuolių sanghą, su tūkstančiu dviem šimtais penkiasdešimt vienuoliu. Tuo gi pat metu Magadhos karalius Adžatasatus Vedehiputa per uposathą*, per pilnatį, katikos** mėnesio 15-tą dieną, pilno mėnulio vakarą, apsuptas ministrų sėdėjo viršutiniame rūmų aukšte. Tada gi, per tą uposathą Magadhos karalius Adžatasatus Vedehiputa ištarė šiuos džiaugsmingus žodžius:
+Taip aš girdėjau vieną kartą Palaimintasis buvo apsistojęs Radžagahoje Džyvakos Komarabhačos mangamedžių girioje kartu su didžiulę vienuolių sanghą, su tūkstančiu dviem šimtais penkiasdešimt vienuoliu. Tuo gi pat metu Magadhos karalius Adžatasatus Vedehiputa per uposathą, per pilnatį, katikos mėnesio 15-tą dieną, pilno mėnulio vakarą, apsuptas ministrų sėdėjo viršutiniame rūmų aukšte. Tada gi, per tą uposathą Magadhos karalius Adžatasatus Vedehiputa ištarė šiuos džiaugsmingus žodžius:
 
 －O, koks žavingas pilnaties vakaras, draugai, o, koks nuostabus pilnaties vakaras, draugai, o, koks gražus pilnaties vakaras, draugai, o, koks romus pilnaties vakaras, draugai, o, koks daug žadantis pilnaties vakaras, draugai! Kokį tokį atsiskyrėlį ar brahmaną šiandien galėtume aplankyti, kurį paklausius mūsų protas būtų nuramintas?
 
 Kai tai buvo pasakyta vienas ministras Magadhos karaliui Adžatasatui Vedehiputai pasakė taip:
 
-－Šis, didenybe, Pūrana Kasapa turi bendruomenę, turi daug pasekėjų, yra daugybės mokytojas, yra žinomas ir įžymus, religinės grupės įkūrėjas, daugelio žmonių didžiai gerbiamas,** **yra amžiuje, seniai palikęs pasaulietinį gyvenimą, pagyvenęs, sulaukęs senatvės. Lai didenybė aplanko tą Pūraną Kasapą. Galbūt paklausius Pūranos Kasapos didenybės protas bus nuramintas.
+－Šis, didenybe, Pūrana Kasapa turi bendruomenę, turi daug pasekėjų, yra daugybės mokytojas, yra žinomas ir įžymus, religinės grupės įkūrėjas, daugelio žmonių didžiai gerbiamas, yra amžiuje, seniai palikęs pasaulietinį gyvenimą, pagyvenęs, sulaukęs senatvės. Lai didenybė aplanko tą Pūraną Kasapą. Galbūt paklausius Pūranos Kasapos didenybės protas bus nuramintas.
 
 Kai tai buvo pasakyta, Magadhos karalius Adžatasatus Vedehiputa pratylėjo.
 
@@ -82,11 +82,11 @@ Tuo gi pat metu Džyvaka Komarabhača sėdėjo netoli Magadhos karaliaus Adžata
 
 Tada gi Magadhos karalius Adžatasatus Vedehiputa, kai jo penki šimtai moterų užsilipo ant dramblienių, atsisėdo ant savo asmeninio dramblio. Kartu su uždegtų fakelų nešėjų palyda jis paliko Radžagahą visoje savo karališkoje didybėje ir pajudėjo link Džyvakos Komarabhačos mangų girios.
 
-Tada gi vidury mangų girios Magadhos karalių Adžatasatų Vedehiputą** **apėmė baimė, apėmė drebulys,** **iš baimės jam pasišiaušė plaukai. Išsigandęs, sunerimęs, su iš baimės pasišiaušusiais plaukais Magadhos karalius Adžatasatus Vedehiputa taip pasakė Džyvakai Komarabhačai:
+Tada gi vidury mangų girios Magadhos karalių Adžatasatų Vedehiputą apėmė baimė, apėmė drebulys, iš baimės jam pasišiaušė plaukai. Išsigandęs, sunerimęs, su iš baimės pasišiaušusiais plaukais Magadhos karalius Adžatasatus Vedehiputa taip pasakė Džyvakai Komarabhačai:
 
 －Ar neapgaudinėji manęs, drauge Džyvaka? Ar neapsuki manęs, drauge Džyvaka? Ar neišduodi manęs priešams, drauge Džyvaka? Na kaipgi iš tokios didelės vienuolių sanghos, iš tūkstančio dviejų šimtų penkiasdešimties vienuolių negirdėti nei čiaudėjimo, nei kosėjimo, nei jokio kito triukšmo?
 
-－Nebijokite, karaliau, nebijokite, karaliau! Neapgaudinėju jūsų, didenybe;** **neapsuku jūsų, didenybe; neišduodu jūsų priešams, didenybe. Eikite pirmyn, karaliau, eikite pirmyn, karaliau, tai dega apskritojo paviljono lempos.
+－Nebijokite, karaliau, nebijokite, karaliau! Neapgaudinėju jūsų, didenybe; neapsuku jūsų, didenybe; neišduodu jūsų priešams, didenybe. Eikite pirmyn, karaliau, eikite pirmyn, karaliau, tai dega apskritojo paviljono lempos.
 
 ### 3. Klausimas apie atsiskyrimo vaisius
 
@@ -204,7 +204,7 @@ Kai tai buvo pasakyta, gerbiamasis, Sančaja Belathaputa man štai ką pasakė:
 
 Štai taip, gerbiamasis, man Sančaja Belathaputa paklaustas apie čia pat ir iškart regimus atsiskyrimo vaisius atsakė išsisukinėjimu. Kaip paklaustas apie tai koks yra mangas, bet aprašęs duonmedžio vaisių, ar paklaustas apie tai koks yra duonmedžio vaisius, bet aprašęs mangą; lygiai gi taip, gerbiamasis, man Sančaja Belathaputa, paklaustas apie čia pat ir iškart regimus atsiskyrimo vaisius, išaiškino viso ko neveiksnumą. Tuomet aš, gerbiamasis, taip pagalvojau: "Na kodėl gi toks kaip aš, kai yra gyvenančių atsiskyrėlių ir brahmanų, pamanyčiau, kad reiktų prieštarauti. Aš gi, gerbiamasis, ta Sančajos Belathaputos kalba nei džiaugiausi, nei ją išpeikiau. Nepasidžiaugęs, neišpeikęs, neišreiškęs nepasitenkinimo [nors ir] nepatenkintas, nepriimdamas tos kalbos atsistojau ir išėjau.
 
-10. Pirmasis čia pat ir iškart regimas atsiskyrimo vaisius
+### 10. Pirmasis čia pat ir iškart regimas atsiskyrimo vaisius
 
 *Paṭhamasandiṭṭhikasāmaññaphalaṃ*
 
@@ -256,7 +256,7 @@ Vėliau, palikęs ar tai mažą, ar tai didelę turtų masę, palikęs ar tai ma
 
 Jis, taip žengęs priekin, gyvena susitvardęs patimokhos laikymusi, pasižymėdamas geru elgesiu, matantis pavojų mažiausiame nusižengime, įsipareigoja laikytis dorovės pagrindų, jo kūno ir kalbos veiksmai pasidaro dori, [jis yra] išgryninęs pragyvenimo šaltinius, pasižymi dorove, apsisaugojęs juslinių gebėjimų durys, [apsisaugojęs juslinių gebėjimų durys, žinantis saiką valgant] išsivystęs sąmoningumą ir aiškų supratimą, pasitenkinęs.
 
-13. Mažoji dorovė
+### 13. Mažoji dorovė
 
 *Cūḷasīlaṃ*
 
