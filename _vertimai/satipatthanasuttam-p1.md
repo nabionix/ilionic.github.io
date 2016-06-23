@@ -67,7 +67,7 @@ Ir vėlgi, vienuoliai, vienuolis šitame pačiame kūne, kad ir kaip šis būtų
 
 Panašiai, vienuoliai, kaip įgudęs skerdikas ar skerdiko padėjėjas sėdėtų sankryžoje išdorojęs karvę ir padalinęs ją į dalis; lygiai gi, vienuoliai, taip vienuolis šitame pačiame kūne, kad ir kaip šis būtų išsidėstęs, kokioje pozoje bebūtų, mintyse peržiūri elementus: "Šiame kūne yra žemės elementas, vandens elementas, ugnies elementas, vėjo elementas."
 
-Taip, jis kūno atžvilgiu būna stebintis kūną viduje... Taip irgi, vienuoliai, vienuolis** **gyvena kūno atžvilgiu kontempliuodamas kūną.
+Taip, jis kūno atžvilgiu būna stebintis kūną viduje... Taip irgi, vienuoliai, vienuolis gyvena kūno atžvilgiu kontempliuodamas kūną.
 
 ### Kūno kontempliacija, devynios kapinių kontempliacijos
 
@@ -183,7 +183,7 @@ Tai pasakė Palaimintasis. Pamaloninti tie vienuoliai džiaugėsi Palaimintojo k
 
 ## Satipaṭṭhānasuttaṃ (Keturi sąmoningumo įsteigimai, MN I.i10)
 
-**Evaṃ me sutaṃ –** Taip aš girdėjau: **ekaṃ samayaṃ bhagavā** vieną kartą Palaimintasis **kurūsu viharati** buvo apsistojęs Kurų šalyje** kammāsadhammaṃ nāma kurūnaṃ nigamo.** Kurų kaime pavadinimu Kamasadhama. **Tatra kho bhagavā bhikkhū āmantesi –** Tada gi Palaimintasis kreipėsi į vienuolius: **‘‘bhikkhavo’’ ti.** "Vienuoliai!" **‘‘Bhaddante’’ ti [bhadanteti (sī. syā. pī.)]** “Gerbiamasis,”- **te bhikkhū bhagavato paccassosuṃ.** atsakė tie vienuoliai Palaimintajam.** Bhagavā etadavoca –** Palaimintasis pasakė štai ką:
+**Evaṃ me sutaṃ –** Taip aš girdėjau: **ekaṃ samayaṃ bhagavā** vieną kartą Palaimintasis **kurūsu viharati** buvo apsistojęs Kurų šalyje **kammāsadhammaṃ nāma kurūnaṃ nigamo.** Kurų kaime pavadinimu Kamasadhama. **Tatra kho bhagavā bhikkhū āmantesi –** Tada gi Palaimintasis kreipėsi į vienuolius: **‘‘bhikkhavo’’ ti.** "Vienuoliai!" **‘‘Bhaddante’’ ti [bhadanteti (sī. syā. pī.)]** “Gerbiamasis,”- **te bhikkhū bhagavato paccassosuṃ.** atsakė tie vienuoliai Palaimintajam. **Bhagavā etadavoca –** Palaimintasis pasakė štai ką:
 
 **Uddeso**  
 Teiginys
