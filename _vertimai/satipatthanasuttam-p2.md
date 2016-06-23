@@ -143,4 +143,4 @@ Reiškinių kontempliacija, tiesų skyrius
 
 **Idamavoca bhagavā.** Tai pasakė Palaimintasis. **Attamanā te bhikkhū** Pamaloninti tie vienuoliai **bhagavato bhāsitaṃ abhinandunti.** džiaugėsi Palaimintojo kalba.
 
-<a href="../satipatthanasuttam-p1" class="btn btn-primary btn-prev">← Prev</a>
+<a href="../satipatthanasuttam-p1" class="btn btn-primary btn-prev">← Ankst</a>
