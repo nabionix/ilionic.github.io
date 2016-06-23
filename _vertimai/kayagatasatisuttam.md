@@ -96,7 +96,7 @@ Jis pakelia šaltį, karštį, alkį, troškulį, kontaktą su gyliais, uodais, 
 
 Kai tik panorėjęs, nesunkiai, be vargo jis gali patirti keturias džhanas sudarančias aukštesnį protą ir dėl to laimingą buvimą čia ir dabar.
 
-Jis pažįsta įvairius antžmogiškus gebėjimus. Iš vieno pasidaro daugeliu, iš daugelio, pasidaro vienas; pasirodo...{žr. DN 2.26} gali valdyti [savo] kūną lygi pat Brahmų pasaulių.
+Jis pažįsta įvairius antžmogiškus gebėjimus. Iš vieno pasidaro daugeliu, iš daugelio, pasidaro vienas; pasirodo... <a href="../samannaphala-p1">{žr. DN 2.26} gali valdyti [savo] kūną lygi pat Brahmų pasaulių.
 
 Išgrynintu antžmogišku dieviškos ausies elementu girdi tiek dėvų, tiek ir žmonių garsus, ir arti, ir toli.
 
@@ -164,13 +164,13 @@ Tai pasakė Palaimintasis. Pamaloninti tie vienuoliai džiaugėsi Palaimintojo k
 
 **"Catunnaṃ jhānānaṃ ābhicetasikānaṃ diṭṭhadhammasukhavihārānaṃ [98]** Jis gali patirti keturias džhianas sudarančias aukštesnį protą ir dėl to laimingą buvimą čia ir dabar, **nikāmalābhī hoti akicchalābhī akasiralābhī.** kai tik panorėjęs, nesunkiai, be vargo.
 
-**"So anekavihitaṃ iddhividhaṃ paccanubhoti.** Jis pažįsta įvairius antžmoniškus gebėjimus. **Ekopi hutvā bahudhā hoti,** Iš vieno pasidaro daugeliu, **bahudhāpi hutvā eko hoti;** iš daugelio, pasidaro vienas; **āvibhāvaṃ...pe...** pasirodo...{žr. DN 2.26} **yāva brahmalokāpi kāyena vasaṃ vatteti.** turi valdžią virš [savo] kūno lygi pat Brahmų pasaulių.
+**"So anekavihitaṃ iddhividhaṃ paccanubhoti.** Jis pažįsta įvairius antžmoniškus gebėjimus. **Ekopi hutvā bahudhā hoti,** Iš vieno pasidaro daugeliu, **bahudhāpi hutvā eko hoti;** iš daugelio, pasidaro vienas; **āvibhāvaṃ...pe...** pasirodo... <a href="../samannaphala-p1">{žr. DN 2.26} **yāva brahmalokāpi kāyena vasaṃ vatteti.** turi valdžią virš [savo] kūno lygi pat Brahmų pasaulių.
 
 **"Dibbāya sotadhātuyā visuddhāya atikkantamānusikāya** Išgrynintu antžmogišku dieviškos ausies elementu **ubho sadde suṇāti dibbe ca mānuse ca ye dūre santike ca.** girdi tiek dievų, tiek ir žmonių garsus, ir arti, ir toli.
 
 **"Parasattānaṃ parapuggalānaṃ** Kitų būtybių, kitų asmenų **cetasā ceto paricca pajānāti.** protą apgaubęs savoju žino. **Sarāgaṃ vā cittaṃ ‘sarāgaṃ citta’nti pajānāti,** Protą su geiduliu jis žino kaip "protas su geiduliu", **vītarāgaṃ vā cittaṃ...pe...** protą be geidulio... **sadosaṃ vā cittaṃ...** protą su bjaurėjimusi... **vītadosaṃ vā cittaṃ...** protą be bjaurėjimosi... **samohaṃ vā cittaṃ...** protą su nežinojimu... **vītamohaṃ vā cittaṃ...** protą be nežinojimo... **saṅkhittaṃ vā cittaṃ...** susitraukusi protą... **vikkhittaṃ vā cittaṃ...** nesusitraukusi protą... **mahaggataṃ vā cittaṃ...** išsiplėtusi protą... **amahaggataṃ vā cittaṃ...** neišsiplėtusi protą... **sauttaraṃ vā cittaṃ...** pralenkiamą protą... **anuttaraṃ vā cittaṃ...** nepralenkiamą protą... **samāhitaṃ vā cittaṃ...** sutelktą protą... **asamāhitaṃ vā cittaṃ...** nesutelktą protą... **vimuttaṃ vā cittaṃ...** išsilaisvinusį protą... **avimuttaṃ vā cittaṃ ‘avimuttaṃ citta’nti pajānāti.** neišsilaisvinusį protą jis žino kaip "neišsilaisvinęs protas".
 
-**"So anekavihitaṃ pubbenivāsaṃ anussarati, seyyathidaṃ –** Jis prisimena daugelį praeitų gyvenimų, t. y.: **ekampi [99] jātiṃ dvepi jātiyo...** vieną gimimą, du gimimus...{žr. DN 2.29} **iti sākāraṃ sauddesaṃ anekavihitaṃ pubbenivāsaṃ anussarati.** taip jis išsamiai, su buitiškomis detalėmis prisimena daugelį praeitų gyvenimų.
+**"So anekavihitaṃ pubbenivāsaṃ anussarati, seyyathidaṃ –** Jis prisimena daugelį praeitų gyvenimų, t. y.: **ekampi [99] jātiṃ dvepi jātiyo...** vieną gimimą, du gimimus... <a href="../samannaphala-p1">{žr. DN 2.29} **iti sākāraṃ sauddesaṃ anekavihitaṃ pubbenivāsaṃ anussarati.** taip jis išsamiai, su buitiškomis detalėmis prisimena daugelį praeitų gyvenimų.
 
 **"Dibbena cakkhunā visuddhena atikkantamānusakena** Išgryninta antžmogiška dieviška akimi **satte passati cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe, sugate duggate,** mato kaip mirusios būtybės atgimsta žemesnėmis, aukštesnėmis, gražiomis, negražiomis, geroje vietoje, blogoje vietoje, **yathākammūpage satte pajānāti.** jis žino kaip būtybių gyvenimų eiga priklauso nuo jų veiksmų.
 
