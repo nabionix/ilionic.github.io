@@ -12,10 +12,6 @@ image:
 published: true
 ---
 
-Nagrinėjimas* *(SN V.I.i.8)
-
-*Vibhaṅgasuttaṃ*
-
 Savathėje.
 
 —Vienuoliai, mokysiu jus, nagrinėsiu taurųjį aštuonialypį kelią. Klausykite, sutelkite visą dėmesį, kalbėsiu.
@@ -42,7 +38,7 @@ Ir kas, vienuoliai, yra teisingas sąmoningumas? Štai, vienuolis gyvena kūno a
 
 Ir kas, vienuoliai, yra teisingas susitelkimas? Štai, vienuolis atsitolinęs nuo juslinių malonumų, atsitolinęs nuo nedorų būsenų pasiekia pirmąją džhaną, kuri yra su pirminiu pritaikymu, ilgalaikiu taikymu, su dėl atsiskyrimo gimusiais gėrėjimusi ir laime, ir būna joje. Kai liaunasi pradinis pritaikymas ir ilgalaikis taikymas, su iš vidaus nurimusiu protu sutelktu į vieną [objektą] jis pasiekia antrąją džhaną, kuri yra be pradinio pritaikymo, be ilgalaikio taikymo, su dėl susitelkimo gimusiais gėrėjimusi ir laime, ir būna joje. Išblėsus gėrėjimuisi, jis būna pusiausviro proto, sąmoningas ir aiškiai suprantantis, ir kūnu patyria laimę, jis pasiekia trečiąją džhaną ir būna joje, taurieji nupasakoja tai taip: "Jis būna laimingas, pusiausviras ir sąmoningas". Atsisakęs nuo malonių ir nemalonių pojūčių, peržengęs ankstesniuos laimę ir nusiminimą, jis pasiekia ketvirtąją džhaną: be nemalonių ir malonių pojūčių, su sąmoningumo išgryninta [proto] pusiausvyra - ir būna joje. Tai, vienuoliai, vadinama teisingu susitelkimu.
 
-**Vibhaṅgasuttaṃ** Nagrinėjimas (SN V.I.i.8)
+### Vibhaṅgasuttaṃ (Nagrinėjimas, SN V.I.i.8)
 
 **8. Sāvatthinidānaṃ.** Savathėje. **"Ariyaṃ vo, bhikkhave, aṭṭhaṅgikaṃ maggaṃ desessāmi vibhajissāmi.** "Vienuoliai, mokysiu jus, nagrinėsiu taurųjį aštuonialypį kelią. **Taṃ suṇātha, sādhukaṃ manasi karotha;** Klausykite, sutelkite visą dėmesį, **bhāsissāmī"ti.** kalbėsiu." **“Evaṃ, bhante”ti kho te bhikkhū bhagavato paccassosuṃ.** "Taip, gerbiamasis!"- atsakė Palaimintajam vienuoliai. **Bhagavā etadavoca –** Palaimintasis štai ką pasakė:
 
