@@ -57,19 +57,19 @@ Tėra reiškinių vyksmas, toks matymas yra teisingas. (Vsm. XIX.689)
 
 Taigi turėdami vasą tai omenyje, trumpai pažvelgime į dvyliką formulės grandžių paeiliui.
 
-Nežinojimas (*avijjā*) - tai Keturių tauriųjų tiesų nežinojimas. Gyvenime jis pasireiškia keturiais matymo iškraipymais: nepastovaus matymu pastoviu, negražaus - gražiu, skausmingo - maloniu, neturinčio savasties - ją turinčiu.
-Valingi veiksmai (*saṅkhāra*) - kūno, kalbos ir proto valingi veiksmai, o tiksliau su jais susijusi čėtana, kuri sukelia naują gyvenimą.
-Sąmonė (*viññāṇa*) - atgimimo sąmonę bei kitos su nauju gyvenimu susijusios akies, ausies, nosies, liežuvio ir kūno sąmonės.
-Protas-materija (*nāmarūpa*) - protas - tai jausmas, suvokimas, valia, sąlytis, dėmesys ir kitos mentalinės veikmės, materija - tai keturi didieji materijos pagrindai, t.y. žemės, vandens, ugnies ir vėjo elementai, bei materija priklausanti nuo jų (spalva, kvapas, skonis, maistingumas ir t.t.).
-Šeši jautimo pagrindai (*saḷāyatana*) - tai akies, ausies, nosies, liežuvio, kūno bei proto jautimo pagrindai.
-Sąlytis (*phassa*) - akies, ausies, nosies, liežuvio, kūno bei proto sąlyčiai.
-Jausmas (*vedanā*) - malonus, nemalonus ar neutralus jausmas gimęs dėl akies, ausies, nosies, liežuvio, kūno ar proto sąlyčio.
-Troškimas (*taṇhā*) - tai formų, garsų, kvapų, skonių, troškimas, [proto] reiškinių troškimas.
-Prisirišimas (*upādāna*) - tai sustiprėjęs troškimas pasireiškiantis prisirišimu prie juslinių malonumų, prie neteisingų pažiūrų, prie taisyklių ir įžadų, prie tikėjimo į savastį (sielą).
-Būtis (*bhava*) - tai gyvenimą jausminėje sferoje, subtilios materijos sferoje ar nematerialioje sferoje sukelianti karma.
-Gimimas (*jāti*) - tai naujos būtybės gimimas, gymis, pradėjimas, prigimimas, atgimimas, komponentų atsiradimas, [jausmo] pagrindų įgijimas.
-Senėjimas ir mirtis (*jarāmaraṇa*) - tai biologinis būtybių senėjimas ir jų gyvenimo nutrukimas.
-Liūdesys, raudojimas, skausmas, nusiminimas ir nerimas (*sokaparidevadukkhadomanassupāyāsā*) - tai neigiamos emocijos, kurios iškyla užpuolus kokiai nors nelaimei ar įvykus sąlyčiui su kokiu nors skausmą sukeliančiu reiškiniu.
+Nežinojimas (*avijjā*) - tai Keturių tauriųjų tiesų nežinojimas. Gyvenime jis pasireiškia keturiais matymo iškraipymais: nepastovaus matymu pastoviu, negražaus - gražiu, skausmingo - maloniu, neturinčio savasties - ją turinčiu.  
+Valingi veiksmai (*saṅkhāra*) - kūno, kalbos ir proto valingi veiksmai, o tiksliau su jais susijusi čėtana, kuri sukelia naują gyvenimą.  
+Sąmonė (*viññāṇa*) - atgimimo sąmonę bei kitos su nauju gyvenimu susijusios akies, ausies, nosies, liežuvio ir kūno sąmonės.  
+Protas-materija (*nāmarūpa*) - protas - tai jausmas, suvokimas, valia, sąlytis, dėmesys ir kitos mentalinės veikmės, materija - tai keturi didieji materijos pagrindai, t.y. žemės, vandens, ugnies ir vėjo elementai, bei materija priklausanti nuo jų (spalva, kvapas, skonis, maistingumas ir t.t.).  
+Šeši jautimo pagrindai (*saḷāyatana*) - tai akies, ausies, nosies, liežuvio, kūno bei proto jautimo pagrindai.  
+Sąlytis (*phassa*) - akies, ausies, nosies, liežuvio, kūno bei proto sąlyčiai.  
+Jausmas (*vedanā*) - malonus, nemalonus ar neutralus jausmas gimęs dėl akies, ausies, nosies, liežuvio, kūno ar proto sąlyčio.  
+Troškimas (*taṇhā*) - tai formų, garsų, kvapų, skonių, troškimas, [proto] reiškinių troškimas.  
+Prisirišimas (*upādāna*) - tai sustiprėjęs troškimas pasireiškiantis prisirišimu prie juslinių malonumų, prie neteisingų pažiūrų, prie taisyklių ir įžadų, prie tikėjimo į savastį (sielą).  
+Būtis (*bhava*) - tai gyvenimą jausminėje sferoje, subtilios materijos sferoje ar nematerialioje sferoje sukelianti karma.  
+Gimimas (*jāti*) - tai naujos būtybės gimimas, gymis, pradėjimas, prigimimas, atgimimas, komponentų atsiradimas, [jausmo] pagrindų įgijimas.  
+Senėjimas ir mirtis (*jarāmaraṇa*) - tai biologinis būtybių senėjimas ir jų gyvenimo nutrukimas.  
+Liūdesys, raudojimas, skausmas, nusiminimas ir nerimas (*sokaparidevadukkhadomanassupāyāsā*) - tai neigiamos emocijos, kurios iškyla užpuolus kokiai nors nelaimei ar įvykus sąlyčiui su kokiu nors skausmą sukeliančiu reiškiniu.  
 
 Nagrinėjant kaip ir kodėl atsiranda individuali gyvybė, galime skirtingai žvelgti į sąlygoto atsiradimo rato sąlygotumo ryšius:
 
