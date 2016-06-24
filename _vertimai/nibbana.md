@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 'Pirma su Nirvana surišta sutta (Paṭhamanibbānapaṭisaṃyuttasuttaṃ, Ud 8.1)'
+title: 'Su Nirvana surištos sutos (Nibbānapaṭisaṃyuttasuttāni, Ud 8.1)'
 tags:
-  - 'P'
-index: 'P'
+  - P
+index: P
 comments: false
 category: dziaugsmingi
 sortIndex: 81
@@ -13,7 +13,7 @@ published: true
 ---
 
 
-Pirma su Nirvana surišta sutta (Ud 8.1)
+### Pirma su Nirvana surišta sutta (Ud 8.1)
 
 *Paṭhamanibbānapaṭisaṃyuttasuttaṃ*
 
@@ -23,7 +23,7 @@ vieną kartą Palaimintasis buvo apsistojęs Savathėje Džetos girioje Anathapi
 
 Tada gi Palaimintasis supratęs to reikšmingumą, ta proga ištarė šiuos džiaugsmingus žodžius: „Vienuoliai, yra toks pagrindas, kur nėra nei žemės, nei vandens, nei ugnies, nei vėjo, nei begalinės erdvės pagrindo, nei begalinės sąmonės pagrindo, nei nebūties pagrindo, nei nei suvokimo nei nesuvokimo pagrindo, nei šio pasaulio, nei kito pasaulio, nei Mėnulio ir Saulės. Aš taip pat sakau, vienuoliai, ten tikrai nėra nei atėjimo, nei išėjimo, nei būvimo, nei išnykimo, nei gimimo; gan neparemtas, be vyksmo, be objekto jis yra. Tai yra visiškas kentėjimo galas."
 
-Antra su Nirvana surišta sutta (Ud 8.2)
+### Antra su Nirvana surišta sutta (Ud 8.2)
 
 *Dutiyanibbānapaṭisaṃyuttasuttaṃ*
 
@@ -33,7 +33,7 @@ vieną kartą Palaimintasis buvo apsistojęs Savathėje Džetos girioje Anathapi
 
 Tada gi Palaimintasis supratęs to reikšmingumą, ta proga ištarė šiuos džiaugsmingus žodžius: „Nelengva pamatyti, tai kas vadinama "be polinkio"- tiesą {comy =Nirvaną} gi sunku pamatyti. Tam, kuris mato ir žino prasiskverbimą pro trošimą, nieko nėra."
 
-Trečia su Nirvana surišta sutta (Ud 8.3)
+### Trečia su Nirvana surišta sutta (Ud 8.3)
 
 *Tatiyanibbānapaṭisaṃyuttasuttaṃ*
 
@@ -45,7 +45,7 @@ Tada gi Palaimintasis supratęs to reikšmingumą, ta proga ištarė šiuos dži
 
 „Yra, vienuoliai, negimęs, nebūnantis nesutvertas, nesąlygotas. Vienuoliai, jeigu nebūtų negimusio, nebūnančio, nesutverto, nesąlygoto, nebūtų įmanoma pažinti negimusio, nebūnančio, nesutverto, nesąlygoto. Bet dėl to gi, vienuoliai, kad yra negimęs, nebūnantis, nesutvertas, nesąlygotas, yra įmanoma pažinti negimusį, nebūnantį, nesutvertą, nesąlygotą."
 
-Ketvirta su Nirvana surišta sutta (Ud 8.4)
+### Ketvirta su Nirvana surišta sutta (Ud 8.4)
 
 *Catutthanibbānapaṭisaṃyuttasuttaṃ*
 
