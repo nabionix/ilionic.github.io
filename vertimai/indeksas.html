@@ -78,6 +78,16 @@ image:
   </ul>
 </article>
 
+<article>
+  <h2 class="tag-heading">Trumpesni tekstai (Khuddaka Nikaya, KN)</h2>
+  <ul>
+    {% assign category = site.vertimai | where: "category","trumpesni" | sort: 'sortIndex' %}
+    {% for post in category %}
+      <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</article>
+
 
 <h1 class="text-center">Sutų indeksas pagal abėcėlę</h1>
 <!-- {% capture site_tags %}{% for tag in site[vertimai].tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %} -->
