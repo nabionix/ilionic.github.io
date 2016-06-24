@@ -72,7 +72,7 @@ Taigi taip, vienuoliai, sąlygoti nežinojimo yra valingi veiksmai; sąlygota va
 
 \**tai yra tekste, bet neaptinkama komentaruose*
 
-**2. Vibhaṅgasuttaṃ** Nagrinėjimas (SN II.I.i.2)
+### Vibhaṅgasuttaṃ (Nagrinėjimas, SN II.I.i.2)
 
 **2. Sāvatthiyaṃ viharati…pe…** Buvo apsistojęs Savathėje... **"paṭiccasamuppādaṃ vo, bhikkhave, desessāmi vibhajissāmi.** "Vienuoliai, mokysiu jus, nagrinėsiu sąlygotą atsiradimą. **Taṃ suṇātha, sādhukaṃ manasi karotha;** Klausykite, sutelkite visą dėmesį, **bhāsissāmī"ti.** kalbėsiu." **“Evaṃ, bhante”ti kho te bhikkhū bhagavato paccassosuṃ.** "Taip, gerbiamasis!", atsakė Palaimintajam vienuoliai. **Bhagavā etadavoca –** Palaimintasis štai ką pasakė:
 
