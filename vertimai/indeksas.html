@@ -79,14 +79,15 @@ image:
 </article>
 
 <article>
-  <h2 class="tag-heading">Džiaugsmingi žodžiai (Uddana, Ud)</h2>
+  <h2 class="tag-heading">Trumpesni tekstai</h2>
+  <h3 class="tag-heading">Džiaugsmingi žodžiai (Uddana, Ud)</h2>
   <ul>
     {% assign category = site.vertimai | where: "category","dziaugsmingi" | sort: 'sortIndex' %}
     {% for post in category %}
       <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
-  <h2 class="tag-heading">Trumpesni skaitiniai (Khuddakapatha, Khp)</h2>
+  <h3 class="tag-heading">Trumpesni skaitiniai (Khuddakapatha, Khp)</h2>
   <ul>
     {% assign category = site.vertimai | where: "category","trumpesni" | sort: 'sortIndex' %}
     {% for post in category %}
