@@ -46,9 +46,9 @@ published: true
             {% for part in post.parts %}
               {% capture postNum %}-p{{ part }}{% endcapture %}
               {% assign postName = post.url | replace: '-p1', postNum %}
-              <a href="{{ site.url }}{{ postName }}" title="{{ post.title }}">dalis {{ part }}</a>
+              <a href="{{ site.url }}{{ postName }}" title="{{ post.title }}">{{ part }}-a dalis</a>
               {% if part != post.parts.size %}
-              |
+             {% if part != post.parts.size %}
               {% endif %}
             {% endfor %}
             ]
