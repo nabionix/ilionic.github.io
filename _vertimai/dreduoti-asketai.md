@@ -12,7 +12,7 @@ image:
 published: true
 ---
 
-Taip aš girdėjau: vieną kartą Palaimintasis buvo apsistojęs Gajoje Gajos upės pakrantėje. Ir tuo pačiu metu dreduotų asketų būrys šaltą, speiguotą naktį savaitę prieš ir po pilnaties krentant sniegui Gajos upėje panerdavo ir išnerdavo, neriant ir išneriant dar ir taškėsi, taip pat ugnį aukojo [galvodami]: "Tuo apsivalysime".
+Taip aš girdėjau: vieną kartą Palaimintasis buvo apsistojęs Gajoje Gajos upės pakrantėje. Ir tuo pačiu metu dreduotų asketų būrys šaltą, speiguotą naktį, savaitę prieš ir po pilnaties, krentant sniegui, Gajos upėje panerdavo ir išnerdavo, neriant ir išneriant dar ir taškėsi, taip pat ugnį aukojo [galvodami]: "Tuo apsivalysime".
 
 Pamatė gi Palaimintasis tų dreduotų asketų būrį šaltą, speiguotą naktį, savaitę prieš ir po pilnaties, krentant sniegui, Gajoje paneriančius ir išneriančius, neriant ir išneriant dar ir besitaškančius, taip pat ugnį aukojančius [galvojant]: "Tuo apsivalysime".
 
