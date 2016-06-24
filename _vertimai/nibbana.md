@@ -5,7 +5,7 @@ tags:
   - 'P'
 index: 'P'
 comments: false
-category: trumpesni
+category: dziaugsmingi
 sortIndex: 81
 image:
   feature: abstract-2.jpg
