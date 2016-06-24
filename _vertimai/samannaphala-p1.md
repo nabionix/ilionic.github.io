@@ -16,9 +16,6 @@ image:
 published: true
 ---
 
-
-*Sāmaññaphalasuttaṃ*
-
 ### 1. Ministrų kalba
 
 *Rājāmaccakathā*
