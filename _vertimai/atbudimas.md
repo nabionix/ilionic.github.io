@@ -23,12 +23,9 @@ Taip aš girdėjau: vieną kartą Palaimintasis tik pasiekęs tobulą visišką 
 
 Tada gi Palaimintasis supratęs to reikšmingumą, ta proga ištarė šiuos džiaugsmingus žodžius:
 
-"Kai reiškiniai tampa matomi
-
-Su užsidegimu medituojančiam brahmanui,
-
-Visos jo abejonės išsisklaido,
-
+"Kai reiškiniai tampa matomi  
+Su užsidegimu medituojančiam brahmanui,  
+Visos jo abejonės išsisklaido,  
 Nes jis žino reiškinius kartu su jų priežastimis."
 
 
@@ -36,20 +33,17 @@ Nes jis žino reiškinius kartu su jų priežastimis."
 ### 1. Paṭhamabodhisuttaṃ (Pirma atbudimo suta, Ud. 1.1)
 
 
-**1. Evaṃ me sutaṃ** Taip aš girdėjau: **– ekaṃ samayaṃ bhagavā** vieną kartą Palaimintasis **uruvelāyaṃ viharati** buvo apsistojęs Uruvėloje **najjā nerañjarāya tire** Nadžioje Nerandžios upės pakrantėje **bodhirukkhamūle** bodhi medžio papėdėje **paṭhamābhisambuddho.** tik pasiekęs tobulą visišką atbudimą. **Tena kho pana samayena bhagavā** Ir tuo metu Palaimintasis **sattāhaṃ ekapallaṅkena nisinno hoti** septynias dienas sėdėjo sukryžiavęs kojas, **vimuttisukhapaṭisaṃvedī [vimuttisukhaṃ paṭisaṃvedī (syā. pī. ka.)].** patirdamas išsilaisvinimo laimę.** Atha kho bhagavā** Tada gi Palaimintasis, **tassa sattāhassa accayena** praėjus septyniom dienom, **tamhā samādhimhā vuṭṭhahitvā** išėjęs iš to susitelkimo, **rattiyā paṭhamaṃ yāmaṃ** pirmą nakties trečdalį **paṭiccasamuppādaṃ anulomaṃ sādhukaṃ manasākāsi –** kreipė nuodugnų dėmesį į sąlygotą atsiradimą tiesiogine tvarka.
+**1. Evaṃ me sutaṃ** Taip aš girdėjau: **– ekaṃ samayaṃ bhagavā** vieną kartą Palaimintasis **uruvelāyaṃ viharati** buvo apsistojęs Uruvėloje **najjā nerañjarāya tire** Nadžioje Nerandžios upės pakrantėje **bodhirukkhamūle** bodhi medžio papėdėje **paṭhamābhisambuddho.** tik pasiekęs tobulą visišką atbudimą. **Tena kho pana samayena bhagavā** Ir tuo metu Palaimintasis **sattāhaṃ ekapallaṅkena nisinno hoti** septynias dienas sėdėjo sukryžiavęs kojas, **vimuttisukhapaṭisaṃvedī [vimuttisukhaṃ paṭisaṃvedī (syā. pī. ka.)].** patirdamas išsilaisvinimo laimę. **Atha kho bhagavā** Tada gi Palaimintasis, **tassa sattāhassa accayena** praėjus septyniom dienom, **tamhā samādhimhā vuṭṭhahitvā** išėjęs iš to susitelkimo, **rattiyā paṭhamaṃ yāmaṃ** pirmą nakties trečdalį **paṭiccasamuppādaṃ anulomaṃ sādhukaṃ manasākāsi –** kreipė nuodugnų dėmesį į sąlygotą atsiradimą tiesiogine tvarka.
 
 
 **‘‘Iti imasmiṃ sati idaṃ hoti,** Tam esant, tai yra, **imassuppādā idaṃ uppajjati,** tam atsiradus, tai atsiranda, **yadidaṃ –** tai yra: **avijjāpaccayā saṅkhārā;** sąlygoti nežinojimo yra valingi veiksmai; **saṅkhārapaccayā viññāṇaṃ;** sąlygota valingų veiksmų yra sąmonė; **viññāṇapaccayā nāmarūpaṃ;** sąlygota sąmonės yra protas-materija; **nāmarūpapaccayā saḷāyatanaṃ;** sąlygoti proto-materijos yra šeši jautimo pagrindai; **saḷāyatanapaccayā phasso;** sąlygotas šešių jautimo pagrindų yra sąlytis; **phassapaccayā vedanā;** sąlygotas sąlyčio yra jausmas; **vedanāpaccayā taṇhā;** sąlygotas jausmo yra troškimas; **taṇhāpaccayā upādānaṃ;** sąlygotas troškimo yra prisirišimas; **upādānapaccayā bhavo;** sąlygotas prisirišimo yra būtis; **bhavapaccayā jāti;** sąlygotas būties yra gimimas; **jātipaccayā jarāmaraṇaṃ** sąlygotas gimimo yra senėjimo, mirties, **sokaparidevadukkhadomanassupāyāsā sambhavanti.** liūdesio, raudojimo, skausmo, nusiminimo, nerimo atsiradimas. **Evametassa kevalassa dukkhakkhandhassa samudayo hotī’’ti.** Tokiu būdu atsiranda visa ši kentėjimų daugybė.
 
 **Atha kho bhagavā etamatthaṃ viditvā** Tada gi Palaimintasis supratęs to reikšmingumą, **tāyaṃ velāyaṃ imaṃ udānaṃ udānesi –** ta proga ištarė šiuos džiaugsmingus žodžius:
 
-**‘‘Yadā have pātubhavanti dhammā,** Kai reiškiniai tampa matomi
-
-**Ātāpino jhāyato brāhmaṇassa;** Su užsidegimu medituojančiam brahmanui,
-
-**Athassa kaṅkhā vapayanti sabbā,** Visos jo abejonės išsisklaido,
-
-**Yato pajānāti sahetudhamma’’nti.** Nes jis žino reiškinius kartu su jų priežastimis."
+**‘‘Yadā have pātubhavanti dhammā,** Kai reiškiniai tampa matomi  
+**Ātāpino jhāyato brāhmaṇassa;** Su užsidegimu medituojančiam brahmanui,  
+**Athassa kaṅkhā vapayanti sabbā,** Visos jo abejonės išsisklaido,  
+**Yato pajānāti sahetudhamma’’nti.** Nes jis žino reiškinius kartu su jų priežastimis."  
 
 
 
@@ -63,19 +57,16 @@ Taip aš girdėjau: vieną kartą Palaimintasis tik pasiekęs tobulą visišką 
 
 Tada gi Palaimintasis supratęs to reikšmingumą, ta proga ištarė šiuos džiaugsmingus žodžius:
 
-"Kai reiškiniai tampa matomi
-
-Su užsidegimu medituojančiam brahmanui,
-
-Visos jo abejonės išsisklaido,
-
+"Kai reiškiniai tampa matomi   
+Su užsidegimu medituojančiam brahmanui,  
+Visos jo abejonės išsisklaido,  
 Nes jis pažino priežasčių panaikinimą."
 
 
 
 ### 2. Dutiyabodhisuttaṃ (Antra atbudimo suta, Ud. 1.2)
 
-**2. Evaṃ me sutaṃ** Taip aš girdėjau: **– ekaṃ samayaṃ bhagavā** vieną kartą Palaimintasis **uruvelāyaṃ viharati** buvo apsistojęs Uruvėloje **najjā nerañjarāya tire** Nadžioje Nerandžios upės pakrantėje** bodhirukkhamūle** bodhi medžio papėdėje **paṭhamābhisambuddho.** tik pasiekęs tobulą visišką atbudimą.** Tena kho pana samayena bhagavā** Ir tuo metu Palaimintasis **sattāhaṃ ekapallaṅkena nisinno hoti** septynias dienas sėdėjo sukryžiavęs kojas, **vimuttisukhapaṭisaṃvedī** patirdamas išsilaisvinimo laimę. **Atha kho bhagavā** Tada gi Palaimintasis, **tassa sattāhassa accayena** praėjus septyniom dienom, **tamhā samādhimhā vuṭṭhahitvā** išėjęs iš to susitelkimo, **rattiyā majjhimaṃ yāmaṃ** antrą nakties trečdalį **paṭiccasamuppādaṃ paṭilomaṃ sādhukaṃ manasākāsi –** kreipė nuodugnų dėmesį į sąlygotą atsiradimą atvirkštine tvarka.
+**2. Evaṃ me sutaṃ** Taip aš girdėjau: **– ekaṃ samayaṃ bhagavā** vieną kartą Palaimintasis **uruvelāyaṃ viharati** buvo apsistojęs Uruvėloje **najjā nerañjarāya tire** Nadžioje Nerandžios upės pakrantėje** bodhirukkhamūle** bodhi medžio papėdėje **paṭhamābhisambuddho.** tik pasiekęs tobulą visišką atbudimą. **Tena kho pana samayena bhagavā** Ir tuo metu Palaimintasis **sattāhaṃ ekapallaṅkena nisinno hoti** septynias dienas sėdėjo sukryžiavęs kojas, **vimuttisukhapaṭisaṃvedī** patirdamas išsilaisvinimo laimę. **Atha kho bhagavā** Tada gi Palaimintasis, **tassa sattāhassa accayena** praėjus septyniom dienom, **tamhā samādhimhā vuṭṭhahitvā** išėjęs iš to susitelkimo, **rattiyā majjhimaṃ yāmaṃ** antrą nakties trečdalį **paṭiccasamuppādaṃ paṭilomaṃ sādhukaṃ manasākāsi –** kreipė nuodugnų dėmesį į sąlygotą atsiradimą atvirkštine tvarka.
 
 **‘‘Iti imasmiṃ asati idaṃ na hoti,** Tam nesant, to nėra, **imassa nirodhā idaṃ nirujjhati,** tam išnykus, tai išnyksta, **yadidaṃ –** tai yra: **avijjānirodhā saṅkhāranirodho;** dėl nežinojimo išnykimo išnyksta valingi veiksmai; **saṅkhāranirodhā viññāṇanirodho;** dėl valingų veiksmų išnykimo išnyksta sąmonė; **viññāṇanirodhā nāmarūpanirodho;** dėl sąmonės išnykimo išnyksta protas-materija;  **nāmarūpanirodhā saḷāyatananirodho;** dėl proto-materijos išnykimo išnyksta šeši jautimo pagrindai;  **saḷāyatananirodhā phassanirodho;** dėl šešių jautimo pagrindų išnykimo išnyksta sąlytis;  **phassanirodhā vedanānirodho;** dėl sąlyčio išnykimo išnyksta jausmas; **vedanānirodhā taṇhānirodho;** dėl jausmo išnykimo išnyksta troškimas; **taṇhānirodhā upādānanirodho;** dėl troškimo išnykimo išnyksta prisirišimas; **upādānanirodhā bhavanirodho;** dėl prisirišimo išnykimo išnyksta būtis; **bhavanirodhā jātinirodho;** dėl būties išnykimo išnyksta gimimas; **jātinirodhā jarāmaraṇaṃ sokaparidevadukkhadomanassupāyāsā nirujjhanti.** dėl gimimo išnykimo išnyksta senėjimas, mirtis, liūdesys, raudojimas, skausmas, nusiminimas, nerimas. **Evametassa kevalassa dukkhakkhandhassa nirodho hotī"ti.** Tokiu būdu išnyksta visa ši kentėjimų daugybė.
 
