@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Su Nirvana surištos sutos (Nibbānapaṭisaṃyuttasuttāni, Ud 8.1)'
+title: 'Su Nirvana surištos sutos (Nibbānapaṭisaṃyuttasuttāni, Ud 8.1-4)'
 tags:
   - P
 index: P
