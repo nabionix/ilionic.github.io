@@ -69,7 +69,7 @@ Tada gi Palaimintasis supratęs to reikšmingumą, ta proga ištarė šiuos dži
 
 **Atha kho bhagavā etamatthaṃ viditvā** Tada gi Palaimintasis supratęs to reikšmingumą, **tāyaṃ velāyaṃ imaṃ udānaṃ udānesi –** ta proga ištarė šiuos džiaugsmingus žodžius:
 
-**‘‘Duddasaṃ anataṃ nāma,** Nelengva pamatyti, tai kas vadinama "be polinkio", **na hi saccaṃ sudassanaṃ; **tiesą gi {comy =Nirvaną} sunku pamatyti; **Paṭividdhā taṇhā jānato, passato natthi kiñcana’’nti.** Tam, kuris mato ir žino prasiskverbimą pro trošimą, nieko nėra."
+**‘‘Duddasaṃ anataṃ nāma,** Nelengva pamatyti, tai kas vadinama "be polinkio", **na hi saccaṃ sudassanaṃ;** tiesą gi {comy =Nirvaną} sunku pamatyti; **Paṭividdhā taṇhā jānato, passato natthi kiñcana’’nti.** Tam, kuris mato ir žino prasiskverbimą pro trošimą, nieko nėra."
 
 ### Tatiyanibbānapaṭisaṃyuttasuttaṃ (Trečia su Nirvana surišta suta, Ud 8.3)
 
