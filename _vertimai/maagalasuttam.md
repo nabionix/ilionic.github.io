@@ -51,7 +51,7 @@ Jie visur yra laimingi, jiems tai yra didžiausia palaima.
 
 ### Maṅgalasuttaṃ (Palaima, Khp 5, Sn II.4)
 
-**1. Evaṃ me sutaṃ – **Taip aš girdėjau: **ekaṃ samayaṃ bhagavā** vieną kartą Palaimintasis **sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme** buvo apsistojęs Savathėje, Džetos girioje, Anathapindikos vienuolyne. **Atha kho aññatarā devatā **Tada gi vienas dėva **abhikkantāya rattiyā** gilią naktį **abhikkantavaṇṇā kevalakappaṃ jetavanaṃ obhāsetvā** neprilygstama šviesa nušvietęs visą Džetos girią **yena bhagavā tenupasaṅkami** atėjo pas Palaimintąjį, **upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi** atėjęs pasveikino Palaimintąjį ir atsistojo iš šono. **Ekamantaṃ ṭhitā kho sā devatā** Iš šono stovėdamas tas dėva **bhagavantaṃ gāthāya ajjhabhāsi –** ištarė Palaimintajam posmą:
+**1. Evaṃ me sutaṃ –** Taip aš girdėjau: **ekaṃ samayaṃ bhagavā** vieną kartą Palaimintasis **sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme** buvo apsistojęs Savathėje, Džetos girioje, Anathapindikos vienuolyne. **Atha kho aññatarā devatā** Tada gi vienas dėva **abhikkantāya rattiyā** gilią naktį **abhikkantavaṇṇā kevalakappaṃ jetavanaṃ obhāsetvā** neprilygstama šviesa nušvietęs visą Džetos girią **yena bhagavā tenupasaṅkami** atėjo pas Palaimintąjį, **upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi** atėjęs pasveikino Palaimintąjį ir atsistojo iš šono. **Ekamantaṃ ṭhitā kho sā devatā** Iš šono stovėdamas tas dėva **bhagavantaṃ gāthāya ajjhabhāsi –** ištarė Palaimintajam posmą:
 
 **2. ‘‘Bahū devā manussā ca, maṅgalāni acintayuṃ;** Mąsto apie palaimą daugybė dėvų ir žmonių
 **Ākaṅkhamānā sotthānaṃ, brūhi maṅgalamuttamaṃ’’.** norėdami klestėjimo, prašau, pasakyki kas sudaro didžiausią palaimą!
@@ -69,7 +69,7 @@ Jie visur yra laimingi, jiems tai yra didžiausia palaima.
 **Anākulā ca kammantā, etaṃ maṅgalamuttamaṃ.** Ir taikūs užsiėmimai – tai yra didžiausia palaima.
 
 **7. ‘‘Dānañca dhammacariyā ca, ñātakānañca saṅgaho;** Aukojimas ir teisingas gyvenimo būdas, rūpinimasis giminaičiais
-**Anavajjāni kammāni, etaṃ maṅgalamuttamaṃ. **Ir nesmerktini poelgiai – tai yra didžiausia palaima.
+**Anavajjāni kammāni, etaṃ maṅgalamuttamaṃ.** Ir nesmerktini poelgiai – tai yra didžiausia palaima.
 
 **8. ‘‘Āratī viratī pāpā, majjapānā ca saṃyamo;** Vengimas ir susilaikymas nuo blogio, svaigalų nevartojimas
 **Appamādo ca dhammesu, etaṃ maṅgalamuttamaṃ.** Ir stropumas Dharmoje – tai yra didžiausia palaima.
