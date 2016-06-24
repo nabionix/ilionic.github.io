@@ -1,15 +1,16 @@
 ---
 layout: post-index
 title: Suttų indeksas
-description: "An archive of posts sorted by tag."
+description: An archive of posts sorted by tag.
 comments: false
 image:
   feature: headers/pali-0.jpg
+published: true
 ---
 
 
 <article>
-  <h2 class="tag-heading">Ilgos suttos (Dīghanikāyo, DN)</h2>
+  <h2 class="tag-heading">Ilgos sutos (Dīghanikāyo, DN)</h2>
   <ul>
     {% assign category = site.vertimai | where: "category","ilgos suttos" | sort: 'sortIndex' %}
     {% for post in category %}
@@ -34,7 +35,7 @@ image:
 </article>
 
 <article>
-  <h2 class="tag-heading">Vidutinio ilgio suttos (Majjhimanikāyo, MN)</h2>
+  <h2 class="tag-heading">Vidutinio ilgio sutos (Majjhimanikāyo, MN)</h2>
   <ul>
     {% assign category = site.vertimai | where: "category","vidutinio" | sort: 'sortIndex' %}
     {% for post in category %}
@@ -59,7 +60,7 @@ image:
 </article>
 
 <article>
-  <h2 class="tag-heading">Surištos suttos (Saṃyuttanikāyo, SN)</h2>
+  <h2 class="tag-heading">Surištos sutos (Saṃyuttanikāyo, SN)</h2>
   <ul>
     {% assign category = site.vertimai | where: "category","suristos suttos" | sort: 'sortIndex' %}
     {% for post in category %}
@@ -69,7 +70,7 @@ image:
 </article>
 
 <article>
-  <h2 class="tag-heading">Palaipsninės suttos (Aṅguttaranikāyo, AN)</h2>
+  <h2 class="tag-heading">Palaipsninės sutos (Aṅguttaranikāyo, AN)</h2>
   <ul>
     {% assign category = site.vertimai | where: "category","palaipsnines" | sort: 'sortIndex' %}
     {% for post in category %}
@@ -79,7 +80,7 @@ image:
 </article>
 
 <article>
-  <h2 class="tag-heading">Trumpesni tekstai</h2>
+  <h2 class="tag-heading">Trumpesni tekstai (Khuddakanikāyo, KN)</h2>
   <h3 class="tag-heading">Džiaugsmingi žodžiai (Uddana, Ud)</h2>
   <ul>
     {% assign category = site.vertimai | where: "category","dziaugsmingi" | sort: 'sortIndex' %}
@@ -87,7 +88,7 @@ image:
       <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
-  <h3 class="tag-heading">Trumpesni skaitiniai (Khuddakanikāyo, KN)</h2>
+  <h3 class="tag-heading">Trumpesni skaitiniai (Khuddakapatha, Khd)</h2>
   <ul>
     {% assign category = site.vertimai | where: "category","trumpesni" | sort: 'sortIndex' %}
     {% for post in category %}
