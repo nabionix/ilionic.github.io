@@ -2,8 +2,8 @@
 layout: page
 title: 'Palaima (Maṅgalasuttaṃ, Khp 5, Sn II.4)'
 tags:
-  - P
-index: P
+  - M
+index: M
 comments: false
 category: trumpesni
 sortIndex: 524
