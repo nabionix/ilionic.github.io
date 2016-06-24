@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sāmaññaphalasuttaṃ Atsiskyrimo vaisiai (DN 2)
+title: 'Atsiskyrimo vaisiai (Sāmaññaphalasuttaṃ, DN 2)'
 tags:
   - S
 index: S
