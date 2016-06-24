@@ -12,10 +12,6 @@ image:
 published: true
 ---
 
-Nagrinėjimas (SN II.I.i.2)
-
-*Vibhaṅgasuttaṃ*
-
 Buvo apsistojęs Savathėje...
 
 －Vienuoliai, mokysiu jus, nagrinėsiu sąlygotą atsiradimą. Klausykite, sutelkite visą dėmesį, kalbėsiu.
