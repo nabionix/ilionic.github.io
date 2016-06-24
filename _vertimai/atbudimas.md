@@ -2,8 +2,8 @@
 layout: page
 title: 'Atbudimas (Bodhisuttāni, Ud 1.1-3)'
 tags:
-  - P
-index: P
+  - B
+index: B
 comments: false
 category: dziaugsmingi
 sortIndex: 11
