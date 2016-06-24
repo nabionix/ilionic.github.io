@@ -72,17 +72,14 @@ Nes jis pažino priežasčių panaikinimą."
 
 **Atha kho bhagavā etamatthaṃ viditvā** Tada gi Palaimintasis supratęs to reikšmingumą, **tāyaṃ velāyaṃ imaṃ udānaṃ udānesi –** ta proga ištarė šiuos džiaugsmingus žodžius:
 
-**‘‘Yadā have pātubhavanti dhammā,** Kai reiškiniai tampa matomi
-
-**Ātāpino jhāyato brāhmaṇassa;** Su užsidegimu medituojančiam brahmanui,
-
-**Athassa kaṅkhā vapayanti sabbā,** Visos jo abejonės išsisklaido,
-
-**Yato khayaṃ paccayānaṃ avedī’’ti.** Nes jis pažino priežasčių panaikinimą."
+**‘‘Yadā have pātubhavanti dhammā,** Kai reiškiniai tampa matomi  
+**Ātāpino jhāyato brāhmaṇassa;** Su užsidegimu medituojančiam brahmanui,  
+**Athassa kaṅkhā vapayanti sabbā,** Visos jo abejonės išsisklaido,  
+**Yato khayaṃ paccayānaṃ avedī’’ti.** Nes jis pažino priežasčių panaikinimą."  
 
 
 
-Trečia atbudimo suta (Ud. 1.3)
+### Trečia atbudimo suta (Ud. 1.3)
 
 *Tatiyabodhisuttaṃ*
 
@@ -92,13 +89,10 @@ Taip aš girdėjau: vieną kartą Palaimintasis tik pasiekęs tobulą visišką 
 
 Tada gi Palaimintasis supratęs to reikšmingumą, ta proga ištarė šiuos džiaugsmingus žodžius:
 
-"Kai reiškiniai tampa matomi
-
-Su užsidegimu medituojančiam brahmanui,
-
-Jis stovi išsklaidęs Maros armiją\*
-
-Kaip saulė apšviečianti dangaus skliautą."
+"Kai reiškiniai tampa matomi  
+Su užsidegimu medituojančiam brahmanui,  
+Jis stovi išsklaidęs Maros armiją\*  
+Kaip saulė apšviečianti dangaus skliautą."  
 
 \**Mara (Māra) - vieno iš dėvų pasaulių valdovas, budizmo Šėtonas, Gundytojas, mirties personifikacija. Jo armiją sudaro tokie trugdžiai kelyje į atbudimą kaip jusliniai malonumai, nepasitenkinimas, alkis ir troškulys, troškimas, tingulys ir apsnūdimas, baimė, neapsisprendimas, veidmainystė ir užsispirimas, neteisėtas praturtėjimas, išgarsėjimas, garbė ir statusas; bei savęs liaupsinimas ir kitų niekinimas.*
 
@@ -106,7 +100,7 @@ Kaip saulė apšviečianti dangaus skliautą."
 
 ### 3. Tatiyabodhisuttaṃ (Trečia atbudimo suta, Ud. 1.3)
 
-**3**. **Evaṃ me sutaṃ** Taip aš girdėjau: **– ekaṃ samayaṃ bhagavā** vieną kartą Palaimintasis **uruvelāyaṃ viharati** buvo apsistojęs Uruvėloje** najjā nerañjarāya tire** Nadžioje Nerandžios upės pakrantėje** bodhirukkhamūle** bodhi medžio papėdėje **paṭhamābhisambuddho.** tik pasiekęs tobulą visišką atbudimą. **Tena kho pana samayena bhagavā** Ir tuo metu Palaimintasis **sattāhaṃ ekapallaṅkena nisinno hoti** septynias dienas sėdėjo sukryžiavęs kojas, **vimuttisukhapaṭisaṃvedī **patirdamas išsilaisvinimo laimę. **Atha kho bhagavā** Tada gi Palaimintasis, **tassa sattāhassa accayena** praėjus septyniom dienom, **tamhā samādhimhā vuṭṭhahitvā** išėjęs iš to susitelkimo, **rattiyā pacchimaṃ yāmaṃ** paskutinį nakties trečdalį **paṭiccasamuppādaṃ anulomapaṭilomaṃ sādhukaṃ manasākāsi –** kreipė nuodugnų dėmesį į sąlygotą atsiradimą tiesiogine ir atvirkštine tvarka.
+**3. Evaṃ me sutaṃ** Taip aš girdėjau: **– ekaṃ samayaṃ bhagavā** vieną kartą Palaimintasis **uruvelāyaṃ viharati** buvo apsistojęs Uruvėloje **najjā nerañjarāya tire** Nadžioje Nerandžios upės pakrantėje **bodhirukkhamūle** bodhi medžio papėdėje **paṭhamābhisambuddho.** tik pasiekęs tobulą visišką atbudimą. **Tena kho pana samayena bhagavā** Ir tuo metu Palaimintasis **sattāhaṃ ekapallaṅkena nisinno hoti** septynias dienas sėdėjo sukryžiavęs kojas, **vimuttisukhapaṭisaṃvedī** patirdamas išsilaisvinimo laimę. **Atha kho bhagavā** Tada gi Palaimintasis, **tassa sattāhassa accayena** praėjus septyniom dienom, **tamhā samādhimhā vuṭṭhahitvā** išėjęs iš to susitelkimo, **rattiyā pacchimaṃ yāmaṃ** paskutinį nakties trečdalį **paṭiccasamuppādaṃ anulomapaṭilomaṃ sādhukaṃ manasākāsi –** kreipė nuodugnų dėmesį į sąlygotą atsiradimą tiesiogine ir atvirkštine tvarka.
 
 **‘‘Iti imasmiṃ sati idaṃ hoti,** Tam esant, tai yra, **imassuppādā idaṃ uppajjati,** tam atsiradus, tai atsiranda, **imasmiṃ asati idaṃ na hoti,** tam nesant, to nėra, **imassa nirodhā idaṃ nirujjhati,** tam išnykus, tai išnyksta, ** yadidaṃ –** tai yra: **avijjāpaccayā saṅkhārā;** sąlygoti nežinojimo yra valingi veiksmai; **saṅkhārapaccayā viññāṇaṃ;** sąlygota valingų veiksmų yra sąmonė; **viññāṇapaccayā nāmarūpaṃ;** sąlygota sąmonės yra protas-materija; **nāmarūpapaccayā saḷāyatanaṃ;** sąlygoti proto-materijos yra šeši jautimo pagrindai; **saḷāyatanapaccayā phasso;** sąlygotas šešių jautimo pagrindų yra sąlytis; **phassapaccayā vedanā;** sąlygotas sąlyčio yra jausmas; **vedanāpaccayā taṇhā;** sąlygotas jausmo yra troškimas; **taṇhāpaccayā upādānaṃ;** sąlygotas troškimo yra prisirišimas; **upādānapaccayā bhavo;** sąlygotas prisirišimo yra būtis; **bhavapaccayā jāti;** sąlygotas būties yra gimimas; **jātipaccayā jarāmaraṇaṃ** sąlygotas gimimo yra senėjimo, mirties, **sokaparidevadukkhadomanassupāyāsā sambhavanti.** liūdesio, raudojimo, skausmo, nusiminimo, nerimo atsiradimas. **Evametassa kevalassa dukkhakkhandhassa samudayo hoti.** Tokiu būdu atsiranda visa ši kentėjimų daugybė.
 
@@ -114,14 +108,10 @@ Kaip saulė apšviečianti dangaus skliautą."
 
 **Atha kho bhagavā etamatthaṃ viditvā** Tada gi Palaimintasis supratęs to reikšmingumą, **tāyaṃ velāyaṃ imaṃ udānaṃ udānesi –** ta proga ištarė šiuos džiaugsmingus žodžius:
 
-**‘‘Yadā have pātubhavanti dhammā,** Kai reiškiniai tampa matomi
-
-**Ātāpino jhāyato brāhmaṇassa;** Su užsidegimu medituojančiam brahmanui,
-
-**Vidhūpayaṃ tiṭṭhati mārasenaṃ,** Jis stovi išsklaidęs Maros armiją\*
-
-**Sūriyova [suriyova (sī. syā. kaṃ. pī.)] obhāsayamantalikkha’’nti.** Kaip saulė apšviečianti dangaus skliautą."
-
+**‘‘Yadā have pātubhavanti dhammā,** Kai reiškiniai tampa matomi  
+**Ātāpino jhāyato brāhmaṇassa;** Su užsidegimu medituojančiam brahmanui,  
+**Vidhūpayaṃ tiṭṭhati mārasenaṃ,** Jis stovi išsklaidęs Maros armiją\*  
+**Sūriyova [suriyova (sī. syā. kaṃ. pī.)] obhāsayamantalikkha’’nti.** Kaip saulė apšviečianti dangaus skliautą."  
 
 
 \**Mara (Māra) - vieno iš dėvų pasaulių valdovas, budizmo Šėtonas, Gundytojas, mirties personifikacija. Jo armiją sudaro tokie trugdžiai kelyje į atbudimą kaip jusliniai malonumai, nepasitenkinimas, alkis ir troškulys, troškimas, tingulys ir apsnūdimas, baimė, neapsisprendimas, veidmainystė ir užsispirimas, neteisėtas praturtėjimas, išgarsėjimas, garbė ir statusas; bei savęs liaupsinimas ir kitų niekinimas.*
