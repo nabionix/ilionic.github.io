@@ -12,17 +12,14 @@ published: true
 
 Buda, *Dharma* ir *Sangha* yra vadinami Trimis Brangenybėmis dėl to, kad kaip ir brangenybės, jie pasižymi puikiomis, vertingomis savybėmis. Kai nuodugniai jas ištirinėjęs žmogus pamato šias ypatingas, į išsilaisvinimą nuo gyvenimo kančių vedančias savybes, jis priima prieglobstį juose. Nuo paties Budos ir iki šių laikų šis žingsnis (prieglobsčio priėmimas Trijose  Brangenybėse) veikia kaip vartai į Budos mokymą. Jis atveria prieigą prie *Dharmos* visoje jos gilumoje ir plotmėje. Bet kas, kas priima tą mokymą praeina pro šiuos vartus. Žmogus sakydamas:
 
- *Buddhaṃ saraṇaṃ gacchāmi;*
-
- Aš priimu prieglobstį Budoje,
+*Buddhaṃ saraṇaṃ gacchāmi;*
+Aš priimu prieglobstį Budoje,  
 
 *Dhammaṃ saraṇaṃ gacchāmi;*
-
- Aš priimu prieglobstį *Dharmos*,
+Aš priimu prieglobstį *Dharmos*,  
 
 *Saṅghaṃ saraṇaṃ gacchāmi.*
-
- Aš priimu prieglobstį *Sanghoje*,
+Aš priimu prieglobstį *Sanghoje*,  
 
 Priima Budą kaip savo mokytoją, *Dharmą* kaip mokymą ir *Sanghą* kaip palaikymą sutelkiantį bendruomenę.
 
@@ -42,7 +39,7 @@ Su *Dharma* susipažįstame per raštų skaitymą ir jų aptarimą su išmananč
 
 * Kitus gyvenimus liečianti *Dharma*. Tai yra pamokymai apie tai, koks elgesis veda į gerą, laimingą atgimimą ir koks veda į skausmingą {pažymėtina kad budizme nėra amžino gyvenimo sąvokos, nėra amžino dangaus ar amžino pragaro, gyvenimas bet kuriame pasaulyje yra laikinas}.
 
-* *Dha**r**ma* apie galutini išsilaisvinimą. Tai yra pamokymai liečiantys aukščiausią budizmo siekį: visišką išsilaisvinimą nuo visų teršalų, nuo bet kokio nežinojimo, troškimo ir neapykantos, *Nirvanos*, išsilaisvinimo iš užburto atgimimų rato, samsaros, pažinimą.
+* *Dharma* apie galutini išsilaisvinimą. Tai yra pamokymai liečiantys aukščiausią budizmo siekį: visišką išsilaisvinimą nuo visų teršalų, nuo bet kokio nežinojimo, troškimo ir neapykantos, *Nirvanos*, išsilaisvinimo iš užburto atgimimų rato, samsaros, pažinimą.
 
 Iš tiesų, tikrasi prieglobstis yra *Dharma*. *Dharma*, kurią mes randame raštuose, yra mūsų žemėlapis, kelrodė žvaigždė. Tam, kad pasiektume aukščiausią tikslą, turime vadovautis nurodymais ir instrukcijomis, išdėstitomis juose, ir daryti žingsnius tikslo link. Šių nurodimų paisymas ir kelio įgyvendinimas suteikia mums prieglobstį, nes tik praktika atves į galutinę ramybę. Bet tikrų tikriausias prieglobstis *Dharmoje* yra pati *Nirvana*, nes tik pasiekus tą nesalygotą, tyriausią, nekintančią ir amžiną realybę, mes esame laisvi nuo su gyvenimų samsaroje susietų pavojų ir baimių.
 
@@ -50,7 +47,7 @@ Iš tiesų, tikrasi prieglobstis yra *Dharma*. *Dharma*, kurią mes randame raš
 
 *Sangha*- šis žodis nusako vienuolių bendruomenę. Tik vienuolių dėka per šiuos daugiau nei 2,5 tūkst. metų nuo Gotamos Budos mokymo pradžios, *Dharma* vis dar yra žinoma pasauliui. Budos žodžiai vis dar gyvena žmonių širdyse. Vis dar esama žmonių, kurie sugeba pasiekti nežinojimo ir visų troškimų išnykimą.
 
-Vienuolių *Sangha* prisiima atsakomybę tęsti praktikos tradiciją ir rodo kitiems, kad galutnis tikslas, *Nirvana*, yra lygiai taip pat pasiekiama šiandieną kaip ir prieš tūkstantmečius. *Sangha* rūpinasi kanoninių tekstų išsaugojimu. Tie, kas nuo vaikystės įžengia į ordiną, mokosi raštų atmintinai, ir iki pat šiuos dienos, nepaisant technologijų išsivystymo, vis dar yra tokių, kurie žino vieną *Pitaką* (raštų 'krepšį'), ar net visą *Tipitaką* atmintinai. Taip yra užtikrinamas mokymų perdavimo tradicijos tęstinumas. Vienuolių *Sangha* turi ir kitą atsakomybę: mokymų praktinio taikymo išsaugojimas. Žinojimas kaip pritaikyti teoriją praktikoje ir tų žinių perdavimas kitiems yra tai, kas užtikrina *Dhamos* gyvavimą iki šių dienų.
+Vienuolių *Sangha* prisiima atsakomybę tęsti praktikos tradiciją ir rodo kitiems, kad galutnis tikslas, *Nirvana*, yra lygiai taip pat pasiekiama šiandieną kaip ir prieš tūkstantmečius. *Sangha* rūpinasi kanoninių tekstų išsaugojimu. Tie, kas nuo vaikystės įžengia į ordiną, mokosi raštų atmintinai, ir iki pat šiuos dienos, nepaisant technologijų išsivystymo, vis dar yra tokių, kurie žino vieną *Pitaką* (raštų 'krepšį'), ar net visą *Tipitaką* atmintinai. Taip yra užtikrinamas mokymų perdavimo tradicijos tęstinumas. Vienuolių *Sangha* turi ir kitą atsakomybę: mokymų praktinio taikymo išsaugojimas. Žinojimas kaip pritaikyti teoriją praktikoje ir tų žinių perdavimas kitiems yra tai, kas užtikrina *Dharmos* gyvavimą iki šių dienų.
 
 Ši *Sangha* gali suteikti visiems, kas nori paskirti visą savo gyvenimą aukščiausiojo tikslo, Išsilavinimo, pasiekimui be pasaulietiško gyvenimo trikdžių, palankias išorines sąlygas bei reikalingą vadovavimą.
 
