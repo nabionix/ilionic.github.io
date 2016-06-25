@@ -22,7 +22,7 @@ published: true
 
 Taip aš girdėjau vieną kartą Palaimintasis buvo apsistojęs Radžagahoje Džyvakos Komarabhačos mangamedžių girioje kartu su didžiulę vienuolių sanghą, su tūkstančiu dviem šimtais penkiasdešimt vienuoliu. Tuo gi pat metu Magadhos karalius Adžatasatus Vedehiputa per uposathą, per pilnatį, katikos mėnesio 15-tą dieną, pilno mėnulio vakarą, apsuptas ministrų sėdėjo viršutiniame rūmų aukšte. Tada gi, per tą uposathą Magadhos karalius Adžatasatus Vedehiputa ištarė šiuos džiaugsmingus žodžius:
 
-－O, koks žavingas pilnaties vakaras, draugai, o, koks nuostabus pilnaties vakaras, draugai, o, koks gražus pilnaties vakaras, draugai, o, koks romus pilnaties vakaras, draugai, o, koks daug žadantis pilnaties vakaras, draugai! Kokį tokį atsiskyrėlį ar brahmaną šiandien galėtume aplankyti, kurį paklausius mūsų protas būtų nuramintas?
+－O, koks žavingas pilnaties vakaras, draugai, o, koks nuostabus pilnaties vakaras, draugai, o, koks gražus pilnaties vakaras, draugai, o, koks romus pilnaties vakaras, draugai, o, koks daug žadantis pilnaties vakaras, draugai! Kokį tokį atsiskyrėlį ar brahmaną šiandien galėtume aplankyti, kurio paklausius mūsų protas būtų nuramintas?
 
 Kai tai buvo pasakyta vienas ministras Magadhos karaliui Adžatasatui Vedehiputai pasakė taip:
 
