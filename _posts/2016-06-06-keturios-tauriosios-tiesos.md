@@ -10,7 +10,7 @@ published: true
 
 **_Cattāri ariyasaccāni_**
 
-Visa Budos mokymo esmė gali būti suvesta į du nedalomus dalykus: keturias tauriasias tiesas ir aštuonialypį taurųjį kelią. Paskutunioji iš keturių tiesų yra kelias, vedantis į *dukhos* (pali *dukkha*)  išnykimą, t. y. aštuonialypis kelias. O pirmoji aštuonialypio kelio sudedamoji dalis yra keturių tiesų supratimas. Tokiu būdu jie yra taip glaudžiai susiję, kad vienas negali būti be kito. Nežiūrint į tai, kad skirtingos budizmo mokyklos turi nevienodas tam tikrų mokymo aspektų interpretacijas, šie kertiniai tiesų ir kelio akmenys yra bendri joms visoms. Nuo pat pirmo pamokymo, kurį atbudęs Buda davė savo penkiems draugams, per visą 45 metų mokytojo karjerą jis nuolat, nenuilstamai, pakartotinai sakė:
+Visa Budos mokymo esmė gali būti suvesta į du nedalomus dalykus: keturias tauriasias tiesas ir aštuonialypį taurųjį kelią. Paskutinioji iš keturių tiesų yra kelias, vedantis į *dukhos* (pali *dukkha*)  išnykimą, t. y. aštuonialypis kelias. O pirmoji aštuonialypio kelio sudedamoji dalis yra keturių tiesų supratimas. Tokiu būdu jie yra taip glaudžiai susiję, kad vienas negali būti be kito. Nežiūrint į tai, kad skirtingos budizmo mokyklos turi nevienodas tam tikrų mokymo aspektų interpretacijas, šie kertiniai tiesų ir kelio akmenys yra bendri joms visoms. Nuo pat pirmo pamokymo, kurį atbudęs Buda davė savo penkiems draugams, per visą 45 metų mokytojo karjerą jis nuolat, nenuilstamai, pakartotinai sakė:
 
 1. Tai yra *dukha*.
 
@@ -19,6 +19,7 @@ Visa Budos mokymo esmė gali būti suvesta į du nedalomus dalykus: keturias tau
 3. Tai yra *dukhos* išnykimas.
 
 4. Tai yra kelias vedantis į *dukhos* išnykimą.
+<!--break-->
 
 Tam, kad suprastume kas gi yra *dukha*, pažvelkime kaip ją apybrėžia Buda. Gimimas, senėjimas, ligos ir mirtis yra *dukha*, susidūrimas su tuo, kas nemiela, išsiskyrimas su, tuo kas miela, bei negauti to, ko norisi, irgi yra *dukha*. Trumpiau, penki prisirišimo komponentai (*pañcupādānakkhandha*) yra *dukha*. Paprastai šis terminas verčiamas kaip 'kančia', 'kentejimas', 'stresas', 'diskomfortas', 'bėda', 'sunkumas' ir panašiai. Bet nei vienas iš šių žodžių neatspindi *dukhos* esmės. Ne tik nemalonios gyvenimo situacijos, bet ir tai, kas malonu, taip pat yra *dukha*. Sąlygotų dalykų pasaulyje viskas nuolat keičiasi, kaita ir buvimas budizme matomi kaip neatsiejami dalykai. Gyvenimas reiškia kaitą, kaita reiškia gyvenimą. Gyvenime nėra nieko kas būtų amžina, būtent tai ir yra *dukhos* esmė - nėra nieko, ko mes neprarastume. Mes gauname trokštamą daiktą ir nenorime jo prarasti - tai natūralu. Bet nepriklausomai nuo mūsų norų, tas daiktas kinta ir galiausiai arba jo, arba mūsų pačių galiojimo laikas pasibaigia - išsiskyrimas neišvengiamas. Nesustabdoma nuolatinės kaitos priespauda yra *dukha*. Ir tai yra pirmoji taurioji tiesa.
 
