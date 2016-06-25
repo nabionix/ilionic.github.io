@@ -10,7 +10,7 @@ published: true
 
 **_Cattāri ariyasaccāni_**
 
-Visa Budos mokymo esmė gali būti suvesta į du nedalomus dalykus: keturias tauriasias tiesas ir aštuonialypį taurųjį kelią. Paskutinioji iš keturių tiesų yra kelias, vedantis į *dukhos* (pali *dukkha*)  išnykimą, t. y. aštuonialypis kelias. O pirmoji aštuonialypio kelio sudedamoji dalis yra keturių tiesų supratimas. Tokiu būdu jie yra taip glaudžiai susiję, kad vienas negali būti be kito. Nežiūrint į tai, kad skirtingos budizmo mokyklos turi nevienodas tam tikrų mokymo aspektų interpretacijas, šie kertiniai tiesų ir kelio akmenys yra bendri joms visoms. Nuo pat pirmo pamokymo, kurį atbudęs Buda davė savo penkiems draugams, per visą 45 metų mokytojo karjerą jis nuolat, nenuilstamai, pakartotinai sakė:
+Visa Budos mokymo esmė gali būti suvesta į du nedalomus dalykus: keturias tauriasias tiesas ir <a href="../post-astuonialypis-kelias">aštuonialypį taurųjį kelią</a>. Paskutinioji iš keturių tiesų yra kelias, vedantis į *dukhos* (pali *dukkha*)  išnykimą, t. y. aštuonialypis kelias. O pirmoji aštuonialypio kelio sudedamoji dalis yra keturių tiesų supratimas. Tokiu būdu jie yra taip glaudžiai susiję, kad vienas negali būti be kito. Nežiūrint į tai, kad skirtingos budizmo mokyklos turi nevienodas tam tikrų mokymo aspektų interpretacijas, šie kertiniai tiesų ir kelio akmenys yra bendri joms visoms. Nuo pat pirmo pamokymo, kurį atbudęs Buda davė savo penkiems draugams, per visą 45 metų mokytojo karjerą jis nuolat, nenuilstamai, pakartotinai sakė:
 
 1. Tai yra *dukha*.
 
