@@ -35,7 +35,7 @@ sąlygotas troškimo yra prisirišimas;
 sąlygotas prisirišimo yra būtis;  
 sąlygotas būties yra gimimas;  
 sąlygotas gimimo yra senėjimo, mirties, liūdesio, raudojimo, skausmo, nusiminimo, nerimo atsiradimas. Tokiu būdu atsiranda visa ši kentėjimų daugybė.  
-
+<!--break-->
 Dėl visiško nežinojimo užgesimo, išnykimo išnyksta valingi veiksmai;  
 dėl valingų veiksmų išnykimo išnyksta sąmonė;  
 dėl sąmonės išnykimo išnyksta protas-materija;  
