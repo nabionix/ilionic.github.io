@@ -123,4 +123,4 @@ Nagrinėjant kaip ir kodėl atsiranda individuali gyvybė, galime skirtingai žv
 
     * samonė, protas-materija, šeši jautimo pagrindai, sąlytis, jausmas sudaro ateities rezultatus.
 
-Šio mokymo supratimo, perpratimo svarbą ir gelmę Buda išreiškė taip: "Gilus, Ananda, yra ir atrodo gilus šis sąlygotas atsiradimas. Dėl to, kad nesupranta ir neperpranta šios dharmos, ši karta yra susipainiojusi lyg siūlų kamuolys, lyg paukščių lizdas, lyg šiaudai ir šienas, ir ji negali įveikti nelaimingas sferas, blogas vietas, kančių sferas, samsarą." (DN15)
+Šio mokymo supratimo, perpratimo svarbą ir gelmę Buda išreiškė taip: "Gilus, Ananda, yra ir atrodo gilus šis sąlygotas atsiradimas. Ši karta yra susipainiojusi lyg siūlų kamuolys, lyg paukščių lizdas, lyg šiaudai ir šienas, dėl šios dharmos nesupratimo ir neperpratimo, ir ji negali įveikti nelaimingas sferas, blogas vietas, kančių sferas, samsarą." (DN15)
