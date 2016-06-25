@@ -1,7 +1,7 @@
 <div class="read-more">
   {% for post in site.related_posts limit:1 %}
     <div class="read-more-header">
-      <a onclick="window.history.back()" href="#" class="read-more-btn">Atgal</a>
+      <a href="{{ site.url }}" class="read-more-btn">Atgal</a>
     </div><!-- /.read-more-header -->
   {% endfor %}
   <div class="read-more-list">
