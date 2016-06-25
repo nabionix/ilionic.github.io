@@ -22,7 +22,7 @@ Aš priimu prieglobstį *Dharmos*,
 Aš priimu prieglobstį *Sanghoje*,  
 
 Priima Budą kaip savo mokytoją, *Dharmą* kaip mokymą ir *Sanghą* kaip palaikymą sutelkiantį bendruomenę.
-
+<!--break-->
 **Buda**
 
 Buda reiškia 'Atbudęs','Visiškai nušvytęs'. Buda nėra Dievas, pranašas, ar Dievo įsikūnijimas, jis yra tobuliausias iš žmonių, be mokytojo, savo paties pastangomis, atsikratęs visų proto nešvarumų, netobulumų ir įgavęs visas dorybes. Neturintis sau lygių mokytojas, jis gali pateikti mokymą tokioje formoje, kad jis bus geriausiai suprantamas ir naudingas klausytojui. Kai mes priimame prieglobstį Budoje, mes priimame šį žmogų kaip tobuliausio tyrumo, išminties ir atjautos įkūnijimą, neprilygstamą mokytoją, kurį sekdami mes galime saugiai išeiti iš kupino pavojų samsaros rato.
