@@ -12,13 +12,13 @@ published: true
 
 Buda, *Dharma* ir *Sangha* yra vadinami Trimis Brangenybėmis dėl to, kad kaip ir brangenybės, jie pasižymi puikiomis, vertingomis savybėmis. Kai nuodugniai jas ištirinėjęs žmogus pamato šias ypatingas, į išsilaisvinimą nuo gyvenimo kančių vedančias savybes, jis priima prieglobstį juose. Nuo paties Budos ir iki šių laikų šis žingsnis (prieglobsčio priėmimas Trijose  Brangenybėse) veikia kaip vartai į Budos mokymą. Jis atveria prieigą prie *Dharmos* visoje jos gilumoje ir plotmėje. Bet kas, kas priima tą mokymą praeina pro šiuos vartus. Žmogus sakydamas:
 
-*Buddhaṃ saraṇaṃ gacchāmi;*
+*Buddhaṃ saraṇaṃ gacchāmi;*  
 Aš priimu prieglobstį Budoje,  
 
-*Dhammaṃ saraṇaṃ gacchāmi;*
+*Dhammaṃ saraṇaṃ gacchāmi;*  
 Aš priimu prieglobstį *Dharmos*,  
 
-*Saṅghaṃ saraṇaṃ gacchāmi.*
+*Saṅghaṃ saraṇaṃ gacchāmi.*  
 Aš priimu prieglobstį *Sanghoje*,  
 
 Priima Budą kaip savo mokytoją, *Dharmą* kaip mokymą ir *Sanghą* kaip palaikymą sutelkiantį bendruomenę.
