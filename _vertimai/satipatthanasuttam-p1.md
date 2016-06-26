@@ -129,17 +129,17 @@ Ir vėlgi, vienuoliai, vienuolis gyvena reiškinių atžvilgiu kontempliuodamas 
 
 Ir vėlgi, vienuoliai, vienuolis gyvena reiškinių atžvilgiu kontempliuodamas šešių jautimo pagrindų reiškinius. Ir kaipgi vienuolis gyvena reiškinių atžvilgiu kontempliuodamas šešių jautimo pagrindų reiškinius?
 
-Štai, vienuoliai, vienuolis žino akį, ir žino materiją, jis taip pat žino tą pančią, kuris atsiranda dėl šių dviejų. Ir kaip atsiranda dar neatsiradęs pančias, jis taip pat žino, ir kaip pašalinamas atsiradęs pančias, jis taip pat žino, ir kaip nebeatsiranda pašalintas pančas, jis taip pat žino.
+Štai, vienuoliai, vienuolis žino akį, ir žino materiją, jis taip pat žino tą saitą, kuris atsiranda dėl šių dviejų. Ir kaip atsiranda dar neatsiradęs saitas, jis taip pat žino, ir kaip pašalinamas atsiradęs saitas, jis taip pat žino, ir kaip nebeatsiranda pašalintas saitas, jis taip pat žino.
 
-Jis žino ausį, ir žino garsą, jis taip pat žino tą pančią, kuris atsiranda dėl šių dviejų. Ir kaip atsiranda dar neatsiradęs pančias, jis taip pat žino, ir kaip pašalinamas atsiradęs pančias, jis taip pat žino, ir kaip nebeatsiranda pašalintas pančas, jis taip pat žino.
+Jis žino ausį, ir žino garsą, jis taip pat žino tą saitą, kuris atsiranda dėl šių dviejų. Ir kaip atsiranda dar neatsiradęs saitas, jis taip pat žino, ir kaip pašalinamas atsiradęs saitas, jis taip pat žino, ir kaip nebeatsiranda pašalintas saitas, jis taip pat žino.
 
-Jis žino nosį, ir žino kvapą, jis taip pat žino tą pančią, kuris atsiranda dėl šių dviejų. Ir kaip atsiranda dar neatsiradęs pančias, jis taip pat žino, ir kaip pašalinamas atsiradęs pančias, jis taip pat žino, ir kaip nebeatsiranda pašalintas pančas, jis taip pat žino.
+Jis žino nosį, ir žino kvapą, jis taip pat žino tą saitą, kuris atsiranda dėl šių dviejų. Ir kaip atsiranda dar neatsiradęs saitas, jis taip pat žino, ir kaip pašalinamas atsiradęs saitas, jis taip pat žino, ir kaip nebeatsiranda pašalintas saitas, jis taip pat žino.
 
-Jis žino liežuvį, ir žino skonį, jis taip pat žino tą pančią, kuris atsiranda dėl šių dviejų. Ir kaip atsiranda dar neatsiradęs pančias, jis taip pat žino, ir kaip pašalinamas atsiradęs pančias, jis taip pat žino, ir kaip nebeatsiranda pašalintas pančas, jis taip pat žino.
+Jis žino liežuvį, ir žino skonį, jis taip pat žino tą saitą, kuris atsiranda dėl šių dviejų. Ir kaip atsiranda dar neatsiradęs saitas, jis taip pat žino, ir kaip pašalinamas atsiradęs saitas, jis taip pat žino, ir kaip nebeatsiranda pašalintas saitas, jis taip pat žino.
 
-Jis žino kūną, ir žino kūnu juntamą, jis taip pat žino tą pančią, kuris atsiranda dėl šių dviejų. Ir kaip atsiranda dar neatsiradęs pančias, jis taip pat žino, ir kaip pašalinamas atsiradęs pančias, jis taip pat žino, ir kaip nebeatsiranda pašalintas pančas, jis taip pat žino.
+Jis žino kūną, ir žino kūnu juntamą, jis taip pat žino tą saitą, kuris atsiranda dėl šių dviejų. Ir kaip atsiranda dar neatsiradęs saitas, jis taip pat žino, ir kaip pašalinamas atsiradęs saitas, jis taip pat žino, ir kaip nebeatsiranda pašalintas saitas, jis taip pat žino.
 
-Jis žino protą, ir proto objektus, jis taip pat žino tą pančią, kuris atsiranda dėl šių dviejų. Ir kaip atsiranda dar neatsiradęs pančias, jis taip pat žino, ir kaip pašalinamas atsiradęs pančias, jis taip pat žino, ir kaip nebeatsiranda pašalintas pančas, jis taip pat žino.
+Jis žino protą, ir proto objektus, jis taip pat žino tą saitą, kuris atsiranda dėl šių dviejų. Ir kaip atsiranda dar neatsiradęs saitas, jis taip pat žino, ir kaip pašalinamas atsiradęs saitas, jis taip pat žino, ir kaip nebeatsiranda pašalintas saitas, jis taip pat žino.
 
 Taip, jis reiškinių atžvilgiu būna stebintis reiškinius viduje, arba reiškinių atžvilgiu būna stebintis reiškinius išorėje, arba reiškinių atžvilgiu būna stebintis reiškinius viduje ir išorėje. Jis stebi atsiradimo prigimtį reiškinių atžvilgiu, arba stebi irimo prigimtį reiškinių atžvilgiu, arba stebi atsiradimo ir irimo prigimtį reiškinių atžvilgiu, arba "yra reiškiniai“ jame yra įsteigtas sąmoningumas, toks, kad to pakanka žinojimui ir besitęsiančiam sąmoningumui. Jis būna nepriklausomas ir pasaulyje prie nieko neprisiriša. Taip irgi, vienuoliai, vienuolis gyvena reiškinių atžvilgiu kontempliuodamas šešių jautimo pagrindų reiškinius.
 
