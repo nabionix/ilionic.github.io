@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Vystymas (Bhāvanāsuttaṃ, AN 7.vii.7'
+title: 'Vystymas (Bhāvanāsuttaṃ, AN 7.vii.7)
 tags:
   - 'B'
 index: 'B'
