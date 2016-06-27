@@ -2,7 +2,7 @@
 layout: page
 title: 'Nesavastingumo bruožas (Anattalakkhaṇasuttaṃ, SNIII.I.vi.7)'
 tags:
-  - A
+  - Nesavastingumas
 comments: false
 index: A
 category: suristos suttos
