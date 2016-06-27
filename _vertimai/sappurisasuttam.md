@@ -1,12 +1,12 @@
 ---
 layout: page
-title: 'Apie gerą žmogų (Sappurisasuttaṃ, AN 7.II.ii.6)'
+title: 'Apie gerą žmogų (Sappurisasuttaṃ, AN 4.II.iii.3)'
 tags:
   - S
 index: S
 comments: false
 category: palaipsnines
-sortIndex: 726
+sortIndex: 423
 image:
   feature: abstract-2.jpg
 published: true
