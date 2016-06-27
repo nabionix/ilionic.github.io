@@ -1,19 +1,6 @@
----
-layout: page
-title: 'Vystymas (Bhāvanāsuttaṃ, AN 7.vii.7)
-tags:
-  - 'B'
-index: 'B'
-comments: false
-category: palaipsnines
-sortIndex: 777
-image:
-  feature: abstract-2.jpg
-published: true
----
 
 
-Vienuoliai, kad ir kiltų vienuoliui neužsiimančiam [proto] vystymu {meditacija} toks noras: "O, kad mano protas išsilaisvintų  dėl neprisirišimo nuo intakų!" Jo protas netaps išsilaisvinęs dėl neprisirišimo nuo intakų. Kodėl taip yra? Pasakytina, dėl [proto] neišvystymo. Ko neišvystymo? Keturių sąmoningumo įsteigimų, keturių teisingų stengimųsi, keturių antžmogiškų galių pagrindų, penkių valdančių gebėjimų, penkių stiprybių, septynių atbudimo veiksnių, tauriojo aštuonialypio kelio.
+Vienuoliai, kad ir kiltų vienuoliui neužsiimančiam [proto] vystymu {meditacija} toks noras: "O, kad mano protas išsilaisvintų  dėl neprisirišimo nuo intakų!" Jo protas netaps išsilaisvinęs dėl neprisirišimo nuo intakų. Kodėl taip yra? Pasakytina, dėl [proto] neišvystymo. Ko neišvystymo? Keturių sąmoningumo įsteigimų, <a href="http://polyhexlabs.com/theravada/vertimai/pacinasuttam">keturių teisingų stengimųsi</a>, keturių antžmogiškų galių pagrindų, penkių valdančių gebėjimų, penkių stiprybių, septynių atbudimo veiksnių, tauriojo aštuonialypio kelio.
 
 Sakykime, vienuoliai, [būtų] aštuoni, dešimt ar dvylika vištos kiaušinių. Višta ant jų nei tinkamai tupėtų, nei tinkamai perėtų, nei tinkamai brandintų juos. Kad ir kiltų tai vištai toks noras: "O kad mano viščiukai, nagų ar snapų galiukais prakalę kiaušinio lukštus saugiai išsiristų!" Tuomet neįmanoma bus, kad tie viščiukai nagų ar snapų galiukais prakalę kiaušinio lukštus saugiai išsiris. Kodėl taip yra? Dėl to, kad, vienuoliai, višta ant kiaušinių nei tinkamai tupėjo, nei tinkamai perėjo, nei tinkamai brandino juos. Lygiai taip pat, vienuoliai, kad ir kiltų vienuoliui neužsiimančiam [proto] vystymu {meditacija} toks noras: “O, kad mano protas išsilaisvintų  dėl neprisirišimo nuo intakų!” Jo protas netaps išsilaisvinęs dėl neprisirišimo nuo intakų. Kodėl taip yra? Pasakytina, dėl [proto] neišvystymo. Ko neišvystymo? Keturių sąmoningumo įsteigimų, keturių teisingų stengimųsi, keturių antžmogiškų galių pagrindų, penkių valdančių gebėjimų, penkių stiprybių,septynių atbudimo veiksnių, tauriojo aštuonialypio kelio.
 
