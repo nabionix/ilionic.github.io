@@ -70,18 +70,4 @@ published: true
 
 **Vipasana (vipassana)** - įžvalga; savitų materijos ir proto bruožų, priežasties ir pasekmės, bei jiems bendrai būdingų nepastovumo, kančios ir nesavastingumo bruožų pažinimas galutinės realybės lygmenyje.
 
-**Asura (asura)** - vienos žemesnės dėvų klasės būtybė, budizmo puolęs angelas
 
-**Gandhaba (gandhabba)** - žemiausios dėvų klasės būtybė, dangiškasis muzikantas.
-
-**Jodžiana (yojana)** ~ 12 km
-
-**Katika (kattikā)** - lapkričio mėnuo.
-
-**Mara (Māra)** - vieno iš dėvų pasaulių valdovas, budizmo Šėtonas, Gundytojas, mirties personifikacija.
-
-**Naga (nāga)** - vienos žemesnės dėvų klasės būtybė; panašaus į gyvatę pavidalo; dažnai turi antgamtinių galių ir pasižymi didžia stiprybe.
-
-**Patimokha (pātimokkha)** - pagrindinės vienuolių elgesio taisyklės, kurių skaičius yra 227 vyrams ir 311 moterims.
-
-**Uposatha (uposatha)** - religinių apeigų dienos išpuolančios per mėnulio mėnesio pilnatį, jaunatį ir delčią.
