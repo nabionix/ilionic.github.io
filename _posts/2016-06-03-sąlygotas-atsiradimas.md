@@ -57,7 +57,7 @@ Tėra reiškinių vyksmas, toks matymas yra teisingas. (Vsm. XIX.689)
 
 Taigi turėdami vasą tai omenyje, trumpai pažvelgime į dvyliką formulės grandžių paeiliui.
 
-Nežinojimas (*avijjā*) - tai <a href="http://polyhexlabs.com/theravada/mokymas/post-keturios-tauriosios-tiesos">Keturių tauriųjų tiesų</a> nežinojimas. Gyvenime jis pasireiškia keturiais matymo iškraipymais: nepastovaus matymu pastoviu, negražaus - gražiu, skausmingo - maloniu, neturinčio savasties - ją turinčiu.  
+Nežinojimas (*avijjā*) - tai <a href="http://theravada.lt/mokymas/post-keturios-tauriosios-tiesos">Keturių tauriųjų tiesų</a> nežinojimas. Gyvenime jis pasireiškia keturiais matymo iškraipymais: nepastovaus matymu pastoviu, negražaus - gražiu, skausmingo - maloniu, neturinčio savasties - ją turinčiu.  
 Valingi veiksmai (*saṅkhāra*) - kūno, kalbos ir proto valingi veiksmai, o tiksliau su jais susijusi čėtana, kuri sukelia naują gyvenimą.  
 Sąmonė (*viññāṇa*) - atgimimo sąmonę bei kitos su nauju gyvenimu susijusios akies, ausies, nosies, liežuvio ir kūno sąmonės.  
 Protas-materija (*nāmarūpa*) - protas - tai jausmas, suvokimas, valia, sąlytis, dėmesys ir kitos mentalinės veikmės, materija - tai keturi didieji materijos pagrindai, t.y. žemės, vandens, ugnies ir vėjo elementai, bei materija priklausanti nuo jų (spalva, kvapas, skonis, maistingumas ir t.t.).  
