@@ -17,16 +17,14 @@ published: true
       {% unless post.hideIndex %}
         <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
           {% if post.parts %}
-            [
-            {% for part in post.parts %}
+            [{% for part in post.parts %}
               {% capture postNum %}-p{{ part }}{% endcapture %}
               {% assign postName = post.url | replace: '-p1', postNum %}
               <a href="{{ site.url }}{{ postName }}" title="{{ post.title }}">{{ part }}-a dalis</a>
               {% if part != post.parts.size %}
               |
               {% endif %}
-            {% endfor %}
-            ]
+            {% endfor %}]
           {% endif %}
         </li>
       {% endunless %}
@@ -42,16 +40,14 @@ published: true
       {% unless post.hideIndex %}
         <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
           {% if post.parts %}
-            [
-            {% for part in post.parts %}
+            [{% for part in post.parts %}
               {% capture postNum %}-p{{ part }}{% endcapture %}
               {% assign postName = post.url | replace: '-p1', postNum %}
               <a href="{{ site.url }}{{ postName }}" title="{{ post.title }}">{{ part }}-a dalis</a>
               {% if part != post.parts.size %}
               |
               {% endif %}
-            {% endfor %}
-            ]
+            {% endfor %}]
           {% endif %}
         </li>
       {% endunless %}
@@ -129,16 +125,14 @@ published: true
         {% unless post.hideIndex %}
         <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
         {% if post.parts %}
-          [
-          {% for part in post.parts %}
+          [{% for part in post.parts %}
             {% capture postNum %}-p{{ part }}{% endcapture %}
             {% assign postName = post.url | replace: '-p1', postNum %}
             <a href="{{ site.url }}{{ postName }}" title="{{ post.title }}">dalis {{ part }}</a>
             {% if part != post.parts.size %}
             |
             {% endif %}
-          {% endfor %}
-          ]
+          {% endfor %}]
         {% endif %}
         </li>
         {% endunless %}
