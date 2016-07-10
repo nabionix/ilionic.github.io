@@ -11,7 +11,7 @@ published: true
 
 ***(Paṭiccasamuppāda)***
 
-Patičasamupada (*Paṭiccasamuppāda*) arba sąlygotas atsiradimas yra labai svarbus Budos mokymas, kuris išskyria budizmą iš visų kitų religijų. Ši doktrina moko, kad visi gyvųjų būtybių proto ir materijos reiškiniai yra sąlygoti, kad nėra nieko kas atsirastų be priežasties. Ir dėl to, kad viskas kyla dėl priežasčių, nėra tokio dalyko kaip kūrėjas arba sukurtas pasaulis.
+Patičasamupada (*Paṭiccasamuppāda*) arba Sąlygotas atsiradimas yra labai svarbus Budos mokymas, kuris išskyria budizmą iš visų kitų religijų. Ši doktrina moko, kad visi gyvųjų būtybių proto ir materijos reiškiniai yra sąlygoti, kad nėra nieko, kas atsirastų be priežasties. Ir dėl to, kad viskas kyla dėl priežasčių, nėra tokio dalyko kaip kūrėjas arba sukurtas pasaulis.
 
 Į lietuvių kalbą terminas ‘Patičasamupada’ (PS) verčiamas įvairiai: priklausomas radimasis, sąlygotas radimasis, sąlygota bendroji kilmė, sąlygotas atsiradimas ir pan. Žodis ‘patiča’ (*paṭicca*) reiškia ‘priklausomai nuo’, o ‘samupada’ (*samuppāda*) - ‘tai, kas atsiranda kartu’. Ir nors pažodžiui šis junginys reikštų ‘atsiradimo sąlygos’, jis nurodo kaip į sąlygas, taip ir į pasėkmes. Taip yra dėl to, kad bet kuri vieno reiškinio pasėkmė taip pat yra ir kito reiškinio atsiradimo sąlyga.
 
@@ -32,7 +32,7 @@ sąlygotas šešių jautimo pagrindų yra sąlytis;
 sąlygotas sąlyčio yra jausmas;  
 sąlygotas jausmo yra troškimas;  
 sąlygotas troškimo yra prisirišimas;  
-sąlygotas prisirišimo yra būtis;  
+sąlygota prisirišimo yra būtis;  
 sąlygotas būties yra gimimas;  
 sąlygotas gimimo yra senėjimo, mirties, liūdesio, raudojimo, skausmo, nusiminimo, nerimo atsiradimas. Tokiu būdu atsiranda visa ši kentėjimų daugybė.  
 <!--break-->
@@ -50,32 +50,32 @@ dėl gimimo išnykimo išnyksta senėjimas, mirtis, liūdesys, raudojimas, skaus
 
 Šio fundamentalaus dėsnio supratimas yra be galo svarbus nežinojimo išsklaidymui. Iš tiesų, neperpratus jo, išsivadavimas iš atgimimų ratų yra neįmanomas.
 
-Svarbu pastebėti, kad nors nežinojimas ir įvardijamas pirmas, jis nėra pirmapradė samsaros priežastis - samsara neturi pradžios: "neįmanoma nurodyti praeityje būtybių, trikdomų nežinojimo, esančių troškimo pančiuose, lakstančių, klajojančių ratais, pradžią." Patičasamupados tikslas nėra pirmos pradžios nurodymas, bet tai yra atgimimų rato bei to, kaip iš jo išsivaduoti, paaiškinimas. Taip pat svarbu suprasti, kad proto ir maretijos elementai yra susiję tarpusavyje sudetingais daugialypiais sąlyginiais ryšiais, nėra nei vieno reiškinio, kuris būtų sąlygotas tik vieno dalyko. PS yra Dharmos arba penkių sankaupų (*khandų*) atsiradimo ir išnykimo raidos ratas. Senas reiškinys nuolat sąlygoja naują ir už tos kaitos neslypi nei ‘aš’, nei ‘ego’, nei ‘siela’, nei ‘savastis’, nei ‘Dievas’. Labai gražiai tai aprašė Budhagosa savo “Kelyje į grynumą” (‘*Visudhimaggoje*’):
+Svarbu pastebėti, kad nors nežinojimas ir yra įvardijamas pirmas, jis nėra pirmapradė samsaros priežastis - samsara neturi pradžios: "neįmanoma nurodyti praeityje būtybių, trikdomų nežinojimo, esančių troškimo pančiuose, lakstančių, klajojančių ratais, pradžią." Patičasamupados tikslas nėra pirmos pradžios nurodymas, bet tai yra atgimimų rato bei to, kaip iš jo išsivaduoti, paaiškinimas. Taip pat svarbu suprasti, kad proto ir maretijos elementai yra tarpusavyje susiję  sudetingais daugialypiais sąlyginiais ryšiais, nėra nei vieno reiškinio, kuris būtų sąlygotas tik vieno dalyko. PS yra Dharmos arba penkių sankaupų (*khandų*) atsiradimo ir išnykimo raidos ratas. Senas reiškinys nuolat sąlygoja naują ir už tos kaitos neslypi nei ‘aš’, nei ‘ego’, nei ‘siela’, nei ‘savastis’, nei ‘Dievas’. Labai gražiai tai aprašė Budhagosa savo “Kelyje į grynumą” (‘*Visudhimaggoje*’):
 
 Nėr nei veiksmo atlikėjo, nei rezultatų patyrėjo,  
 Tėra reiškinių vyksmas, toks matymas yra teisingas. (Vsm. XIX.689)
 
-Taigi turėdami vasą tai omenyje, trumpai pažvelgime į dvyliką formulės grandžių paeiliui.
+Taigi, turėdami visą tai omenyje, trumpai pažvelkime į dvyliką formulės grandžių paeiliui.
 
 Nežinojimas (*avijjā*) - tai <a href="http://theravada.lt/mokymas/post-keturios-tauriosios-tiesos">Keturių tauriųjų tiesų</a> nežinojimas. Gyvenime jis pasireiškia keturiais matymo iškraipymais: nepastovaus matymu pastoviu, negražaus - gražiu, skausmingo - maloniu, neturinčio savasties - ją turinčiu.  
 Valingi veiksmai (*saṅkhāra*) - kūno, kalbos ir proto valingi veiksmai, o tiksliau su jais susijusi čėtana, kuri sukelia naują gyvenimą.  
-Sąmonė (*viññāṇa*) - atgimimo sąmonę bei kitos su nauju gyvenimu susijusios akies, ausies, nosies, liežuvio ir kūno sąmonės.  
-Protas-materija (*nāmarūpa*) - protas - tai jausmas, suvokimas, valia, sąlytis, dėmesys ir kitos mentalinės veikmės, materija - tai keturi didieji materijos pagrindai, t.y. žemės, vandens, ugnies ir vėjo elementai, bei materija priklausanti nuo jų (spalva, kvapas, skonis, maistingumas ir t.t.).  
+Sąmonė (*viññāṇa*) - atgimimo sąmonė bei kitos su nauju gyvenimu susijusios akies, ausies, nosies, liežuvio ir kūno sąmonės.  
+Protas-materija (*nāmarūpa*) - Protas - tai jausmas, suvokimas, valia, sąlytis, dėmesys ir kitos mentalinės veikmės, materija - tai keturi didieji materijos pagrindai, t.y. žemės, vandens, ugnies ir vėjo elementai, bei materija, priklausanti nuo jų (spalva, kvapas, skonis, maistingumas ir t.t.).  
 Šeši jautimo pagrindai (*saḷāyatana*) - tai akies, ausies, nosies, liežuvio, kūno bei proto jautimo pagrindai.  
 Sąlytis (*phassa*) - akies, ausies, nosies, liežuvio, kūno bei proto sąlyčiai.  
-Jausmas (*vedanā*) - malonus, nemalonus ar neutralus jausmas gimęs dėl akies, ausies, nosies, liežuvio, kūno ar proto sąlyčio.  
+Jausmas (*vedanā*) - malonus, nemalonus ar neutralus jausmas, gimęs dėl akies, ausies, nosies, liežuvio, kūno ar proto sąlyčio.  
 Troškimas (*taṇhā*) - tai formų, garsų, kvapų, skonių, troškimas, [proto] reiškinių troškimas.  
-Prisirišimas (*upādāna*) - tai sustiprėjęs troškimas pasireiškiantis prisirišimu prie juslinių malonumų, prie neteisingų pažiūrų, prie taisyklių ir įžadų, prie tikėjimo į savastį (sielą).  
+Prisirišimas (*upādāna*) - tai sustiprėjęs troškimas, pasireiškiantis prisirišimu prie juslinių malonumų, prie neteisingų pažiūrų, prie taisyklių ir įžadų, prie tikėjimo į savastį (sielą).  
 Būtis (*bhava*) - tai gyvenimą jausminėje sferoje, subtilios materijos sferoje ar nematerialioje sferoje sukelianti karma.  
-Gimimas (*jāti*) - tai naujos būtybės gimimas, gymis, pradėjimas, prigimimas, atgimimas, komponentų atsiradimas, [jausmo] pagrindų įgijimas.  
-Senėjimas ir mirtis (*jarāmaraṇa*) - tai biologinis būtybių senėjimas ir jų gyvenimo nutrukimas.  
+Gimimas (*jāti*) - tai naujos būtybės gimimas, gymis, pradėjimas, prigimimas, atgimimas,prisirišimo komponentų atsiradimas, [jausmo] pagrindų įgijimas.  
+Senėjimas ir mirtis (*jarāmaraṇa*) - tai biologinis būtybių senėjimas ir jų gyvenimo nutrūkimas.  
 Liūdesys, raudojimas, skausmas, nusiminimas ir nerimas (*sokaparidevadukkhadomanassupāyāsā*) - tai neigiamos emocijos, kurios iškyla užpuolus kokiai nors nelaimei ar įvykus sąlyčiui su kokiu nors skausmą sukeliančiu reiškiniu.  
 
 Nagrinėjant kaip ir kodėl atsiranda individuali gyvybė, galime skirtingai žvelgti į sąlygoto atsiradimo rato sąlygotumo ryšius:
 
 1. Galime matyti dvi pagrindines priežastis, du esminius blogius, kurie verčia gyvenimo ciklą kartotis: nežinojimą ir troškimą.
 
-2. Tiesa apie gyvenimą gali būti suskirstyta į dvi: kentėjimo tiesa (dukhasača) ir priežasties tiesa (samudajasača).
+2. Tiesa apie gyvenimą gali būti suskirstyta į dvi dalis: kentėjimo tiesą (dukhasača) ir priežasties tiesą (samudajasača).
 
 3. Pagal tęstinumą galime matyti keturias grupes:
 
@@ -91,11 +91,11 @@ Nagrinėjant kaip ir kodėl atsiranda individuali gyvybė, galime skirtingai žv
 
 5. Galime išskirti tris sąsajas arba jungtis:
 
-    * tarp valingų veiksmų ir sąmonės, todėl kad valingi veiksmai sukelia naują gyvenimo sąmonę; ji jungia praeities sąlygas su dabartiniais rezultatais,
+    * tarp valingų veiksmų ir sąmonės; todėl, kad valingi veiksmai sukelia naujo gyvenimo sąmonę; ji jungia praeities sąlygas su dabartiniais rezultatais,
 
-    * tarp jausmo ir troškimo, todėl kad būtent dėl jausmo kyla troškimas; ji jungia dabartinius rezultatus su dabartinioms sąlygomis,
+    * tarp jausmo ir troškimo; todėl, kad būtent dėl jausmo kyla troškimas; ji jungia dabartinius rezultatus su dabartinėmis sąlygomis,
 
-    * taro karmos būties ir gimimo, todėl kad karma sukelia atgimimą; ji jungia dabartinias sąlygas su ateities rezultatais.  
+    * taro karmos būties ir gimimo; todėl, kad karma sukelia atgimimą; ji jungia dabartines sąlygas su ateities rezultatais.  
 
 6. Grandys gali taip pat sudaryti tris ratus:
 
