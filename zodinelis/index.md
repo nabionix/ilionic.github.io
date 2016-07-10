@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Žodinėlis
+title: Žodynėlis
 category: zodinelis
 comments: false
 image:
@@ -8,21 +8,21 @@ image:
 published: true
 ---
 
-**Arahantas (arahant)** - žmogus susidorojęs su visais teršalais, pasiekęs meditacijoje aukšiausio, t. y. nušvitimo; po mirties (parinibbānos) jis nebeatgims nei viename iš pasaulių.
+**Arahantas (arahant)** - žmogus, susidorojęs su visais teršalais, pasiekęs meditacijoje aukšiausio, t. y. nušvitimo; po mirties (parinibbānos) jis nebeatgims nei viename iš pasaulių.
 
 **Asura (asura)** - vienos žemesnės dėvų klasės būtybė, budizmo puolęs angelas.
 
-**Bhavanga (bhavaṅga)** - vienuodų sąmonių tęstinumas, kuris nutrunka tik pažinimo proceso metu; jos objektas  yra toks pat kaip praeito gyvenimo artimos mirčiai sąmonės objektas.
+**Bhavanga (bhavaṅga)** - vienuodų sąmonių tęstinumas, kuris nutrunka tik pažinimo proceso metu; jos objektas  yra toks pat, kaip ir praeito gyvenimo artimos mirčiai sąmonės objektas.
 
-**Bodhisata (bodhisatta)** - žmogus pasižadėjęs tapti Buda; Mahajanos tradicijos idealas; iki savo atbudimo jis nugyvena nenusakomai didelį gyvenimų skaičių, o po jo tampa Buda iki tol kol tame gyvenime pasiekia parinirvana.
+**Bodhisata (bodhisatta)** - žmogus, pasižadėjęs tapti Buda; Mahajanos tradicijos idealas; iki savo atbudimo jis nugyvena nenusakomai didelį gyvenimų skaičių, o po jo tampa Buda iki tol, kol tame gyvenime pasiekia parinirvaną.
 
-**Brahma** - vieno iš dvidešimties žymiai aukštesnių už žmogaus pasalių gyventojų; nematomas žmogaus akimis, bet gali būti pamatytas susitelkimo šviesos pagalba.
+**Brahma** - vieno iš dvidešimties žymiai aukštesnių už žmogaus pasaulių gyventojų; nematomas žmogaus akimis, bet gali būti pamatytas susitelkimo šviesos pagalba.
 
-**Buda (buddha)** - be mokytojo pagalbos višiskai atbudes žmogus, tas kas pats atranda ir moko keturias tauriasias tiesas; kaip ir kiti Arahantai, po mirties (parinibbānos) jis nebeatgimsta nei viename iš pasaulių.
+**Buda (buddha)** - be mokytojo pagalbos višiskai atbudęs žmogus, tas, kas pats atranda ir moko Keturių tauriųjų tiesų; kaip ir kiti Arahantai, po mirties (parinibbānos) jis nebeatgimsta nei viename iš pasaulių.
 
-**Čėtana (cetana)** - viena iš svarbiausių universalių, t.y. surištų su kiekviena sąmone, mentalinių veikmių. Ji yra atsakinga už ketinimą, jos charakteristika yra siekimo būsena, ji pasireiškia visų su ja besirandančių mentalinių veikmių suderinimu ir nukreipimu link tikslo pasiekimo, jos funkcija yra karmos kaupimas.
+**Čėtana (cetana)** - viena iš svarbiausių universalių, t.y. surištų su kiekviena sąmone, mentalinių veikmių. Ji yra atsakinga už ketinimą, jos charakteristika yra siekimo būsena, ji pasireiškia visų su ja besirandančių mentalinių veikmių suderinimu ir nukreipimu tikslo pasiekimo link, jos funkcija yra karmos kaupimas.
 
-**Dėva (deva)** - vieno iš penkių aukštesnių už žmogaus pasalių gyventojų; nematomas žmogaus akimis, bet gali būti pamatytas susitelkimo šviesos pagalba.
+**Dėva (deva)** - vieno iš penkių aukštesnių už žmogaus pasaulių gyventojas; nematomas žmogaus akimis, bet gali būti pamatytas susitelkimo šviesos pagalba.
 
 **Dharma (Dhamma)** - (iš didžiosios raidės) Budos mokymai, taurioji tiesa.
 
@@ -34,7 +34,7 @@ published: true
 
 **Jodžiana (yojana)** ~ 12 km.
 
-**Karma (kamma)** - veiksmas; valios sukuriama jėga, kuri verčia gerus valios aktus duoti gerus vaisius, o blogus - blogus.
+**Karma (kamma)** - veiksmas; valios sukuriama jėga, kuri verčia geruosiuss valios aktus duoti gerus vaisius, o bloguosius - blogus.
 
 **Katika (kattikā)** - lapkričio mėnuo.
 
@@ -44,9 +44,9 @@ published: true
 
 **Nirvana (nibbāna)** - galutinis nušvitimas; išnykimo elementas; galutinė realybė; pasiekiama pažinus ir peržengus galinius protą-materiją; 'matoma' subrendus įžvalgos pažinimams; tai nesavastis ir neprilygstamai pastovu ir ramu; tai nėra vieta.
 
-**Pačėkabudha (paccekabuddha)** - be mokytojo pagalbos višiskai atbudes žmogus, tas kas pats atranda keturias tauriasias tiesas, bet jų nemoko.
+**Pačėkabudha (paccekabuddha)** - be mokytojo pagalbos višiskai atbudęs žmogus, tas, kas pats atranda Keturias tauriąsias tiesas, bet jų nemoko.
 
-**Parinirvana (parinibbāna)** - Budos, Pačėkabudos ir visų Arahantų mirtis po kurios nebėra daugiau gimimų, nebėra materijos ir proto.
+**Parinirvana (parinibbāna)** - Budos, Pačėkabudos ir visų Arahantų mirtis, po kurios nebėra daugiau gimimų, nebėra materijos ir proto.
 
 **Patimokha (pātimokkha)** - pagrindinės vienuolių elgesio taisyklės, kurių skaičius yra 227 vyrams ir 311 moterims.
 
@@ -54,20 +54,18 @@ published: true
 
 **rūpa / arūpa** - materija / ne materija, psichika.
 
-**Samatha** - ramuma; susitelkimo į objektą praktika vedanti į aukštesnias susitelkimo būsenas, jos pagalba protas vis labiau nurimsta.
+**Samatha** - ramuma; susitelkimo į objektą praktika, vedanti į aukštesnias susitelkimo būsenas, jos pagalba protas vis labiau nurimsta.
 
-**Samsara (saṃsāra)** - besikartojantis gimimų, gyvenimų ir mirčių ciklas, 'atgimimų ratas', nuo neatmenamų laikų netrūkstama nuolat kintančių penkių visumų kombinacijos kaita.
+**Samsara (saṃsāra)** - besikartojantis gimimų, gyvenimų ir mirčių ciklas; 'atgimimų ratas'; nuo neatmenamų laikų netrūkstama nuolat kintančių penkių visumų kombinacijos kaita.
 
 **Sangha (saṅgha)** - bendrija, bendruomenė; praeities, dabarties ir ateities pasaulinė vienuolių bendruomenė; taip pat atskira vienuolių grupė, pvz. vieno vienuolyno vienuoliai.
 
-**Syla (sīla)** - dorovė, visi budisatai: ir vienuoliai, ir pasauliečiai- turi laikytis ir vystyti ją.
+**Syla (sīla)** - dorovė; visi budisatai - ir vienuoliai, ir pasauliečiai - turi laikytis jos ir vystyti ją.
 
-**Suta (sutta)** - pamokymas iš antro iš trijų Pāḷi kanono krepšių; Budos mokymai kasdienine, sutartine kalba.
+**Suta (sutta)** - pamokymas iš antrojo iš trijų Pāḷi kanono krepšių; Budos mokymai kasdienine, sutartine kalba.
 
-**Tathagata (Tathāgata)** - 'taip žengęs', epitetas, kuri Buda naudoja kalbant apie save.
+**Tathagata (Tathāgata)** - 'taip žengęs', epitetas, kurį Buda naudoja kalbant apie save.
 
-**Uposatha (uposatha)** - religinių apeigų dienos išpuolančios per mėnulio mėnesio pilnatį, jaunatį ir delčią.
+**Uposatha (uposatha)** - religinių apeigų dienos, išpuolančios per mėnulio mėnesio pilnatį, jaunatį ir delčią.
 
 **Vipasana (vipassana)** - įžvalga; savitų materijos ir proto bruožų, priežasties ir pasekmės, bei jiems bendrai būdingų nepastovumo, kančios ir nesavastingumo bruožų pažinimas galutinės realybės lygmenyje.
-
-
