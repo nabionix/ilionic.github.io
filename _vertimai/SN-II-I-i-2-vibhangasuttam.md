@@ -36,7 +36,7 @@ sąlygotas jausmo yra troškimas;
 
 sąlygotas troškimo yra prisirišimas;
 
-sąlygotas prisirišimo yra būtis;
+sąlygota prisirišimo yra būtis;
 
 sąlygotas būties yra gimimas;
 
@@ -46,29 +46,29 @@ Tokiu būdu atsiranda visa ši kentėjimų daugybė. Tai vadinama sąlygotu atsi
 
 Ir kas yra senėjimas ir mirtis? Bet kokių būtybių, esančių bet kokioje būtybių klasėje, senėjimas, senatvė, subyrėję dantys, žilumas, susiraukšlėjimas, gyvybinių jėgų nykimas, gebėjimų sumenkėjimas - tai vadinama senėjimu. Bet kokių būtybių išnykimas, pranykimas iš bet kokios būtybių klasės, susiskaidymas, pradingimas, giltinė, mirtis, galo gavimas, komponentų susiskaidymas, griaučių numetimas, (gyvybinės jėgos nutrūkimas\*) - tai vadinama mirtimi. Taigi, štai yra senėjimas, ir štai yra mirtis. Tai vadinama senėjimu ir mirtimi.
 
-Ir kas yra gimimas? Bet kokių būtybių, bet kokioje būtybių klasėje gimimas, gymis, pradėjimas, prigimimas, atgimimas, komponentų atsiradimas, [jausmo] pagrindų įgijimas -tai vadinama gimimu.
+Ir kas yra gimimas? Bet kokių būtybių, bet kokioje būtybių klasėje gimimas, gymis, pradėjimas, prigimimas, atgimimas, komponentų atsiradimas, [jausmo] pagrindų įgijimas - tai vadinama gimimu.
 
 Ir kas yra būtis. Vienuoliai, yra šios trys būtys: jausminė būtis, subtilios materijos būtis, nemateriali būtis. Tai vadinama būtimi.
 
 Ir kas yra prisirišimas? Vienuoliai, yra šie keturi prisirišimai: prisirišimas prie juslinių malonumų, prisirišimas prie neteisingų pažiūrų, prisirišimas prie taisyklių ir įžadų, prisirišimas prie tikėjimo į sielą. Tai vadinama prisirišimu.
 
-Ir kas yra troškimas? Vienuoliai, yra šios šešios troškimo grupės: formų troškimas, garsų troškimas, kvapų troškimas, skonių troškimas,troškimas apčiuopiamo, [proto] reiškinių troškimas. Tai vadinama troškimu.
+Ir kas yra troškimas? Vienuoliai, yra šios šešios troškimo grupės: formų troškimas, garsų troškimas, kvapų troškimas, skonių troškimas, apčiuopiamo troškimas, [proto] reiškinių troškimas. Tai vadinama troškimu.
 
-Ir kas yra jausmas? Vienuoliai, yra šios šešios jausmų grupės: jausmas gimęs dėl akies sąlyčio, jausmas gimęs dėl ausies sąlyčio, jausmas gimęs dėl nosies sąlyčio, jausmas gimęs dėl liežuvio sąlyčio, jausmas gimęs dėl kūno sąlyčio, jausmas gimęs dėl proto sąlyčio. Tai vadinama jausmu.
+Ir kas yra jausmas? Vienuoliai, yra šios šešios jausmų grupės: dėl akies sąlyčio gimęs jausmas, dėl ausies sąlyčio gimęs jausmas, dėl nosies sąlyčio gimęs jausmas, dėl liežuvio sąlyčio gimęs jausmas, dėl kūno sąlyčio gimęs jausmas, dėl proto sąlyčio gimęs jausmas. Tai vadinama jausmu.
 
 Ir kas yra sąlytis? Vienuoliai, yra šios šešios sąlyčio grupės: akies sąlytis, ausies sąlytis, nosies sąlytis, liežuvio sąlytis, kūno sąlytis, proto sąlytis. Tai vadinama sąlyčiu.
 
 Ir kas yra šeši jautimo pagrindai? Akies jautimo pagrindas, ausies jautimo pagrindas, nosies jautimo pagrindas, liežuvio jautimo pagrindas, kūno jautimo pagrindas, proto jautimo pagrindas - tai vadinama šešiais jautimo pagrindais.
 
-Ir kas yra protas-materija? Jausmas, suvokimas, valia, sąlytis, dėmesys - tai vadinama protu. Keturi didieji [materijos] pagrindai ir materija priklausanti nuo jų - tai vadinama materija. Taigi, štai yra protas, ir štai yra materija. Tai vadinama protu-materija.
+Ir kas yra protas-materija? Jausmas, suvokimas, valia, sąlytis, dėmesys - tai vadinama protu. Keturi didieji [materijos] pagrindai ir nuo jų priklausanti materija - tai vadinama materija. Taigi, štai yra protas, ir štai yra materija. Tai vadinama protu-materija.
 
 Ir kas yra sąmonė? Vienuoliai, yra šios šešios sąmonės grupės: akies sąmonė, ausies sąmonė, nosies sąmonė, liežuvio sąmonė, kūno sąmonė, proto sąmonė. Tai vadinama sąmone.
 
 Ir kas yra valingi veiksmai? Vienuoliai, yra šie trys valingi veiksmai: kūno valingi veiksmai, kalbos valingi veiksmai, proto valingi veiksmai. Tai vadinama valingais veiksmais.
 
-Ir kas yra nežinojimas? Vienuoliai, tai kas yra kentėjimo nežinojimas, kentėjimo priežasties nežinojimas, kentėjimo išnykimo nežinojimas, kelio vedančio į kentėjimo išnykimą nežinojimas -tai vadinama nežinojimu.
+Ir kas yra nežinojimas? Vienuoliai, tai, kas yra kentėjimo nežinojimas, kentėjimo priežasties nežinojimas, kentėjimo išnykimo nežinojimas, į kentėjimo išnykimą vedančio kelio nežinojimas - tai vadinama nežinojimu.
 
-Taigi taip, vienuoliai, sąlygoti nežinojimo yra valingi veiksmai; sąlygota valingų veiksmų yra sąmonė... tokiu būdu atsiranda visa ši kentėjimų daugybė. Dėl visiško nežinojimo užgesimo, išnykimo išnyksta valingi veiksmai; dėl valingų veiksmų išnykimo išnyksta sąmonė... Tokiu būdu išnyksta visa ši kentėjimų daugybė.
+Taigi, taip, vienuoliai, sąlygoti nežinojimo yra valingi veiksmai; sąlygota valingų veiksmų yra sąmonė... tokiu būdu atsiranda visa ši kentėjimų daugybė. Dėl visiško nežinojimo užgesimo, išnykimo išnyksta valingi veiksmai; dėl valingų veiksmų išnykimo išnyksta sąmonė... Tokiu būdu išnyksta visa ši kentėjimų daugybė.
 
 \**tai yra tekste, bet neaptinkama komentaruose*
 
@@ -85,12 +85,12 @@ Taigi taip, vienuoliai, sąlygoti nežinojimo yra valingi veiksmai; sąlygota va
 **phassapaccayā vedanā;** sąlygotas sąlyčio yra jausmas;  
 **vedanāpaccayā taṇhā;** sąlygotas jausmo yra troškimas;  
 **taṇhāpaccayā upādānaṃ;** sąlygotas troškimo yra prisirišimas;  
-**upādānapaccayā bhavo;** sąlygotas prisirišimo yra būtis;  
+**upādānapaccayā bhavo;** sąlygota prisirišimo yra būtis;  
 **bhavapaccayā jāti;** sąlygotas būties yra gimimas;  
 **jātipaccayā jarāmaraṇaṃ** sąlygotas gimimo yra senėjimo, mirties, **sokaparidevadukkhadomanassupāyāsā sambhavanti.** liūdesio, raudojimo, skausmo, nusiminimo, nerimo atsiradimas.  
 **Evametassa kevalassa dukkhakkhandhassa samudayo hoti.** Tokiu būdu atsiranda visa ši kentėjimų daugybė. **Ayaṃ vuccati, bhikkhave, paṭiccasamuppādo.** Tai vadinama sąlygotu atsiradimu.  
 
-**"Katamañca, bhikkhave,** Ir kas yra **jarāmaraṇaṃ?** senėjimas ir mirtis? **Yā tesaṃ tesaṃ sattānaṃ tamhi tamhi sattanikāye** Bet kokių būtybių esančių bet kokioje būtybių klasėje **jarā jīraṇatā** senėjimas, senatvė, **khaṇḍiccaṃ pāliccaṃ** subyrėję dantys, žilumas, **valittacatā āyuno saṃhāni** susiraukšlėjimas, gyvybinių jėgų nykimas, **indriyānaṃ paripāko;** gebėjimų sumenkėjimas - **ayaṃ vuccati jarā.** tai vadinama senėjimu. **Yā tesaṃ [3] tesaṃ sattānaṃ tamhā tamhā sattanikāyā cuti cavanatā** Bet kokių būtybių išnykimas, pranykimas iš bet kokios būtybių klasės, **bhedo antaradhānaṃ** susiskaidymas, pradingimas, **maccu maraṇaṃ** giltinė, mirtis, **kālakiriyā** galo gavimas, **khandhānaṃ bhedo** komponentų susiskaidymas, **kaḷevarassa nikkhepo** griaučių numetimas, **[(jīvitindriyassa upacchedo) (syā. kaṃ.)** [(gyvybinės jėgos nutrūkimas) **evamuparipi, aṭṭhakathāyaṃ pana na dissati]** tai yra tekste, bet neaptinkama komentaruose] **idaṃ vuccati maraṇaṃ.** tai vadinama mirtimi. **Iti ayañca jarā, idañca maraṇaṃ.** Taigi štai yra senėjimas, ir štai yra mirtis. **Idaṃ vuccati, bhikkhave, jarāmaraṇaṃ.** Tai vadinama senėjimu ir mirtimi.
+**"Katamañca, bhikkhave,** Ir kas yra **jarāmaraṇaṃ?** senėjimas ir mirtis? **Yā tesaṃ tesaṃ sattānaṃ tamhi tamhi sattanikāye** Bet kokių būtybių esančių bet kokioje būtybių klasėje **jarā jīraṇatā** senėjimas, senatvė, **khaṇḍiccaṃ pāliccaṃ** subyrėję dantys, žilumas, **valittacatā āyuno saṃhāni** susiraukšlėjimas, gyvybinių jėgų nykimas, **indriyānaṃ paripāko;** gebėjimų sumenkėjimas - **ayaṃ vuccati jarā.** tai vadinama senėjimu. **Yā tesaṃ [3] tesaṃ sattānaṃ tamhā tamhā sattanikāyā cuti cavanatā** Bet kokių būtybių išnykimas, pranykimas iš bet kokios būtybių klasės, **bhedo antaradhānaṃ** susiskaidymas, pradingimas, **maccu maraṇaṃ** giltinė, mirtis, **kālakiriyā** galo gavimas, **khandhānaṃ bhedo** komponentų susiskaidymas, **kaḷevarassa nikkhepo** griaučių numetimas, **[(jīvitindriyassa upacchedo) (syā. kaṃ.)** [(gyvybinės jėgos nutrūkimas) **evamuparipi, aṭṭhakathāyaṃ pana na dissati]** tai yra tekste, bet neaptinkama komentaruose] **idaṃ vuccati maraṇaṃ.** tai vadinama mirtimi. **Iti ayañca jarā, idañca maraṇaṃ.** Taigi, štai yra senėjimas, ir štai yra mirtis. **Idaṃ vuccati, bhikkhave, jarāmaraṇaṃ.** Tai vadinama senėjimu ir mirtimi.
 
 **"Katamā ca, bhikkhave, jāti?** Ir kas yra gimimas? **Yā tesaṃ tesaṃ sattānaṃ tamhi tamhi sattanikāye** Bet kokių būtybių bet kokioje būtybių klasėje **jāti sañjāti** gimimas, gymis, **okkanti nibbatti abhinibbatti** pradėjimas, prigimimas, atgimimas, **khandhānaṃ pātubhāvo** komponentų atsiradimas, **āyatanānaṃ paṭilābho.** [jausmo] pagrindų įgijimas. **Ayaṃ vuccati, bhikkhave, jāti.** Tai vadinama gimimu.
 
@@ -98,9 +98,9 @@ Taigi taip, vienuoliai, sąlygoti nežinojimo yra valingi veiksmai; sąlygota va
 
 **"Katamañca, bhikkhave, upādānaṃ?** Ir kas yra prisirišimas? **Cattārimāni, bhikkhave, upādānāni –** Vienuoliai, yra šie keturi prisirišimai: **kāmupādānaṃ**, prisirišimas prie juslinių malonumų, **diṭṭhupādānaṃ**, prisirišimas prie neteisingų pažiūrų, **sīlabbatupādānaṃ,** prisirišimas prie taisyklių ir įžadų, **attavādupādānaṃ.** prisirišimas prie tikėjimo į sielą. **Ayaṃ vuccati, bhikkhave, upādānaṃ.** Tai vadinama prisirišimu.
 
-**"Katamā ca, bhikkhave, taṇhā?** Ir kas yra troškimas? **Chayime, bhikkhave, taṇhākāyā –** Vienuoliai, yra šios šešios troškimo grupės: **rūpataṇhā, saddataṇhā,** formų troškimas, garsų troškimas, **gandhataṇhā, rasataṇhā,** kvapų troškimas, skonių troškimas, **phoṭṭhabbataṇhā, dhammataṇhā.** troškimas apčiuopiamo, [proto] reiškinių troškimas. **Ayaṃ vuccati, bhikkhave, taṇhā.** Tai vadinama troškimu.
+**"Katamā ca, bhikkhave, taṇhā?** Ir kas yra troškimas? **Chayime, bhikkhave, taṇhākāyā –** Vienuoliai, yra šios šešios troškimo grupės: **rūpataṇhā, saddataṇhā,** formų troškimas, garsų troškimas, **gandhataṇhā, rasataṇhā,** kvapų troškimas, skonių troškimas, **phoṭṭhabbataṇhā, dhammataṇhā.** apčiuopiamo troškimas, [proto] reiškinių troškimas. **Ayaṃ vuccati, bhikkhave, taṇhā.** Tai vadinama troškimu.
 
-**"Katamā ca, bhikkhave, vedanā?** Ir kas yra jausmas? **Chayime, bhikkhave, vedanākāyā –** Vienuoliai, yra šios šešios jausmų grupės: **cakkhusamphassajā vedanā,** jausmas gimęs dėl akies sąlyčio, **sotasamphassajā vedanā,** jausmas gimęs dėl ausies sąlyčio, **ghānasamphassajā vedanā,** jausmas gimęs dėl nosies sąlyčio, **jivhāsamphassajā vedanā,** jausmas gimęs dėl liežuvio sąlyčio, **kāyasamphassajā vedanā,** jausmas gimęs dėl kūno sąlyčio, **manosamphassajā vedanā.** jausmas gimęs dėl proto sąlyčio. **Ayaṃ vuccati, bhikkhave, vedanā.** Tai vadinama jausmu.
+**"Katamā ca, bhikkhave, vedanā?** Ir kas yra jausmas? **Chayime, bhikkhave, vedanākāyā –** Vienuoliai, yra šios šešios jausmų grupės: **cakkhusamphassajā vedanā,** jausmas, gimęs dėl akies sąlyčio, **sotasamphassajā vedanā,** jausmas, gimęs dėl ausies sąlyčio, **ghānasamphassajā vedanā,** jausmas, gimęs dėl nosies sąlyčio, **jivhāsamphassajā vedanā,** jausmas, gimęs dėl liežuvio sąlyčio, **kāyasamphassajā vedanā,** jausmas, gimęs dėl kūno sąlyčio, **manosamphassajā vedanā.** jausmas, gimęs dėl proto sąlyčio. **Ayaṃ vuccati, bhikkhave, vedanā.** Tai vadinama jausmu.
 
 **"Katamo ca, bhikkhave, phasso?** Ir kas yra sąlytis? **Chayime, bhikkhave, phassakāyā –** Vienuoliai, yra šios šešios sąlyčio grupės: **cakkhusamphasso, sotasamphasso,** akies sąlytis, ausies sąlytis, **ghānasamphasso, jivhāsamphasso,** nosies sąlytis, liežuvio sąlytis, **kāyasamphasso, manosamphasso.** kūno sąlytis, proto sąlytis. **Ayaṃ vuccati, bhikkhave, phasso.** Tai vadinama sąlyčiu.
 
@@ -112,6 +112,6 @@ Taigi taip, vienuoliai, sąlygoti nežinojimo yra valingi veiksmai; sąlygota va
 
 **"Katame ca, bhikkhave, saṅkhārā?** Ir kas yra valingi veiksmai? **Tayome, bhikkhave, saṅkhārā –** Vienuoliai, yra šie trys valingi veiksmai: **kāyasaṅkhāro,** kūno valingi veiksmai, **vacīsaṅkhāro,** kalbos valingi veiksmai, **cittasaṅkhāro.** proto valingi veiksmai. **Ime vuccanti, bhikkhave, saṅkhārā.** Tai vadinama valingais veiksmais.
 
-**"Katamā ca, bhikkhave, avijjā?** Ir kas yra nežinojimas? **Yaṃ kho, bhikkhave,** Vienuoliai, tai kas yra **dukkhe aññāṇaṃ,** kentėjimo nežinojimas, **dukkhasamudaye aññāṇaṃ,** kentėjimo priežasties nežinojimas, **dukkhanirodhe aññāṇaṃ,** kentėjimo išnykimo nežinojimas, **dukkhanirodhagāminiyā paṭipadāya aññāṇaṃ.** kelio vedančio į kentėjimo išnykimą nežinojimas. **Ayaṃ vuccati, bhikkhave, avijjā.** Tai vadinama nežinojimu.
+**"Katamā ca, bhikkhave, avijjā?** Ir kas yra nežinojimas? **Yaṃ kho, bhikkhave,** Vienuoliai, tai, kas yra **dukkhe aññāṇaṃ,** kentėjimo nežinojimas, **dukkhasamudaye aññāṇaṃ,** kentėjimo priežasties nežinojimas, **dukkhanirodhe aññāṇaṃ,** kentėjimo išnykimo nežinojimas, **dukkhanirodhagāminiyā paṭipadāya aññāṇaṃ.** kelio, vedančio į kentėjimo išnykimą nežinojimas. **Ayaṃ vuccati, bhikkhave, avijjā.** Tai vadinama nežinojimu.
 
-**"Iti kho, bhikkhave,** Taigi taip, vienuoliai, **avijjāpaccayā saṅkhārā;** sąlygoti nežinojimo yra valingi veiksmai; **saṅkhārapaccayā viññāṇaṃ…pe…** sąlygota valingų veiksmų yra sąmonė... **evametassa kevalassa dukkhakkhandhassa samudayo hoti.** tokiu būdu atsiranda visa ši kentėjimų daugybė. **Avijjāya tveva asesavirāganirodhā** Dėl visiško nežinojimo užgesimo, išnykimo **saṅkhāranirodho;** išnyksta valingi veiksmai; **saṅkhāranirodhā viññāṇanirodho…pe…** dėl valingų veiksmų išnykimo išnyksta sąmonė... **evametassa kevalassa dukkhakkhandhassa nirodho hotī"ti.** Tokiu būdu išnyksta visa ši kentėjimų daugybė.
+**"Iti kho, bhikkhave,** Taigi, taip, vienuoliai, **avijjāpaccayā saṅkhārā;** sąlygoti nežinojimo yra valingi veiksmai; **saṅkhārapaccayā viññāṇaṃ…pe…** sąlygota valingų veiksmų yra sąmonė... **evametassa kevalassa dukkhakkhandhassa samudayo hoti.** tokiu būdu atsiranda visa ši kentėjimų daugybė. **Avijjāya tveva asesavirāganirodhā** Dėl visiško nežinojimo užgesimo, išnykimo **saṅkhāranirodho;** išnyksta valingi veiksmai; **saṅkhāranirodhā viññāṇanirodho…pe…** dėl valingų veiksmų išnykimo išnyksta sąmonė... **evametassa kevalassa dukkhakkhandhassa nirodho hotī"ti.** Tokiu būdu išnyksta visa ši kentėjimų daugybė.
