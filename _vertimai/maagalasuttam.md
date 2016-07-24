@@ -11,13 +11,13 @@ image:
   feature: abstract-2.jpg
 published: true
 ---
-1.Taip aš girdėjau: vieną kartą Palaimintasis buvo apsistojęs Savathėje, Džetos girioje, Anathapindikos vienuolyne. Tada gi gilią naktį vienas dėva, neprilygstama šviesa nušvietęs visą Džetos girią, atėjo pas Palaimintąjį. Atėjęs pasveikino jį ir atsistojo iš šono. Iš šono stovėdamas tas dėva ištarė Palaimintajam posmą:
+1.Taip aš girdėjau: vieną kartą Palaimintasis buvo apsistojęs Savathėje, Džetos girioje, Anathapindikos vienuolyne. Tada gi gilią naktį vienas dėva, neprilygstama šviesa nušvietęs visą Džetos girią, atėjo pas Palaimintąjį. Atėjęs pasveikino jį ir atsistojo iš šono. Iš šono stovėdamas, tas dėva ištarė Palaimintajam posmą:
 
 2. Mąsto apie palaimą daugybė dėvų ir žmonių norėdami klestėjimo,
-Prašau, pasakyki kas sudaro didžiausią palaimą!
+Prašau, pasakyki, kas sudaro didžiausią palaimą!
 
 3. Nebendravimas su kvailiais, bendravimas su išminčiais,
-Ir garbinimas tų, kas nusipelno garbės – tai yra didžiausia palaima.
+Ir garbinimas tų, kas nusipelno garbės, – tai yra didžiausia palaima.
 
 4. Tinkama gyvenamoji vieta, anksčiau padaryti dorovingi poelgiai
 Ir teisingos krypties laikymasis – tai yra didžiausia palaima.
@@ -51,13 +51,13 @@ Jie visur yra laimingi, jiems tai yra didžiausia palaima.
 
 ### Maṅgalasuttaṃ (Palaima, Khp 5, Sn II.4)
 
-**1. Evaṃ me sutaṃ –** Taip aš girdėjau: **ekaṃ samayaṃ bhagavā** vieną kartą Palaimintasis **sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme** buvo apsistojęs Savathėje, Džetos girioje, Anathapindikos vienuolyne. **Atha kho aññatarā devatā** Tada gi vienas dėva **abhikkantāya rattiyā** gilią naktį **abhikkantavaṇṇā kevalakappaṃ jetavanaṃ obhāsetvā** neprilygstama šviesa nušvietęs visą Džetos girią **yena bhagavā tenupasaṅkami** atėjo pas Palaimintąjį, **upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi** atėjęs pasveikino Palaimintąjį ir atsistojo iš šono. **Ekamantaṃ ṭhitā kho sā devatā** Iš šono stovėdamas tas dėva **bhagavantaṃ gāthāya ajjhabhāsi –** ištarė Palaimintajam posmą:
+**1. Evaṃ me sutaṃ –** Taip aš girdėjau: **ekaṃ samayaṃ bhagavā** vieną kartą Palaimintasis **sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme** buvo apsistojęs Savathėje, Džetos girioje, Anathapindikos vienuolyne. **Atha kho aññatarā devatā** Tada gi vienas dėva **abhikkantāya rattiyā** gilią naktį **abhikkantavaṇṇā kevalakappaṃ jetavanaṃ obhāsetvā** neprilygstama šviesa nušvietęs visą Džetos girią **yena bhagavā tenupasaṅkami** atėjo pas Palaimintąjį, **upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi** atėjęs pasveikino Palaimintąjį ir atsistojo iš šono. **Ekamantaṃ ṭhitā kho sā devatā** Iš šono stovėdamas, tas dėva **bhagavantaṃ gāthāya ajjhabhāsi –** ištarė Palaimintajam posmą:
 
 **2. ‘‘Bahū devā manussā ca, maṅgalāni acintayuṃ;** Mąsto apie palaimą daugybė dėvų ir žmonių
-**Ākaṅkhamānā sotthānaṃ, brūhi maṅgalamuttamaṃ’’.** norėdami klestėjimo, prašau, pasakyki kas sudaro didžiausią palaimą!
+**Ākaṅkhamānā sotthānaṃ, brūhi maṅgalamuttamaṃ’’.** norėdami klestėjimo, prašau, pasakyki, kas sudaro didžiausią palaimą!
 
 **3. ‘‘Asevanā ca bālānaṃ, paṇḍitānañca sevanā;** Nebendravimas su kvailiais, bendravimas su išminčiais
-**Pūjā ca pūjaneyyānaṃ [pūjanīyānaṃ (sī. syā. kaṃ. pi.)], etaṃ maṅgalamuttamaṃ.** Ir garbinimas tų, kas nusipelno garbės – tai yra didžiausia palaima.
+**Pūjā ca pūjaneyyānaṃ [pūjanīyānaṃ (sī. syā. kaṃ. pi.)], etaṃ maṅgalamuttamaṃ.** Ir garbinimas tų, kas nusipelno garbės, – tai yra didžiausia palaima.
 
 **4. ‘‘Patirūpadesavāso ca, pubbe ca katapuññatā;** Tinkama gyvenamoji vieta, anksčiau padaryti dorovingi poelgiai
 **Attasammāpaṇidhi [atthasammāpaṇīdhī (katthaci)] ca, etaṃ maṅgalamuttamaṃ.** Ir teisingos krypties laikymasis tai yra didžiausia palaima.
