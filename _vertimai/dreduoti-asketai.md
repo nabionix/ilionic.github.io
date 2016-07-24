@@ -14,7 +14,7 @@ published: true
 Taip aš girdėjau: vieną kartą Palaimintasis buvo apsistojęs Gajoje Gajos upės pakrantėje. Ir tuo pačiu metu, savaitę prieš ir po pilnaties, šaltomis, speiguotomis naktimis, krentant sniegui, daugybė dreduotų asketų nardė Gajos upėje, paneriant ir išneriant dar ir taškėsi, taip pat ugnį aukojo [galvodami]: “Tuo apsivalysime”.
 Pamatė gi Palaimintasis, kad savaitę prieš ir po pilnaties, šaltomis, speiguotomis naktimis, krentant sniegui, daugybė tų dreduotų asketų nardė Gajos upėje, paneriant ir išneriant dar ir taškėsi, taip pat ugnį aukojo [galvodami]: “Tuo apsivalysime”.
 
-Tada gi Palaimintasis supratęs to reikšmingumą, ta proga ištarė šiuos džiaugsmingus žodžius:
+Tada gi Palaimintasis, supratęs to reikšmingumą, ta proga ištarė šiuos džiaugsmingus žodžius:
 
 “Ne dėl vandens viens yr švarus, daug žmonių čia maudosi,
 Bet tas, kas laikosi tiesos ir Dharmos, yra švarus, yra brahmanas.”
@@ -28,4 +28,3 @@ Bet tas, kas laikosi tiesos ir Dharmos, yra švarus, yra brahmanas.”
 
 **‘‘Na udakena sucī hotī,** Ne dėl vandens viens yr švarus, **bahvettha nhāyatī [nahāyatī (sī.)] jano;** daug žmonių čia maudosi,  
 **Yamhi saccañca dhammo ca,** Bet tas, kas laikosi tiesos ir Dharmos, **so sucī so ca brāhmaṇo’’ti.** yra švarus, yra brahmanas.
-
