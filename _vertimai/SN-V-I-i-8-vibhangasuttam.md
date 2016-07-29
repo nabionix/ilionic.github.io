@@ -14,29 +14,29 @@ published: true
 
 Savathėje.
 
-—Vienuoliai, mokysiu jus, nagrinėsiu taurųjį aštuonialypį kelią. Klausykite, sutelkite visą dėmesį, kalbėsiu.
+— Vienuoliai, mokysiu jus, nagrinėsiu taurųjį aštuonialypį kelią. Klausykite, sutelkite visą dėmesį, kalbėsiu.
 
-—Taip, gerbiamasis!—atsakė Palaimintajam vienuoliai.
+— Taip, gerbiamasis! — atsakė Palaimintajam vienuoliai.
 
 Palaimintasis štai ką pasakė:
 
-—Ir kas, vienuoliai, yra taurusis aštuonialypis kelias? Tai yra teisingas požiūris, teisingas ketinimas, teisinga kalba, teisingas veiksmas, teisingas pragyvenimo šaltinis, teisinga pastanga, teisingas sąmoningumas, teisingas susitelkimas.
+— Ir kas, vienuoliai, yra taurusis aštuonialypis kelias? Tai yra teisingas požiūris, teisingas ketinimas, teisinga kalba, teisingas veiksmas, teisingas pragyvenimo šaltinis, teisinga pastanga, teisingas sąmoningumas, teisingas susitelkimas.
 
-Ir kas, vienuoliai, yra teisingas požiūris? Tai, kas yra kentėjimo žinojimas, kentėjimo priežasties žinojimas, kentėjimo išnykimo žinojimas, kelio vedančio į kentėjimo išnykimą žinojimas yra vadinama teisingu požiūriu.
+Ir kas, vienuoliai, yra teisingas požiūris? Tai, kas yra kentėjimo žinojimas, kentėjimo priežasties žinojimas, kentėjimo išnykimo žinojimas, į kentėjimo išnykimą vedančio kelio žinojimas, yra vadinama teisingu požiūriu.
 
-Ir kas, vienuoliai, yra teisingas ketinimas? Tai, kas yra ketinimas atsižadėti, ketinimas be piktanoriškumo, ketinimas nežaloti yra vadinama teisingu ketinimu.
+Ir kas, vienuoliai, yra teisingas ketinimas? Tai, kas yra ketinimas atsižadėti, ketinimas be piktanoriškumo, ketinimas nežaloti, yra vadinama teisingu ketinimu.
 
-Ir kas, vienuoliai, yra teisinga kalba? Tai, kas yra susilaikymas nuo melagystės, susilaikymas nuo šmeižto, susilaikymas nuo šiurkščios kalbos, susilaikymas nuo tuščių plepalų yra vadinama teisinga kalba.
+Ir kas, vienuoliai, yra teisinga kalba? Tai, kas yra susilaikymas nuo melagystės, susilaikymas nuo šmeižto, susilaikymas nuo šiurkščios kalbos, susilaikymas nuo tuščių plepalų, yra vadinama teisinga kalba.
 
-Ir kas, vienuoliai, yra teisingas veiksmas? Tai, kas yra susilaikymas nuo žudymo, susilaikymas nuo netiesos sakymo, susilaikymas nuo neskaistumo yra vadinama teisingu veiksmu.
+Ir kas, vienuoliai, yra teisingas veiksmas? Tai, kas yra susilaikymas nuo žudymo, susilaikymas nuo netiesos sakymo, susilaikymas nuo neskaistumo, yra vadinama teisingu veiksmu.
 
-Ir kas, vienuoliai, yra teisingas pragyvenimo šaltinis? Štai, tauriųjų mokinys atsisakęs nuo neteisingo pragyvenimo šaltinio, verčiasi teisingu pragyvenimo šaltiniu. Tai yra vadinama teisingu pragyvenimo šaltiniu.
+Ir kas, vienuoliai, yra teisingas pragyvenimo šaltinis? Štai, tauriųjų mokinys, atsisakęs nuo neteisingo pragyvenimo šaltinio, verčiasi teisingu pragyvenimo šaltiniu. Tai yra vadinama teisingu pragyvenimo šaltiniu.
 
 Ir kas, vienuoliai, yra teisinga pastanga? Štai, vienuolis užsidega noru, kad neatsiradusios blogos, nedoros būsenos neatsirastų - jis stengiasi, deda pastangas, energingai naudoja protą, siekia to; užsidega noru pašalinti atsiradusias blogas, nedoras būsenas.... užsidega noru, kad neatsiradusios doros būsenos atsirastų... užsidega noru atsiradusias doras būsenas įtvirtinti, padaryti neabejotinomis, dauginti, pilnai išvystyti, ištobulinti - jis stengiasi, deda pastangas, energingai naudoja protą, siekia to. Tai, vienuoliai, vadinama teisinga pastanga.
 
 Ir kas, vienuoliai, yra teisingas sąmoningumas? Štai, vienuolis gyvena kūno atžvilgiu kontempliuodamas kūną, būdamas uolus, su aiškiu supratimu, sąmoningas, be godulio ir nepasitenkinimo pasauliu; gyvena jausmų atžvilgiu kontempliuodamas jausmus, būdamas uolus, su aiškiu supratimu, sąmoningas, be godulio ir nepasitenkinimo pasauliu; gyvena proto atžvilgiu kontempliuodamas protą, būdamas uolus, su aiškiu supratimu, sąmoningas, be godulio ir nepasitenkinimo pasauliu; gyvena reiškinių atžvilgiu kontempliuodamas reiškinius, būdamas uolus, su aiškiu supratimu, sąmoningas, be godulio ir nepasitenkinimo pasauliu. Tai, vienuoliai, vadinama teisingu sąmoningumu.
 
-Ir kas, vienuoliai, yra teisingas susitelkimas? Štai, vienuolis atsitolinęs nuo juslinių malonumų, atsitolinęs nuo nedorų būsenų pasiekia pirmąją džhaną, kuri yra su pirminiu pritaikymu, ilgalaikiu taikymu, su dėl atsiskyrimo gimusiais gėrėjimusi ir laime, ir būna joje. Kai liaunasi pradinis pritaikymas ir ilgalaikis taikymas, su iš vidaus nurimusiu protu sutelktu į vieną [objektą] jis pasiekia antrąją džhaną, kuri yra be pradinio pritaikymo, be ilgalaikio taikymo, su dėl susitelkimo gimusiais gėrėjimusi ir laime, ir būna joje. Išblėsus gėrėjimuisi, jis būna pusiausviro proto, sąmoningas ir aiškiai suprantantis, ir kūnu patyria laimę, jis pasiekia trečiąją džhaną ir būna joje, taurieji nupasakoja tai taip: "Jis būna laimingas, pusiausviras ir sąmoningas". Atsisakęs nuo malonių ir nemalonių pojūčių, peržengęs ankstesniuos laimę ir nusiminimą, jis pasiekia ketvirtąją džhaną: be nemalonių ir malonių pojūčių, su sąmoningumo išgryninta [proto] pusiausvyra - ir būna joje. Tai, vienuoliai, vadinama teisingu susitelkimu.
+Ir kas, vienuoliai, yra teisingas susitelkimas? Štai, vienuolis, atsitolinęs nuo juslinių malonumų, atsitolinęs nuo nedorų būsenų, pasiekia pirmąją džhaną, kuri yra su pirminiu pritaikymu, ilgalaikiu taikymu, su dėl atsiskyrimo gimusiais gėrėjimusi ir laime, ir būna joje. Kai liaunasi pradinis pritaikymas ir ilgalaikis taikymas, su iš vidaus nurimusiu protu sutelktu į vieną [objektą] jis pasiekia antrąją džhaną, kuri yra be pradinio pritaikymo, be ilgalaikio taikymo, su dėl susitelkimo gimusiais gėrėjimusi ir laime, ir būna joje. Išblėsus gėrėjimuisi, jis būna pusiausviro proto, sąmoningas ir aiškiai suprantantis, ir kūnu patyria laimę, jis pasiekia trečiąją džhaną ir būna joje, taurieji nupasakoja tai taip: "Jis būna laimingas, pusiausviras ir sąmoningas". Atsisakęs nuo malonių ir nemalonių pojūčių, peržengęs ankstesniuos laimę ir nusiminimą, jis pasiekia ketvirtąją džhaną - be nemalonių ir malonių pojūčių, su sąmoningumo išgryninta [proto] pusiausvyra - ir būna joje. Tai, vienuoliai, vadinama teisingu susitelkimu.
 
 ### Vibhaṅgasuttaṃ (Nagrinėjimas, SN V.I.i.8)
 
