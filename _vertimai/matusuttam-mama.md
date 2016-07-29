@@ -14,7 +14,7 @@ published: true
 
 Buvo apsistojęs Savathėje...
 
-—Vienuoliai, neįsivaizduojama [kada buvo] šios samsaros pradžia... <a href="../tinakatthasuttam-zole-ir-sakeles">{žr. SN II.IV.i.1}</a> ... Vienuoliai, nėra lengva surasti būtybę, kuri anksčiau per šį ilgą laiką nėra buvusi jūsų mama. Dėl ko taip yra? Vienuoliai, neįsivaizduojama, [kada buvo] šios samsaros pradžia... <a href="../tinakatthasuttam-zole-ir-sakeles">{žr. SN II.IV.i.1}</a> ... išsilaisvinti [nuo jų].
+—Vienuoliai, neįsivaizduojama [kada buvo] šios samsaros pradžia... <a href="../tinakatthasuttam-zole-ir-sakeles">{žr. SN II.IV.i.1}</a> ... Vienuoliai, nėra lengva surasti būtybę, kuri anksčiau per šį ilgą laiką nėra buvusi jūsų mama. Dėl ko taip yra? Vienuoliai, neįsivaizduojama [kada buvo] šios samsaros pradžia... <a href="../tinakatthasuttam-zole-ir-sakeles">{žr. SN II.IV.i.1}</a> ... išsilaisvintų [nuo jų].
 
 ## Mātusuttaṃ (Mama, SN II.IV.ii.4)
 
