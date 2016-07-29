@@ -34,11 +34,11 @@ Sąmonė yra ne-savastis. Nes jeigu sąmonė, vienuoliai, būtų savastimi, ši 
 
 — Nepastovi, gerbiamasis.
 
-— O tai kas nepastovu yra kančia ar malonumas?
+— O tai, kas nepastovu, yra kančia ar malonumas?
 
 — Kančia, Gerbiamasis.
 
-— O ar išmanu į tai kas yra nepastovu, kančia ir turi prigimtį keistis žiūrėti taip, "tai yra mano, tai esu aš, tai manasis 'aš'?"
+— O ar išmanu į tai, kas yra nepastovu, kančia ir turi prigimtį keistis, žiūrėti taip, "tai yra mano, tai esu aš, tai manasis 'aš'?"
 
 — Tikrai ne, Gerbiamasis.
 
@@ -58,15 +58,15 @@ Sąmonė yra ne-savastis. Nes jeigu sąmonė, vienuoliai, būtų savastimi, ši 
 
 — Nepastovi, gerbiamasis.
 
-— O tai kas nepastovu yra kančia ar malonumas?
+— O tai, kas nepastovu, yra kančia ar malonumas?
 
 — Kančia, Gerbiamasis.
 
-— O ar išmanu žiūrėti į tai kas yra nepastovu, kančia ir turi prigimtį keistis taip, "tai yra mano, tai esu aš, tai manasis 'aš'?"
+— O ar išmanu žiūrėti į tai, kas yra nepastovu, kančia ir turi prigimtį keistis, taip, "tai yra mano, tai esu aš, tai manasis 'aš'?"
 
 — Tikrai ne, Gerbiamasis.
 
-— Todėl, vienuoliai, bet kokia materija: ar tai praeityje, dabar, ar ateityje, ar vidinė, ar išorinė, ar akivaizdi, ar subtili, ar žemesnė, ar viršesnė, ar toli, ar arti - visa materija, "nėra mano, nėra 'aš', nėra manasis 'aš'". Tas su teisinga išmintimi turi būti pamatyta taip, kaip tai iš tiesų yra.
+— Todėl, vienuoliai, bet kokia materija - ar tai praeityje, dabar, ar ateityje, ar vidinė, ar išorinė, ar akivaizdi, ar subtili, ar žemesnė, ar viršesnė, ar toli, ar arti - visa materija, "nėra mano, nėra 'aš', nėra manasis 'aš'". Tas su teisinga išmintimi turi būti pamatyta taip, kaip tai iš tiesų yra.
 
 Bet koks jausmas ...
 
@@ -74,11 +74,11 @@ Bet koks suvokimas...
 
 Bet kokie proto dariniai...
 
-Bet kuri sąmonė ar tai praeityje, dabar, ar ateityje, ar vidinė, ar išorinė, ar akivaizdi, ar subtili, ar žemesnė, ar viršesnė, ar arti, ar toli - visa sąmonė, "ne mano, nėra 'aš', nėra manasis 'aš'". Tas su teisinga išmintimi turi būti pamatyta taip, kaip tai iš tiesų yra.
+Bet kuri sąmonė - ar tai praeityje, dabar, ar ateityje, ar vidinė, ar išorinė, ar akivaizdi, ar subtili, ar žemesnė, ar viršesnė, ar arti, ar toli - visa sąmonė, "ne mano, nėra 'aš', nėra manasis 'aš'". Tas su teisinga išmintimi turi būti pamatyta taip, kaip tai iš tiesų yra.
 
-Tai pamatęs, vienuoliai, apsišvietęs tauriųjų mokinys nusivilia materija, jausmu, suvokimu, proto dariniais ir sąmone. Nusivylus užgęsta potraukis. Užgesus potraukiui išsilaisvinama. Išsilaisvinus ateina supratimas: 'Išsilaisvinęs'. Jis supranta, "Panaikintas gimimas, nugyventas šventas gyvenimas, padaryta tai kas turi būti padaryta, nebebus daugiau šio būvio".
+Tai pamatęs, vienuoliai, apsišvietęs tauriųjų mokinys nusivilia materija, jausmu, suvokimu, proto dariniais ir sąmone. Nusivylus, užgęsta potraukis. Užgesus potraukiui, išsilaisvinama. Išsilaisvinus, ateina supratimas: 'Išsilaisvinęs'. Jis supranta, "Panaikintas gimimas, nugyventas šventas gyvenimas, padaryta tai, kas turi būti padaryta, nebebus daugiau šio būvio".
 
-Tai pasakė Palaimintasis. Pamalonintas vienuolių penketukas džiaugėsi Palaimintojo kalba. Ir tuo pat metų kai buvo duodamas šis išaiškinimas, išdėstymas vienuolių penketuko protai dėl neprisirišimo išsilaisvino nuo intakų. 
+Tai pasakė Palaimintasis. Pamalonintas vienuolių penketukas džiaugėsi Palaimintojo kalba. Ir tuo pat metu, kai buvo duodamas šis išaiškinimas, išdėstymas, vienuolių penketuko protai dėl neprisirišimo išsilaisvino nuo intakų. 
 
 ## Anattalakkhaṇasuttaṃ (Nesavastingumo bruožas, SNIII.I.vi.7)
 
