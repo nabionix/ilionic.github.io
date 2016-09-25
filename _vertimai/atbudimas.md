@@ -17,6 +17,8 @@ published: true
 
 *Paṭhamabodhisuttaṃ*
 
+*Paṭhamabodhisuttaṃ*
+
 Taip aš girdėjau: vieną kartą Palaimintasis tik pasiekęs tobulą visišką atbudimą buvo apsistojęs Uruvėloje Nadžioje Nerandžios upės pakrantėje bodhi medžio papėdėje. Ir tuo metu Palaimintasis septynias dienas patirdamas išsilaisvinimo laimę sėdėjo sukryžiavęs kojas. Tada gi Palaimintasis, praėjus septyniom dienom, išėjęs iš to susitelkimo, pirmą nakties trečdalį kreipė nuodugnų dėmesį į sąlygotą atsiradimą tiesiogine tvarka.
 
 "Tam esant, tai yra, tam atsiradus, tai atsiranda, tai yra: sąlygoti nežinojimo yra valingi veiksmai; sąlygota valingų veiksmų yra sąmonė; sąlygota sąmonės yra protas-materija; sąlygoti proto-materijos yra šeši jautimo pagrindai; sąlygotas šešių jautimo pagrindų yra sąlytis; sąlygotas sąlyčio yra jausmas; sąlygotas jausmo yra troškimas; sąlygotas troškimo yra prisirišimas; sąlygotas prisirišimo yra būtis; sąlygotas būties yra gimimas; sąlygotas gimimo yra senėjimo, mirties, liūdesio, raudojimo, skausmo, nusiminimo, nerimo atsiradimas. Tokiu būdu atsiranda visa ši kentėjimų daugybė."
