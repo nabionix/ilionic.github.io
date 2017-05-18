@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Keturi sąmoningumo įsteigimai (Mahāsatipaṭṭhānasuttaṃ, DN 19)'
+title: 'Keturi atidumo įsteigimai (Mahāsatipaṭṭhānasuttaṃ, DN 19)'
 tags:
   - M
 index: M
@@ -23,7 +23,7 @@ Palaimintasis pasakė štai ką:
 
 *Uddeso*
 
-－Vienuoliai, šis yra tiesioginis kelias į būtybių apsivalymą, liūdesio ir raudojimo įveikimą, skausmo ir nusiminimo išnykimą, žinojimo pasiekimą, Nirvanos patyrimą. Tai yra keturi sąmoningumo įsteigimai.
+－Vienuoliai, šis yra tiesioginis kelias į būtybių apsivalymą, liūdesio ir raudojimo įveikimą, skausmo ir nusiminimo išnykimą, žinojimo pasiekimą, Nirvanos patyrimą. Tai yra keturi atidumo įsteigimai.
 
 Kurie keturi? Štai, vienuoliai, vienuolis gyvena kūno atžvilgiu kontempliuodamas kūną, būdamas uolus, su aiškiu supratimu, sąmoningas, be godulio ir nepasitenkinimo pasauliu; gyvena jausmų atžvilgiu kontempliuodamas jausmus, būdamas uolus, su aiškiu supratimu, sąmoningas, be godulio ir nepasitenkinimo pasauliu; gyvena proto atžvilgiu kontempliuodamas protą, būdamas uolus, su aiškiu supratimu, sąmoningas, be godulio ir nepasitenkinimo pasauliu; gyvena reiškinių atžvilgiu kontempliuodamas reiškinius, būdamas uolus, su aiškiu supratimu, sąmoningas, be godulio ir nepasitenkinimo pasauliu.
 
