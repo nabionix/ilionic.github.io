@@ -13,18 +13,18 @@ published: true
 
 Patičasamupada (*Paṭiccasamuppāda*) arba Sąlygotas atsiradimas yra labai svarbus Budos mokymas, kuris išskyria budizmą iš visų kitų religijų. Ši doktrina moko, kad visi gyvųjų būtybių proto ir materijos reiškiniai yra sąlygoti, kad nėra nieko, kas atsirastų be priežasties. Ir dėl to, kad viskas kyla dėl priežasčių, nėra tokio dalyko kaip kūrėjas arba sukurtas pasaulis.
 
-Į lietuvių kalbą terminas ‘Patičasamupada’ (PS) verčiamas įvairiai: priklausomas radimasis, sąlygotas radimasis, sąlygota bendroji kilmė, sąlygotas atsiradimas ir pan. Žodis ‘patiča’ (*paṭicca*) reiškia ‘priklausomai nuo’, o ‘samupada’ (*samuppāda*) - ‘tai, kas atsiranda kartu’. Ir nors pažodžiui šis junginys reikštų ‘atsiradimo sąlygos’, jis nurodo kaip į sąlygas, taip ir į pasėkmes. Taip yra dėl to, kad bet kuri vieno reiškinio pasėkmė taip pat yra ir kito reiškinio atsiradimo sąlyga.
+Į lietuvių kalbą terminas „Patičasamupada“ (PS) verčiamas įvairiai: priklausomas radimasis, sąlygotas radimasis, sąlygota bendroji kilmė, sąlygotas atsiradimas ir pan. Žodis „patiča“ (*paṭicca*) reiškia „priklausomai nuo“, o „samupada“ (*samuppāda*) - „tai, kas atsiranda kartu“. Ir nors pažodžiui šis junginys reikštų „atsiradimo sąlygos“, jis nurodo kaip į sąlygas, taip ir į pasėkmes. Taip yra dėl to, kad bet kuri vieno reiškinio pasėkmė taip pat yra ir kito reiškinio atsiradimo sąlyga.
 
 Bendra šio dėsnio formuluotė skamba taip:
 
-"Tam esant, tai yra,   
+„Tam esant, tai yra,   
 tam atsiradus, tai atsiranda,  
 tam nesant, to nėra,   
-tam išnykus, tai išnyksta."   
+tam išnykus, tai išnyksta.“   
 
 Nurodžius pagrindinį principą, Buda paprastai paaiškina jį konkrečia priežasčių-pasėkmių seka:
 
-"Sąlygoti nežinojimo yra valingi veiksmai;  
+„Sąlygoti nežinojimo yra valingi veiksmai;  
 sąlygota valingų veiksmų yra sąmonė;   
 sąlygota sąmonės yra protas-materija;  
 sąlygoti proto-materijos yra šeši jautimo pagrindai;  
@@ -46,11 +46,11 @@ dėl jausmo išnykimo išnyksta troškimas;
 dėl troškimo išnykimo išnyksta prisirišimas;  
 dėl prisirišimo išnykimo išnyksta būtis;  
 dėl būties išnykimo išnyksta gimimas;  
-dėl gimimo išnykimo išnyksta senėjimas, mirtis, liūdesys, raudojimas, skausmas, nusiminimas, nerimas. Tokiu būdu išnyksta visa ši kentėjimų daugybė."  
+dėl gimimo išnykimo išnyksta senėjimas, mirtis, liūdesys, raudojimas, skausmas, nusiminimas, nerimas. Tokiu būdu išnyksta visa ši kentėjimų daugybė.“  
 
 Šio fundamentalaus dėsnio supratimas yra be galo svarbus nežinojimo išsklaidymui. Iš tiesų, neperpratus jo, išsivadavimas iš atgimimų ratų yra neįmanomas.
 
-Svarbu pastebėti, kad nors nežinojimas ir yra įvardijamas pirmas, jis nėra pirmapradė samsaros priežastis - samsara neturi pradžios: "neįmanoma nurodyti praeityje būtybių, trikdomų nežinojimo, esančių troškimo pančiuose, lakstančių, klajojančių ratais, pradžią." Patičasamupados tikslas nėra pirmos pradžios nurodymas, bet tai yra atgimimų rato bei to, kaip iš jo išsivaduoti, paaiškinimas. Taip pat svarbu suprasti, kad proto ir maretijos elementai yra tarpusavyje susiję  sudetingais daugialypiais sąlyginiais ryšiais, nėra nei vieno reiškinio, kuris būtų sąlygotas tik vieno dalyko. PS yra Dharmos arba penkių sankaupų (*khandų*) atsiradimo ir išnykimo raidos ratas. Senas reiškinys nuolat sąlygoja naują ir už tos kaitos neslypi nei ‘aš’, nei ‘ego’, nei ‘siela’, nei ‘savastis’, nei ‘Dievas’. Labai gražiai tai aprašė Budhagosa savo “Kelyje į grynumą” (‘*Visudhimaggoje*’):
+Svarbu pastebėti, kad nors nežinojimas ir yra įvardijamas pirmas, jis nėra pirmapradė samsaros priežastis - samsara neturi pradžios: „neįmanoma nurodyti praeityje būtybių, trikdomų nežinojimo, esančių troškimo pančiuose, lakstančių, klajojančių ratais, pradžią.“ Patičasamupados tikslas nėra pirmos pradžios nurodymas, bet tai yra atgimimų rato bei to, kaip iš jo išsivaduoti, paaiškinimas. Taip pat svarbu suprasti, kad proto ir maretijos elementai yra tarpusavyje susiję  sudetingais daugialypiais sąlyginiais ryšiais, nėra nei vieno reiškinio, kuris būtų sąlygotas tik vieno dalyko. PS yra Dharmos arba penkių sankaupų (*khandų*) atsiradimo ir išnykimo raidos ratas. Senas reiškinys nuolat sąlygoja naują ir už tos kaitos neslypi nei „aš“, nei „ego“, nei „siela“, nei „savastis“, nei „Dievas“. Labai gražiai tai aprašė Budhagosa savo „Kelyje į grynumą“ („*Visudhimaggoje*“):
 
 Nėr nei veiksmo atlikėjo, nei rezultatų patyrėjo,  
 Tėra reiškinių vyksmas, toks matymas yra teisingas. (Vsm. XIX.689)
@@ -123,4 +123,4 @@ Nagrinėjant kaip ir kodėl atsiranda individuali gyvybė, galime skirtingai žv
 
     * samonė, protas-materija, šeši jautimo pagrindai, sąlytis, jausmas sudaro ateities rezultatus.
 
-Šio mokymo supratimo, perpratimo svarbą ir gelmę Buda išreiškė taip: "Gilus, Ananda, yra ir atrodo gilus šis sąlygotas atsiradimas. Ši karta yra susipainiojusi lyg siūlų kamuolys, lyg paukščių lizdas, lyg šiaudai ir šienas, dėl šios dharmos nesupratimo ir neperpratimo, ir ji negali įveikti nelaimingas sferas, blogas vietas, kančių sferas, samsarą." (DN15)
+Šio mokymo supratimo, perpratimo svarbą ir gelmę Buda išreiškė taip: „Gilus, Ananda, yra ir atrodo gilus šis sąlygotas atsiradimas. Ši karta yra susipainiojusi lyg siūlų kamuolys, lyg paukščių lizdas, lyg šiaudai ir šienas, dėl šios dharmos nesupratimo ir neperpratimo, ir ji negali įveikti nelaimingas sferas, blogas vietas, kančių sferas, samsarą.“ (DN15)
