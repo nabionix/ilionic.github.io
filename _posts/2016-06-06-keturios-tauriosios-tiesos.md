@@ -25,7 +25,7 @@ Tam, kad suprastume, kas gi yra *dukha*, pažvelkime, kaip ją apibrėžia Buda.
 
 Paaiškinęs dukhą, Buda parodo ir jos priežastį. Tai yra su džiūgesiu ir geismu susijęs troškimas, vedantis į pakartotiną būtį (atgimimą): juslinių malonumų troškimas, troškimas būti ir troškimas nebūti.
 
-Pirmos dvi tiesos yra tai, ką mes turime pilnai pažinti, suprasti, kiaurai perprasti savo tiesiogine patirtimi tam, kad mums atsivertų trečioji tiesa: *dukhos* išnykimas. Buda ją aprašo kaip troškimo  visišką nusilpimą, išnykimą ir palikimą, jo atsisakymą ir nepriėmimą, išsilavinimą nuo jo. Tai yra viso budistinio kelio tikslas - *nirvana* (pali k. *nibbāna*).
+Pirmas dvi tiesas turime nuodugniai pažinti, suprasti, kiaurai perprasti savo tiesiogine patirtimi tam, kad mums atsivertų trečioji tiesa: *dukhos* išnykimas. Buda ją aprašo kaip troškimo  visišką nusilpimą ir išnykimą, jo palikimą, atsisakymą ir nepriėmimą, išsilavinimą nuo jo. Tai yra viso budistinio kelio tikslas - *nirvana* (pali k. *nibbāna*).
 
 Ir galiausiai, paaiškinus *dukhą*, jos priežastį bei išnykimą, Buda išdėsto kelią, kuris veda į trečiąją tiesą, dukhos nutrūkimą, *nirvaną* – Aštuonialypį taurųjį kelią. Jo sudedamosios dalys yra:   
 
