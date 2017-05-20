@@ -50,7 +50,7 @@ dėl gimimo išnykimo išnyksta senėjimas, mirtis, liūdesys, raudojimas, skaus
 
 Šio fundamentalaus dėsnio supratimas yra be galo svarbus nežinojimo išsklaidymui. Iš tiesų, neperpratus jo, išsivadavimas iš atgimimų ratų yra neįmanomas.
 
-Svarbu pastebėti, kad nors nežinojimas ir yra įvardijamas pirmas, jis nėra pirmapradė samsaros priežastis - samsara neturi pradžios: „neįmanoma nurodyti praeityje būtybių, trikdomų nežinojimo, esančių troškimo pančiuose, lakstančių, klajojančių ratais, pradžią.“ Patičasamupados tikslas nėra pirmos pradžios nurodymas, bet tai yra atgimimų rato bei to, kaip iš jo išsivaduoti, paaiškinimas. Taip pat svarbu suprasti, kad proto ir maretijos elementai yra tarpusavyje susiję  sudetingais daugialypiais sąlyginiais ryšiais, nėra nei vieno reiškinio, kuris būtų sąlygotas tik vieno dalyko. PS yra Dharmos arba penkių sankaupų (*khandų*) atsiradimo ir išnykimo raidos ratas. Senas reiškinys nuolat sąlygoja naują ir už tos kaitos neslypi nei „aš“, nei „ego“, nei „siela“, nei „savastis“, nei „Dievas“. Labai gražiai tai aprašė Budhagosa savo „Kelyje į grynumą“ („*Visudhimaggoje*“):
+Svarbu pastebėti, kad nors nežinojimas ir yra įvardijamas pirmas, jis nėra pirmapradė samsaros priežastis - samsara neturi pradžios: „neįmanoma nurodyti praeityje būtybių, trikdomų nežinojimo, esančių troškimo pančiuose, lakstančių, klajojančių ratais, pradžią.“ Patičasamupados tikslas nėra pirmos pradžios nurodymas, bet tai yra atgimimų rato bei to, kaip iš jo išsivaduoti, paaiškinimas. Taip pat svarbu suprasti, kad proto ir maretijos elementai yra tarpusavyje susiję  sudetingais daugialypiais sąlyginiais ryšiais, nėra nei vieno reiškinio, kuris būtų sąlygotas tik vieno dalyko. PS yra Dharmos arba penkių sankaupų (*khandų*) atsiradimo ir išnykimo raidos ratas. Senas reiškinys nuolat sąlygoja naują ir už tos kaitos neslypi nei „aš“, nei „ego“, nei „siela“, nei „savastis“, nei „Dievas“. Labai gražiai tai aprašė Budhagosa savo „Kelyje į tyrumą“ („*Visudhimaggoje*“):
 
 Nėr nei veiksmo atlikėjo, nei rezultatų patyrėjo,  
 Tėra reiškinių vyksmas, toks matymas yra teisingas. (Vsm. XIX.689)
@@ -65,8 +65,8 @@ Protas-materija (*nāmarūpa*) - Protas - tai jausmas, suvokimas, valia, sąlyti
 Sąlytis (*phassa*) - akies, ausies, nosies, liežuvio, kūno bei proto sąlyčiai.  
 Jausmas (*vedanā*) - malonus, nemalonus ar neutralus jausmas, gimęs dėl akies, ausies, nosies, liežuvio, kūno ar proto sąlyčio.  
 Troškimas (*taṇhā*) - tai formų, garsų, kvapų, skonių, troškimas, [proto] reiškinių troškimas.  
-Prisirišimas (*upādāna*) - tai sustiprėjęs troškimas, pasireiškiantis prisirišimu prie juslinių malonumų, prie neteisingų pažiūrų, prie taisyklių ir įžadų, prie tikėjimo į savastį (sielą).  
-Būtis (*bhava*) - tai gyvenimą jausminėje sferoje, subtilios materijos sferoje ar nematerialioje sferoje sukelianti karma.  
+Prisirišimas (*upādāna*) - tai sustiprėjęs troškimas, pasireiškiantis prisirišimu prie juslinių malonumų, prie neteisingų pažiūrų, prie neteisingo taisyklių ir įžadų paskirties supratimo, prie tikėjimo į savastį (sielą).  
+Būtis (*bhava*) - tai gyvenimą jausminėje sferoje, subtilios materijos sferoje ar nematerialioje sferoje sukelianti karma ir pats gyvenimas šiose sferose.  
 Gimimas (*jāti*) - tai naujos būtybės gimimas, gymis, pradėjimas, prigimimas, atgimimas,prisirišimo komponentų atsiradimas, [jausmo] pagrindų įgijimas.  
 Senėjimas ir mirtis (*jarāmaraṇa*) - tai biologinis būtybių senėjimas ir jų gyvenimo nutrūkimas.  
 Liūdesys, raudojimas, skausmas, nusiminimas ir nerimas (*sokaparidevadukkhadomanassupāyāsā*) - tai neigiamos emocijos, kurios iškyla užpuolus kokiai nors nelaimei ar įvykus sąlyčiui su kokiu nors skausmą sukeliančiu reiškiniu.  
@@ -123,4 +123,4 @@ Nagrinėjant kaip ir kodėl atsiranda individuali gyvybė, galime skirtingai žv
 
     * samonė, protas-materija, šeši jautimo pagrindai, sąlytis, jausmas sudaro ateities rezultatus.
 
-Šio mokymo supratimo, perpratimo svarbą ir gelmę Buda išreiškė taip: „Gilus, Ananda, yra ir atrodo gilus šis sąlygotas atsiradimas. Ši karta yra susipainiojusi lyg siūlų kamuolys, lyg paukščių lizdas, lyg šiaudai ir šienas, dėl šios dharmos nesupratimo ir neperpratimo, ir ji negali įveikti nelaimingas sferas, blogas vietas, kančių sferas, samsarą.“ (DN15)
+Šio mokymo supratimo, perpratimo svarbą ir gelmę Buda išreiškė taip: „Gilus, Ananda, yra ir atrodo gilus šis sąlygotas atsiradimas. Dėl šios dharmos nesupratimo ir neperpratimo ši karta yra susipainiojusi lyg siūlų kamuolys, lyg paukščių lizdas, lyg šiaudai ir šienas, ir ji negali įveikti nelaimingas sferas, blogas vietas, kančių sferas, samsarą.“ (DN15)
