@@ -31,7 +31,7 @@ Paprastai šiai meditacijai naudojamas vienas iš šių 40 objektų:
 
 2. Dešimt negražybių (*dasa asubha*)
 
-3. Dešimt kontenpliacių (*dasa anussati*)
+3. Dešimt kontenpliacijų (*dasa anussati*)
 
 4. Keturios dieviškosios buveinės (*catu brahmavihāra*)
 
