@@ -27,7 +27,7 @@ pripažįsta Budą savo mokytoju, *Dharmą* mokymu ir *Sanghą* palaikymą sutel
 
 **Buda**
 
-Buda reiškia „Atbudęs“,„Visiškai nušvitęs“. Buda nėra Dievas, pranašas, ar Dievo įsikūnijimas, jis yra tobuliausias iš žmonių, be mokytojo, savo paties pastangomis, atsikratęs visų proto teršalų, netobulumų ir įgavęs visas dorybes. Būdamas neprilygstamas mokytojas, jis gali pateikti mokymą tokia forma, kad jis bus geriausiai suprantamas ir naudingas klausytojui. Kai priimame Budą prieglobsčiu, mes pripažįstame šį žmogų tobuliausio tyrumo, išminties ir atjautos įkūnijimu, nepralenkiamu mokytoju, kurį sekdami mes galime saugiai išeiti iš pavojų kupino samsaros rato.
+Buda reiškia „Atbudęs“, „Visiškai nušvitęs“. Buda nėra Dievas, pranašas, ar Dievo įsikūnijimas, jis yra tobuliausias iš žmonių, be mokytojo, savo paties pastangomis, atsikratęs visų proto teršalų, netobulumų ir įgavęs visas dorybes. Būdamas neprilygstamas mokytojas, jis gali pateikti mokymą tokia forma, kad jis bus geriausiai suprantamas ir naudingas klausytojui. Kai priimame Budą prieglobsčiu, mes pripažįstame šį žmogų tobuliausio tyrumo, išminties ir atjautos įkūnijimu, nepralenkiamu mokytoju, kurį sekdami mes galime saugiai išeiti iš pavojų kupino samsaros rato.
 
 **_Dharma_** 
 
