@@ -26,7 +26,7 @@ Taip aš girdėjau vieną kartą Palaimintasis buvo apsistojęs Radžagahoje Dž
 
 Kai tai buvo pasakyta vienas ministras Magadhos karaliui Adžatasatui Vedehiputai pasakė taip:
 
-－Šis, didenybe, Pūrana Kasapa turi bendruomenę, turi daug pasekėjų, yra daugybės mokytojas, yra žinomas ir įžymus, religinės grupės įkūrėjas, daugelio žmonių didžiai gerbiamas, yra amžiuje, seniai palikęs pasaulietinį gyvenimą, pagyvenęs, sulaukęs senatvės. Lai didenybė aplanko tą Pūraną Kasapą. Galbūt paklausius Pūranos Kasapos didenybės protas bus nuramintas.
+－Šis, didenybe, Pūrana Kasapa yra bendruomenės galva, turi daug pasekėjų, yra daugybės mokytojas, yra žinomas ir įžymus, religinės grupės įkūrėjas, daugelio žmonių didžiai gerbiamas, yra patyręs, seniai palikęs pasaulietinį gyvenimą, pagyvenęs, sulaukęs senatvės. Lai didenybė aplanko tą Pūraną Kasapą. Galbūt paklausius Pūranos Kasapos didenybės protas bus nuramintas.
 
 Kai tai buvo pasakyta, Magadhos karalius Adžatasatus Vedehiputa pratylėjo.
 
@@ -57,7 +57,7 @@ Ir kitas gi ministras Magadhos karaliui Adžatasatui Vedehiputai pasakė taip:
 Ir kitas gi ministras Magadhos karaliui Adžatasatui Vedehiputai pasakė taip:
 
 
-－Šis, didenybe, Nigantha Nataputa turi bendruomenę turi daug pasekėjų, yra daugybės mokytojas, yra žinomas ir įžymus, religinės grupės įkūrėjas, daugelio žmonių didžiai gerbiamas, yra amžiuje, seniai palikęs pasaulietinį gyvenimą, pagyvenęs, sulaukęs senatvės. Lai didenybė aplanko tą Niganthą Nataputą. Galbūt paklausius Niganthos Nataputos didenybės protas bus nuramintas.
+－Šis, didenybe, Nigantha Nataputa yra bendruomenės galva, turi daug pasekėjų, yra daugybės mokytojas, yra žinomas ir įžymus, religinės grupės įkūrėjas, daugelio žmonių didžiai gerbiamas, yra patyręs, seniai palikęs pasaulietinį gyvenimą, pagyvenęs, sulaukęs senatvės. Lai didenybė aplanko tą Niganthą Nataputą. Galbūt paklausius Niganthos Nataputos didenybės protas bus nuramintas.
 
 Kai tai buvo pasakyta, Magadhos karalius Adžatasatus Vedehiputa pratylėjo.
 
