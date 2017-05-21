@@ -69,7 +69,7 @@ Tuo gi pat metu Džyvaka Komarabhača sėdėjo netoli Magadhos karaliaus Adžata
 
 －O tu, drauge Džyvaka, ko tyli?
 
-－Šis Palaimintasis, arahantas, tobulai atbudęs, jūsų didenybė, yra apsistojęs mano mangų girioje kartu su didžiulę vienuolių sanghą, su tūkstančiu dviem šimtais penkiasdešimt vienuoliu. Ir apie tą gi Palaimintąjį yra pasklidę tokie geri pagyros žodžiai: "Šis Palaimintasis yra arahantas, tobulai atbudęs, įgijęs žinojimą ir gerą elgesį, gerai žengęs, žinantis pasaulį, neprilygstamas tramdytinų žmonių treneris, dievybių ir žmonių mokytojas, atbudęs, palaimintas." Lai didenybė aplanko tą Palaimintąjį. Galbūt Palaimintojo paklausius didenybės protas bus nuramintas.
+－Šis Palaimintasis, arahantas, tobulai atbudęs, jūsų didenybė, yra apsistojęs mano mangų girioje kartu su didžiulę vienuolių sanghą, su tūkstančiu dviem šimtais penkiasdešimt vienuoliu. Ir apie tą gi Palaimintąjį yra pasklidę tokie nuostabus pagyros žodžiai: „Šis Palaimintasis yra arahantas, tobulai atbudęs, įgijęs žinojimą ir gerą elgesį, gerai žengęs, žinantis pasaulį, neprilygstamas tramdytinų žmonių treneris, dievybių ir žmonių mokytojas, atbudęs, palaimintas.“ Lai didenybė aplanko tą Palaimintąjį. Galbūt Palaimintojo paklausius didenybės protas bus nuramintas.
 
 －Na tuomet, drauge Džyvaka, paruoški važiavimui dramblius!
 
@@ -79,9 +79,9 @@ Tuo gi pat metu Džyvaka Komarabhača sėdėjo netoli Magadhos karaliaus Adžata
 
 Tada gi Magadhos karalius Adžatasatus Vedehiputa, kai jo penki šimtai moterų užsilipo ant dramblienių, atsisėdo ant savo asmeninio dramblio. Kartu su uždegtų fakelų nešėjų palyda jis paliko Radžagahą visoje savo karališkoje didybėje ir pajudėjo link Džyvakos Komarabhačos mangų girios.
 
-Tada gi vidury mangų girios Magadhos karalių Adžatasatų Vedehiputą apėmė baimė, apėmė drebulys, iš baimės jam pasišiaušė plaukai. Išsigandęs, sunerimęs, su iš baimės pasišiaušusiais plaukais Magadhos karalius Adžatasatus Vedehiputa taip pasakė Džyvakai Komarabhačai:
+Tada gi vidury mangų girios Magadhos karalių Adžatasatų Vedehiputą apėmė baimė, paėmė šiurpas, iš bailės jam pasišiaušė plaukai. Išsigandęs, sunerimęs, su iš bailės pasišiaušusiais plaukais Magadhos karalius Adžatasatus Vedehiputa taip pasakė Džyvakai Komarabhačai:
 
-－Ar neapgaudinėji manęs, drauge Džyvaka? Ar neapsuki manęs, drauge Džyvaka? Ar neišduodi manęs priešams, drauge Džyvaka? Na kaipgi iš tokios didelės vienuolių sanghos, iš tūkstančio dviejų šimtų penkiasdešimties vienuolių negirdėti nei čiaudėjimo, nei kosėjimo, nei jokio kito triukšmo?
+－Ar neapgaudinėji manęs, drauge Džyvaka? Ar neapsuki manęs, drauge Džyvaka? Ar neišduodi manęs priešams, drauge Džyvaka? Na kaipgi iš tokios didelės vienuolių sanghos, iš tūkstančio dviejų šimtų penkiasdešimties vienuolių nesigirdi nei čiaudėjimo, nei kosėjimo, nei jokio kito triukšmo?
 
 －Nebijokite, karaliau, nebijokite, karaliau! Neapgaudinėju jūsų, didenybe; neapsuku jūsų, didenybe; neišduodu jūsų priešams, didenybe. Eikite pirmyn, karaliau, eikite pirmyn, karaliau, tai dega apskritojo paviljono lempos.
 
@@ -93,7 +93,7 @@ Tada gi Magadhos karalius Adžatasatus Vedehiputa kiek buvo įmanoma nukeliavęs
 
 －Bet kur, drauge Džyvaka, yra Palaimintasis?
 
-－Štai, karaliau, Palaimintasis; štai Palaimintasis sėdi atsirėmęs į vidurinį stulpą, veidu į rytus, pagerbtas vienuolių sanghos."
+－Štai, karaliau, Palaimintasis; štai Palaimintasis sėdi atsirėmęs į vidurinį stulpą, veidu į rytus, pagerbtas vienuolių sanghos.
 
 Tada gi Magadhos karalius Adžatasatus Vedehiputa nuėjo pas Palaimintąjį, atėjęs atsistojo iš šono. Stovėdamas gi iš šono Magadhos karalius Adžatasatus Vedehiputa tylėjo. Apžvelgęs tylią kaip tyras ežeras vienuolių sanghą jis ištarė šiuos džiaugsmingus žodžius:
 
@@ -117,7 +117,9 @@ Tada gi Magadhos karalius Adžatasatus Vedehiputa pagerbė Palaimintąjį, pasve
 
 －Jei tau nesunku, karaliau, papasakoki ką gi tau atsakė!
 
-－Nesunku gi, gerbiamasis, kai šalimais sėdi Palaimintasis ar kas nors panašus į Palaimintąjį. －Na tuomet, karaliau, kalbėki!
+－Gerbiamasis, visiškai nesunku, kai šalimais sėdi Palaimintasis ar kas nors panašus į Palaimintąjį. 
+
+－Na tuomet, karaliau, kalbėki!
 
 ### 4. Pūranos Kasapos doktrina
 
