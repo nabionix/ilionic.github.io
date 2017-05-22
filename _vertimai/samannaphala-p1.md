@@ -255,9 +255,9 @@ Palaimintasis pasakė:
 
 Paklauso tos Dharmos ar namų šeimininkas, ar namų šeimininko sūnus, ar kitoje šeimoje atgimusisis. Jis tos Dharmos paklausęs įgyja tikėjimą Tathagata, o įgijęs tą tikėjimą pamąsto taip: „Gyvenimas namuose yra ankštas, dulkių kelias, žengimas pirmyn [į benamį gyvenimą] yra [lyg] grynas oras. Nėra tinkama praktikuoti švytintį lyg nušveista kriauklė šventą gyvenimą namuose, būnant būsto šeimininku, jis bus tik iš dalies tobulas, iš dalies tyras. Kodėl gi man dabar nenusiskutus plaukų, neapsirengus geltonais apdarais, ir nežengus pirmyn iš namų į benamį gyvenimą?!“
 
-Vėliau, palikęs ar tai mažą, ar tai didelę turtų masę, palikęs ar tai mažą, ar tai didelį giminių ratą, nusiskutus plaukus, apsirengus geltonais apdarais, jis žengia pirmyn iš namų į benamį gyvenimą.
+Vėliau, palikęs ar mažus, ar didelius turtus, palikęs ar mažą, ar didelį giminių ratą, nusiskutus plaukus, apsirengus geltonais apdarais, jis žengia pirmyn iš namų į benamį gyvenimą.
 
-Jis, taip žengęs pirmyn, gyvena susitvardęs patimokhos laikymusi, pasižymėdamas geru elgesiu, matantis pavojų mažiausiame nusižengime, įsipareigoja laikytis dorovės pagrindų, jo kūno ir kalbos veiksmai pasidaro dori, [jis yra] išgryninęs pragyvenimo šaltinius, pasižymi dorove, apsisaugojęs juslinių gebėjimų durys, [apsisaugojęs juslinių gebėjimų durys, žinantis saiką valgant] išsivystęs sąmoningumą ir aiškų supratimą, pasitenkinęs.
+Taip žengęs pirmyn, jis gyvena susitvardęs patimokhos laikymusi ir pasižymėdamas geru elgesiu; matydamas pavojingu ir mažiausią nusižengimą, įsipareigojęs laikytis dorovės principų, mokosi to; jo kūno ir kalbos veiksmai pasidaro dori, [jis būna] išgryninęs pragyvenimo šaltinius, dorovingas, apsisaugojęs juslinių gebėjimų duris, [apsisaugojęs juslinių gebėjimų duris, žinantis saiką kai valgo] išsivystęs atidumą ir aiškų supratimą, pasitenkinęs.
 
 ### 13. Mažoji dorovė
 
