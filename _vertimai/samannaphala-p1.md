@@ -271,19 +271,19 @@ Atsisakęs neskaistumo, jis gyvena skaistų gyvenimą atokiai nuo viso blogio, s
 
 Atsisakęs netiesos sakymo, jis susilaiko nuo melagystės, kalba tiesą, yra patikimas, tvirtas, vertas pasitikėjimo, neapgaudinėja pasaulio. Tai irgi yra jo dorovė.
 
-Atsisakęs šmeižto, jis susilaiko nuo šmeižimo; išgirdęs čia, jis nepraneša kitur, tam, kad nesukiršintų anuos su čionykščiais; arba išgirdęs ten, jis nepraneša čia, tam, kad nesukiršintų čionykščius su anais. Taip jis sujungia atgal suardytą [draugystę] arba palaiko [esamą] vienybę, jis džiaugiasi santarve, žavisi santarve, gėrisi santarve, savo kalba skatina santarve. Tai irgi yra jo dorovė.
+Atsisakęs šmeižto, jis susilaiko nuo šmeižimo; išgirdęs čia, jis nepraneša kitur, tam, kad sukiršintų anuos su čionykščiais; arba išgirdęs ten, jis nepraneša čia, tam, kad sukiršintų čionykščius su anais. Taip jis sujungia atgal suardytą [draugystę] arba palaiko [esamą] vienybę, jis džiaugiasi santarve, žavisi santarve, gėrisi santarve, savo kalba skatina santarve. Tai irgi yra jo dorovė.
 
-Atsisakęs šiurkščios kalbos, jis susilaiko nuo kalbėjimo šiurkščiai; kalbą, kuri yra ‘;/nepriekaištinga, maloni klausai, miela, širdinga, mandagi, patinkanti daugeliui, maloni daugeliui, tokią jis kalba. Tai irgi yra jo dorovė.
+Atsisakęs šiurkščios kalbos, jis susilaiko nuo kalbėjimo šiurkščiai; kalbą, kuri yra nepriekaištinga, maloni klausai, miela, širdinga, mandagi, patinkanti daugeliui, maloni daugeliui, tokią jis kalba. Tai irgi yra jo dorovė.
 
 Atsisakęs tuščių plepalų, jis susilaiko nuo tuščio plepėjimo, kalba laiku, kalba tai kas būtą, kalba iš esmės, kalba apie Dharmą, kalba apie drausmę, jis šneka vertingą kalbą, savalaikę, argumentuotą, aiškią, prasmingą. Tai irgi yra jo dorovė.
 
-Jis susilaiko nuo visų rūšių sėklų ir augmenijos žalojimo... valgo kartą per dieną, nevalgo naktį, susilaiko nuo valgymo netinkamu laiku. Jis susilaiko nuo šokių, dainų, muzikos ir kitų pramogų. Susilaiko nuo vėrinių ir papuošalų dėvėjimo, kvepalų ir kosmetikos naudojimo. Susilaiko nuo aukštų ir didelių lovų. Susilaiko: nepriima aukso ir sidabro, žalių (nevirtų) grūdų, žalios mėsos, moterų ir merginų, vergių ir vergų, ožkų ir avių, gaidžių ir kiaulių, dramblių, karvių, arklių ir kumelių, laukų ir žemės. Susilaiko nuo įsivėlimo į pavedimų ir žinučių siuntinėjimus, nuo pirkimo ir pardavimo, nuo apgaudinėjimo [netikru] svoriu, pinigais ir kiekiu, nuo neteisėtumo, apgaulių, apgavysčių, nesąžiningumo, nuo naikinimo, žudymo, supančiojimo, užpuolimo, smurto. Tai irgi yra jo dorovė.
+Jis susilaiko nuo visų rūšių sėklų ir augmenijos žalojimo... valgo kartą per dieną, nevalgo naktį, susilaiko nuo valgymo netinkamu laiku. Jis susilaiko nuo šokių, dainų, muzikos ir kitų pramogų. Susilaiko nuo vėrinių ir papuošalų dėvėjimo, kvepalų ir kosmetikos naudojimo. Susilaiko nuo aukštų ir didelių lovų. Nepriima aukso ir sidabro, žalių (nevirtų) grūdų, žalios mėsos, moterų ir merginų, vergių ir vergų, ožkų ir avių, gaidžių ir kiaulių, dramblių, karvių, arklių ir kumelių, laukų ir žemės. Susilaiko nuo įsivėlimo į pavedimų ir žinučių siuntinėjimuą, nuo pirkimo ir pardavimo, nuo apgaudinėjimo sveriant, pinigais ir kiekiu, nuo neteisėtumo, apgaulių, apgavysčių, nesąžiningumo, nuo naikinimo, žudymo, supančiojimo, užpuolimo, smurto. Tai irgi yra jo dorovė.
 
 ### 14. Vidutinė dorovė
 
 *Majjhimasīlaṃ*
 
-uomet kai vieni gerbiami atsiskyrėliai ir brahmanai suvalgę maistą duotą [jiems] iš tikėjimo gyvena žalodami visokių rūšių sėklas ir augmeniją, t.y. tai kas dauginasi penkias būdais: šaknimis, ūsais, pumpurais, ūgliais ir sėklomis; jis susilaiko nuo visų rūšių sėklų ir augmenijos žalojimo. Tai irgi yra jo dorovė.
+Tuomet kai vieni gerbiami atsiskyrėliai ir brahmanai suvalgę maistą duotą [jiems] iš tikėjimo gyvena žalodami visokių rūšių sėklas ir augmeniją, t.y. tuos, kurie dauginasi penkias būdais: šaknimis, ūsais, pumpurais, ūgliais ir sėklomis; jis susilaiko nuo visų rūšių sėklų ir augmenijos žalojimo. Tai irgi yra jo dorovė.
 
 Tuomet kai vieni gerbiami atsiskyrėliai ir brahmanai suvalgę maistą duotą [jiems] iš tikėjimo gyvena kaupdami daiktus pramogai, t.y. kaupdami maistą, gėrimus, drabužius, transporto priemones, miegojimo reikmenys, kvepalus, delikatesus; jis susilaiko nuo daiktų pramogai kaupimo. Tai irgi yra jo dorovė.
 
