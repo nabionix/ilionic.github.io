@@ -257,7 +257,7 @@ Paklauso tos Dharmos ar namų šeimininkas, ar namų šeimininko sūnus, ar kito
 
 Vėliau, palikęs ar mažus, ar didelius turtus, palikęs ar mažą, ar didelį giminių ratą, nusiskutus plaukus, apsirengus geltonais apdarais, jis žengia pirmyn iš namų į benamį gyvenimą.
 
-Taip, žengęs pirmyn, jis gyvena susitvardęs patimokhos laikymusi ir pasižymėdamas geru elgesiu; matydamas pavojingu ir mažiausią nusižengimą, įsipareigojęs laikytis dorovės principų, mokosi to; jo kūno ir kalbos veiksmai pasidaro dori, [jis yra] išgryninęs pragyvenimo šaltinius, pasižymi dorove, apsisaugojęs juslinių gebėjimų duris, [apsisaugojęs juslinių gebėjimų duris, žino saiką kai valgo] išsivystęs atidumą ir aiškų supratimą, pasitenkinęs.
+Taip, žengęs pirmyn, jis gyvena susitvardęs patimokhos laikymusi ir pasižymėdamas geru elgesiu; matydamas pavojingu ir mažiausią nusižengimą, įsipareigojęs laikytis dorovės principų, mokosi to; jo kūno ir kalbos veiksmai pasidaro dori, [jis yra] išgryninęs pragyvenimo šaltinius, pasižymi dorove, apsisaugojęs juslinių gebėjimų duris, [apsisaugojęs juslinių gebėjimų duris, žino saiką kai valgo] išsivysto atidumą ir aiškų supratimą, yra pasitenkinęs.
 
 ### 13. Mažoji dorovė
 
@@ -327,18 +327,18 @@ Karaliau, tokios dorovės vienuolis niekur nemato pavojų dėl to, kad jis yra s
 
 *Indriyasaṃvaro*
 
-Ir kaip, karaliau, vienuolis apsisaugoja juslinių gebėjimų duris? Štai, karaliau, vienuolis akimis pamatęs formą, nebando pagauti nei [jos] bruožų, nei smulkių detalių. Gyvenant nesutvardžius akių juslinį gebėjimą, gali įtekėti godulys, nusiminimas, blogos, nedoros būsenos, todėl jis žengia susitvardymo keliu, saugo akių juslinį gebėjimą, susitvardo akių juslinio gebėjimo atžvilgiu. Ausimis išgirdęs garsą… nosimi užuodęs kvapą…liežuviu pajutęs skonį... kūnu palietęs apčiuopiamą, protu pažinęs reiškinį nebando pagauti nei [jo] bruožų, nei smulkių detalių. Gyvenant nesutvardžius proto juslinį gebėjimą gali įtekėti godulys, nusiminimas, blogos, nedoros būsenos, todėl jis žengia susitvardymo keliu, saugo proto juslinį gebėjimą, susitvardo proto juslinio gebėjimo atžvilgiu. Įgijęs šį taurųjį juslinių gebėjimų sutvardymą, jis jaučia vidinį neliečiamumo [teršalais] džiaugsmą. Štai taip, karaliau, vienuolis apsisaugoja juslinių gebėjimų duris.
+Ir kaip, karaliau, vienuolis apsisaugoja juslinių gebėjimų duris? Štai, karaliau, vienuolis pamatęs akimis formą, nebando pagauti nei [jos] bruožų, nei smulkių detalių. Gyvenant nesutvardžius akių juslinį gebėjimą, gali įtekėti godulys, nusiminimas, blogos, nedoros būsenos, todėl jis žengia susitvardymo keliu, saugo akių juslinį gebėjimą, susitvardo akių juslinio gebėjimo atžvilgiu. Išgirdęs ausimis garsą... užuodęs nosimi kvapą... pajutęs liežuviu skonį... palietęs kūnu apčiuopiamą, pažinęs protu reiškinį nebando pagauti nei [jo] bruožų, nei smulkių detalių. Gyvenant nesutvardžius proto juslinį gebėjimą gali įtekėti godulys, nusiminimas, blogos, nedoros būsenos, todėl jis žengia susitvardymo keliu, saugo proto juslinį gebėjimą, susitvardo proto juslinio gebėjimo atžvilgiu. Įgyvendinęs šį taurųjį juslinių gebėjimų sutvardymą, jis jaučia vidinį neliečiamumo [teršalais] džiaugsmą. Štai taip, karaliau, vienuolis apsisaugoja juslinių gebėjimų duris.
 
-### 17. Sąmoningumas ir aiškus supratimas
+### 17. Atidumas ir aiškus supratimas
 
 *Satisampajaññaṃ*
 
-Ir kaip, karaliau, vienuolis yra išsivystęs sąmoningumą ir aiškų supratimą? Štai, karaliau, vienuolis, kai eina į priekį ir kai eina atgal, daro tai aiškiai suprasdamas, kai žiūri į priekį ir kai žiūri į šalis, daro tai aiškiai suprasdamas, kai sulenkia ir kai ištiesia [galūnes], daro tai aiškiai suprasdamas, kai dėvi apdarus ir kai neša dubenį aukoms, daro tai aiškiai suprasdamas, kai valgo, geria, kramto ir kai ragauja, daro tai aiškiai suprasdamas, kai tuštinasi ir kai šlapinasi, daro tai aiškiai suprasdamas, kai eina, stovi, sėdi, guli, pabunda, kalba ir kai tyli, daro tai aiškiai suprasdamas. Štai taip, karaliau, vienuolis yra išsivystęs sąmoningumą ir aiškų supratimą.
+Ir kaip, karaliau, vienuolis išsivysto atidumą ir aiškų supratimą? Štai, karaliau, vienuolis, kai eina į priekį ir kai eina atgal, daro tai aiškiai suprasdamas, kai žiūri į priekį ir kai žiūri į šalis, daro tai aiškiai suprasdamas, kai sulenkia ir kai ištiesia [galūnes], daro tai aiškiai suprasdamas, kai dėvi apdarus ir kai neša dubenį aukoms, daro tai aiškiai suprasdamas, kai valgo, geria, kramto ir kai ragauja, daro tai aiškiai suprasdamas, kai tuštinasi ir kai šlapinasi, daro tai aiškiai suprasdamas, kai eina, stovi, sėdi, guli, pabunda, kalba ir kai tyli, daro tai aiškiai suprasdamas. Štai taip, karaliau, vienuolis išsivysto atidumą ir aiškų supratimą.
 
 ### 18. Pasitenkinimas
 
 *Santoso*
 
-Ir kaip, karaliau, vienuolis yra pasitenkinęs? Štai, karaliau, vienuolis yra patenkintas kūną apsaugojančiu apdaru ir paaukotu maistu skrandžiui palaikyti. Kur jis beeitų, jis išvyksta pasiėmęs tik [juos]. Panašiai kaip bet kur vykstant, vienintelė sparnuoto paukščio našta yra sparnai, lygiai taip vienuolis yra patenkintas kūną apsaugojančiu apdaru ir paaukotu maistu skrandžiui palaikyti－bet kur einant, jis išvyksta pasiėmęs tik juos. Štai taip, karaliau, vienuolis yra pasitenkinęs.
+Ir kaip, karaliau, vienuolis yra pasitenkinęs? Štai, karaliau, vienuolis yra patenkintas kūną apsaugojančiu apdaru ir paaukotu maistu skrandžiui palaikyti. Kur jis beeitų, jis išvyksta pasiėmęs tik [juos]. Kaip bet kur vykstančio paukščio vienintelė našta yra sparnai, lygiai taip vienuolis yra patenkintas kūną apsaugojančiu apdaru ir paaukotu maistu skrandžiui palaikyti－bet kur einant, jis išvyksta pasiėmęs tik juos. Štai taip, karaliau, vienuolis yra pasitenkinęs.
 
 <a href="../samannaphala-p2" class="btn btn-primary btn-next">Toliau →</a>
