@@ -257,13 +257,13 @@ Paklauso tos Dharmos ar namų šeimininkas, ar namų šeimininko sūnus, ar kito
 
 Vėliau, palikęs ar mažus, ar didelius turtus, palikęs ar mažą, ar didelį giminių ratą, nusiskutus plaukus, apsirengus geltonais apdarais, jis žengia pirmyn iš namų į benamį gyvenimą.
 
-Taip žengęs pirmyn, jis gyvena susitvardęs patimokhos laikymusi ir pasižymėdamas geru elgesiu; matydamas pavojingu ir mažiausią nusižengimą, įsipareigojęs laikytis dorovės principų, mokosi to; jo kūno ir kalbos veiksmai pasidaro dori, [jis būna] išgryninęs pragyvenimo šaltinius, dorovingas, apsisaugojęs juslinių gebėjimų duris, [apsisaugojęs juslinių gebėjimų duris, žinantis saiką kai valgo] išsivystęs atidumą ir aiškų supratimą, pasitenkinęs.
+Taip, žengęs pirmyn, jis gyvena susitvardęs patimokhos laikymusi ir pasižymėdamas geru elgesiu; matydamas pavojingu ir mažiausią nusižengimą, įsipareigojęs laikytis dorovės principų, mokosi to; jo kūno ir kalbos veiksmai pasidaro dori, [jis yra] išgryninęs pragyvenimo šaltinius, pasižymi dorove, apsisaugojęs juslinių gebėjimų duris, [apsisaugojęs juslinių gebėjimų duris, žino saiką kai valgo] išsivystęs atidumą ir aiškų supratimą, pasitenkinęs.
 
 ### 13. Mažoji dorovė
 
 *Cūḷasīlaṃ*
 
-Ir kaip, karaliau, vienuolis pasižymi dorove? Štai, karaliau, vienuolis, atsisakęs žudymo, susilaiko nuo žudymo. Atidėjęs lazdą, atidėjęs ginklus, yra kuklus, gailiaširdis, gyvena su gailesčiu visoms gyvoms būtybėms. Tai irgi yra jo dorovė.
+Ir kokia, karaliau, dorove pasižymi vienuolis? Štai, karaliau, vienuolis, atsisakęs žudymo, susilaiko nuo žudymo. Atidėjęs lazdą, atidėjęs ginklus, yra kuklus, gailiaširdis, gyvena su gailesčiu visoms gyvoms būtybėms. Tai irgi yra jo dorovė.
 
 Atsisakęs imti tai kas neduotą, jis susilaiko nuo ėmimo to kas neduota, ima tai kas duodama, tikisi tik duodamo, gyvena švariai, nevagiant. Tai irgi yra jo dorovė.
 
