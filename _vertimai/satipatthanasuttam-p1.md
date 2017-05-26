@@ -78,19 +78,19 @@ Taip, jis gyvena kontenpluodamas kūną... Taip irgi, vienuoliai, vienuolis gyve
 
 *Kāyānupassanā navasivathikapabbaṃ*
 
-Ir vėlgi, vienuoliai, vienuolis panašiai, kaip kad jei matytų išmestą kapinėse kūną, vienos dienos senumo, dviejų dienų senumo ar trijų dienų senumo, ištinusį, pamėlynavusį, supūliavusį. Jis sulygina šitą patį kūną [su juo]: "Šitas gi kūnas taip pat yra tokios prigimties, tokia [jo] ateitis, [jis] to neišvengs."
+Ir vėlgi, vienuoliai, vienuolis lyg matytų kapinėse išmestą kūną: vienos dienos senumo, dviejų dienų senumo ar trijų dienų senumo, ištinusį, pamėlynavusį, supūliavusį. Jis sulygina šitą patį kūną [su juo]: „Šitas gi kūnas taip pat yra tokios prigimties, tokia [jo] ateitis, [jis] to neišvengs.“
 
-Taip, jis kūno atžvilgiu... Taip irgi, vienuoliai, vienuolis gyvena kūno atžvilgiu kontenpliuodamas kūną.
+Taip, jis gyvena kontenpluodamas kūną... Taip irgi, vienuoliai, vienuolis gyvena kontenpliuodamas kūną kūne.
 
-Ir vėlgi, vienuoliai, vienuolis panašiai, kaip kad jei matytų išmestą kapinėse kūną, ėdamą varnų ar ėdamą vanagų, ėdamą maitvanagių ar ėdamą garnių, ėdamą šunų ar ėdamą tigrų, ėdamą laukinių žvėrių ar ėdamą šakalų, ėdamą daugybės vabzdžių. Jis sulygina šitą patį kūną [su juo]: "Šitas gi kūnas taip pat yra tokios prigimties, tokia [jo] ateitis, [jis] to neišvengs."
+Ir vėlgi, vienuoliai, vienuolis lyg matytų kapinėse išmestą kūną: ėdamą varnų ar ėdamą vanagų, ėdamą maitvanagių ar ėdamą garnių, ėdamą šunų ar ėdamą tigrų, ėdamą laukinių žvėrių ar ėdamą šakalų, ėdamą daugybės vabzdžių. Jis sulygina šitą patį kūną [su juo]: „Šitas gi kūnas taip pat yra tokios prigimties, tokia [jo] ateitis, [jis] to neišvengs.“
 
-Taip, jis kūno atžvilgiu... Taip irgi, vienuoliai, vienuolis gyvena kūno atžvilgiu kontenpliuodamas kūną.
+Taip, jis gyvena kontenpluodamas kūną... Taip irgi, vienuoliai, vienuolis gyvena kontenpliuodamas kūną kūne.
 
-Ir vėlgi, vienuoliai, vienuolis panašiai, kaip kad jei matytų išmesto kapinėse kūno griaučius su kraujais ir mėsom, sujungtą sausgyslėmis... griaučius išteptus kraujais, be mėsų, sujungtą sausgyslėmis... griaučius be kraujo ir mėsų, sujungtą sausgyslėmis... griaučius be jungiančių sausgyslių, išmėtytus į visas puses: vienur rankų kaulai, kitur padikaulai, vienur kulkšnies kaulai, kitur blauzdikauliai, vienur šlaunikaulis, kitur dubenkaulis, vienur šonkauliai, kitur stuburkaulis, vienur raktikaulis, kitur kaklo kaulai, vienur žandikaulis, kitur dantys, dar kitur kaukolė. Jis sulygina šitą patį kūną [su juo]: "Šitas gi kūnas taip pat yra tokios prigimties,  tokia [jo] ateitis, [jis] to neišvengs."
+Ir vėlgi, vienuoliai, vienuolis lyg matytų kapinėse išmesto kūno griaučius su kraujais ir mėsom, sujungtus sausgyslėmis... griaučius išteptus kraujais, be mėsų, sujungtą sausgyslėmis... griaučius be kraujo ir mėsų, sujungtą sausgyslėmis... griaučius be jungiančių sausgyslių, išmėtytus į visas puses: vienur rankų kaulai, kitur padikaulai, vienur kulkšnies kaulai, kitur blauzdikauliai, vienur šlaunikaulis, kitur dubenkaulis, vienur šonkauliai, kitur stuburkaulis, vienur raktikaulis, kitur kaklo kaulai, vienur žandikaulis, kitur dantys, dar kitur kaukolė. Jis sulygina šitą patį kūną [su juo]: „Šitas gi kūnas taip pat yra tokios prigimties,  tokia [jo] ateitis, [jis] to neišvengs.“
 
-Taip, jis kūno atžvilgiu... Taip irgi, vienuoliai, vienuolis kūno atžvilgiu būna stebintis kūną.
+Taip, jis gyvena kontenpluodamas kūną... Taip irgi, vienuoliai, vienuolis gyvena kontenpliuodamas kūną kūne.
 
-Ir vėlgi, vienuoliai, vienuolis panašiai, kaip kad jei matytų išmesto kapinėse kūno baltus kaulus, įgavusius kriauklės spalvą... pasenusių kaulų krūvą... supuvusius kaulus, pavirtusius dulkėmis. Jis sulygina šitą patį kūną [su juo]: "Šitas gi kūnas taip pat yra tokios prigimties, tokia [jo] ateitis, [jis] to neišvengs." Taip, jis kūno atžvilgiu būna stebintis kūną viduje, arba kūno atžvilgiu būna stebintis kūną išorėje, arba kūno atžvilgiu būna stebintis kūną ir viduje, ir išorėje. Jis stebi atsiradimo prigimtį kūno atžvilgiu, arba stebi irimo prigimtį kūno atžvilgiu, arba stebi atsiradimo ir irimo prigimtį kūno atžvilgiu. Arba "yra kūnas“ jame yra įsteigtas atidumas, toks, kad to pakanka žinojimui ir besitęsiančiam atidumui. Jis būna nepriklausomas ir pasaulyje prie nieko neprisiriša. Taip irgi, vienuoliai, vienuolis gyvena kūno atžvilgiu kontenpliuodamas kūną.
+Ir vėlgi, vienuoliai, vienuolis panašiai, kaip kad jei matytų išmesto kapinėse kūno baltus kaulus, įgavusius kriauklės spalvą... pasenusių kaulų krūvą... supuvusius kaulus, pavirtusius dulkėmis. Jis sulygina šitą patį kūną [su juo]: „Šitas gi kūnas taip pat yra tokios prigimties, tokia [jo] ateitis, [jis] to neišvengs.“ Taip, jis kūno atžvilgiu būna stebintis kūną viduje, arba kūno atžvilgiu būna stebintis kūną išorėje, arba kūno atžvilgiu būna stebintis kūną ir viduje, ir išorėje. Jis stebi atsiradimo prigimtį kūno atžvilgiu, arba stebi irimo prigimtį kūno atžvilgiu, arba stebi atsiradimo ir irimo prigimtį kūno atžvilgiu. Arba „yra kūnas“ jame yra įsteigtas atidumas, toks, kad to pakanka žinojimui ir besitęsiančiam atidumui. Jis būna nepriklausomas ir pasaulyje prie nieko neprisiriša. Taip irgi, vienuoliai, vienuolis gyvena kūno atžvilgiu kontenpliuodamas kūną.
 
 ### Jausmų kontenpliacija
 
