@@ -35,13 +35,15 @@ Kurie keturi? Štai, vienuoliai, vienuolis gyvena kontenpliuodamas kūną kūne[
 Ir kaipgi, vienuoliai, vienuolis gyvena kontenpliuodamas kūną kūne? Štai vienuolis, nuėjęs į mišką, po medžiu, ar į tuščią patalpą, atsisėda sukryžiavęs kojas, laikydamas kūną tiesiai, įsteigęs atidumą priešais save. Jis atidžiai įkvepia, atidžiai iškvepia; ilgai įkvėpdamas jis žino „įkvepiu ilgai“, ilgai iškvėpdamas žino „iškvepiu ilgai“; trumpai įkvėpdamas žino „įkvepiu trumpai“, trumpai iškvėpdamas žino „iškvepiu trumpai“; jis mokosi: „įkvėpsiu patirdamas visą kūną“,- mokosi: „iškvėpsiu patirdamas visą kūną“;- mokosi: „įkvėpsiu nuramindamas kūno darinius“,- mokosi: „iškvėpsiu nuramindamas kūno darinius“.
 
 Panašiai, vienuoliai, kaip įgūdęs sukėjas arba sukėjo padėjėjas traukdamas ilgai žino „traukiu ilgai“, traukdamas trumpai žino „traukiu trumpai“, taip, vienuoliai, ir vienuolis ilgai įkvėpdamas žino „įkvepiu ilgai“, ilgai iškvėpdamas žino „iškvepiu ilgai“; trumpai įkvėpdamas žino “įkvepiu trumpai“, trumpai iškvėpdamas žino „iškvepiu trumpai“; jis mokosi: „įkvėpsiu patirdamas visą kūną“,- mokosi: „iškvėpsiu patirdamas visą kūną";- mokosi: „įkvėpsiu nuramindamas kūno darinius",- mokosi: „iškvėpsiu nuramindamas kūno darinius“. 
+
 Taip, jis gyvena kontenpluodamas kūną kūne viduje, arba gyvena kontenpluodamas kūną kūne išorėje, arba gyvena kontenpluodamas kūną kūne viduje ir išorėje. Jis gyvena kontenpluodamas atsiradimo prigimtį kūne, arba gyvena kontenpluodamas irimo prigimtį kūne, arba gyvena kontenpluodamas atsiradimo ir irimo prigimtį kūne, arba jame yra įsteigtas atidumas „yra kūnas“, toks, kad to pakanka žinojimui ir besitęsiančiam atidumui. Jis gyvena nepriklausomas ir pasaulyje prie nieko neprisiriša. Taip irgi, vienuoliai, vienuolis gyvena kontenpliuodamas kūną kūne.
 
 ### Kūno kontenpliacija, pozų skyrius
 
 *Kāyānupassanā iriyāpathapabbaṃ*
 
-Ir vėlgi, vienuoliai, vienuolis eidamas žino „aš einu", stovėdamas žino „aš stoviu", sėdėdamas žino „aš sėdžiu" arba gulėdamas žino „aš guliu". Ir kokioje pozoje jo kūnas bebūtų, jis tai žino. 
+Ir vėlgi, vienuoliai, vienuolis eidamas žino „aš einu“, stovėdamas žino „aš stoviu“, sėdėdamas žino „aš sėdžiu“ arba gulėdamas žino „aš guliu“. Ir kokioje pozoje jo kūnas bebūtų, jis tai žino. 
+
 Taip, jis gyvena kontenpluodamas kūną kūne viduje, arba gyvena kontenpluodamas kūną kūne išorėje, arba gyvena kontenpluodamas kūną kūne viduje ir išorėje. Jis gyvena kontenpluodamas atsiradimo prigimtį kūne, arba gyvena kontenpluodamas irimo prigimtį kūne, arba gyvena kontenpluodamas atsiradimo ir irimo prigimtį kūne, arba jame yra įsteigtas atidumas „yra kūnas“, toks, kad to pakanka žinojimui ir besitęsiančiam atidumui. Jis gyvena nepriklausomas ir pasaulyje prie nieko neprisiriša. Taip irgi, vienuoliai, vienuolis gyvena kontenpliuodamas kūną kūne.
 
 ### Kūno kontenpliacija, aiškaus supratimo skyrius
@@ -49,6 +51,7 @@ Taip, jis gyvena kontenpluodamas kūną kūne viduje, arba gyvena kontenpluodama
 *Kāyānupassanā sampajānapabbaṃ*
 
 Ir vėlgi, vienuoliai, vienuolis, kai eina į priekį ir kai eina atgal, daro tai aiškiai suprasdamas, kai žiūri į priekį ir kai žiūri į šalis, daro tai aiškiai suprasdamas, kai sulenkia ir kai ištęsia [galūnes], daro tai aiškiai suprasdamas, kai dėvi apdarus ir kai neša dubenį aukoms, daro tai aiškiai suprasdamas, kai valgo, geria, kramto ir kai ragauja, daro tai aiškiai suprasdamas, kai tuštinasi ir kai šlapinasi, daro tai aiškiai suprasdamas, kai eina, stovi, sėdi, guli, pabunda, kalba ir kai tyli, daro tai aiškiai suprasdamas. 
+
 Taip, jis gyvena kontenpluodamas kūną... Taip irgi, vienuoliai, vienuolis gyvena kontenpliuodamas kūną kūne.
 
 ### Kūno kontenpliacija, šlykštėjimosi skyrius
@@ -65,11 +68,11 @@ Taip, jis gyvena kontenpluodamas kūną... Taip irgi, vienuoliai, vienuolis gyve
 
 *Kāyānupassanā dhātumanasikārapabbaṃ*
 
-Ir vėlgi, vienuoliai, vienuolis šitame pačiame kūne, kad ir kaip šis būtų išsidėstęs, kokioje pozoje bebūtų, mintyse peržiūri elementus: "Šiame kūne yra žemės elementas, vandens elementas, ugnies elementas, vėjo elementas."
+Ir vėlgi, vienuoliai, vienuolis, kad ir kaip šis būtų išsidėstęs, kokioje pozoje bebūtų, šitame pačiame kūne mintyse peržiūri elementus: „Šiame kūne yra žemės elementas, vandens elementas, ugnies elementas, vėjo elementas.“
 
-Panašiai, vienuoliai, kaip įgūdęs skerdikas ar skerdiko padėjėjas sėdėtų sankryžoje išdorojęs karvę ir padalinęs ją į dalis; lygiai gi, vienuoliai, taip vienuolis šitame pačiame kūne, kad ir kaip šis būtų išsidėstęs, kokioje pozoje bebūtų, mintyse peržiūri elementus: "Šiame kūne yra žemės elementas, vandens elementas, ugnies elementas, vėjo elementas."
+Panašiai, vienuoliai, kaip įgūdęs skerdikas ar skerdiko padėjėjas išdorojęs karvę ir padalinęs ją į dalis sėdėtų sankryžoje; lygiai gi, vienuoliai, taip, vienuolis, kad ir kaip šis būtų išsidėstęs, kokioje pozoje bebūtų, šitame pačiame kūne mintyse peržiūri elementus: „Šiame kūne yra žemės elementas, vandens elementas, ugnies elementas, vėjo elementas.“
 
-Taip, jis kūno atžvilgiu būna stebintis kūną viduje... Taip irgi, vienuoliai, vienuolis gyvena kūno atžvilgiu kontenpliuodamas kūną.
+Taip, jis gyvena kontenpluodamas kūną... Taip irgi, vienuoliai, vienuolis gyvena kontenpliuodamas kūną kūne.
 
 ### Kūno kontenpliacija, devynios kapinių kontenpliacijos
 
