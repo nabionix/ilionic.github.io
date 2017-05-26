@@ -26,7 +26,7 @@ Palaimintasis pasakė štai ką:
 
 －Vienuoliai, šis yra tiesioginis kelias į būtybių apsivalymą, liūdesio ir raudojimo įveikimą, skausmo ir nusiminimo išnykimą, žinojimo pasiekimą, Nirvanos patyrimą. Tai yra keturi atidumo įsteigimai.
 
-Kurie keturi? Štai, vienuoliai, vienuolis gyvena kūno atžvilgiu kontempliuodamas kūną, būdamas uolus, su aiškiu supratimu, atidus, be godulio ir nepasitenkinimo pasauliu; gyvena jausmų atžvilgiu kontempliuodamas jausmus, būdamas uolus, su aiškiu supratimu, atidus, be godulio ir nepasitenkinimo pasauliu; gyvena proto atžvilgiu kontempliuodamas protą, būdamas uolus, su aiškiu supratimu, atidus, be godulio ir nepasitenkinimo pasauliu; gyvena reiškinių atžvilgiu kontempliuodamas reiškinius, būdamas uolus, su aiškiu supratimu, atidus, be godulio ir nepasitenkinimo pasauliu.  
+Kurie keturi? Štai, vienuoliai, vienuolis gyvena kontempliuodamas kūną kūne, būdamas uolus, su aiškiu supratimu, atidus, be godulio ir nepasitenkinimo pasauliu; gyvena kontempliuodamas jausmus jausmuose, būdamas uolus, su aiškiu supratimu, atidus, be godulio ir nepasitenkinimo pasauliu; gyvena kontempliuodamas protą prote, būdamas uolus, su aiškiu supratimu, atidus, be godulio ir nepasitenkinimo pasauliu; gyvena kontempliuodamas reiškinius reiškiniuose, būdamas uolus, su aiškiu supratimu, atidus, be godulio ir nepasitenkinimo pasauliu.  
 
 ###Kūno kontempliacija, atidumo kvėpavimui skyrius###
 
