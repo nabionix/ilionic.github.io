@@ -48,13 +48,13 @@ Taip, jis gyvena kontenpluodamas kūną kūne viduje, arba gyvena kontenpluodama
 
 *Kāyānupassanā sampajānapabbaṃ*
 
-Ir vėlgi, vienuoliai, vienuolis, kai eina į priekį ir kai eina atgal, daro tai aiškiai suprasdamas, kai žiūri į priekį ir kai žiūri į šalis, daro tai aiškiai suprasdamas, kai sulenkia ir kai ištęsia [galūnes], daro tai aiškiai suprasdamas, kai dėvi apdarus ir kai neša dubenį aukoms, daro tai aiškiai suprasdamas, kai valgo, geria, kramto ir kai ragauja, daro tai aiškiai suprasdamas, kai tuštinasi ir kai šlapinasi, daro tai aiškiai suprasdamas, kai eina, stovi, sėdi, guli, pabunda, kalba ir kai tyli, daro tai aiškiai suprasdamas. Taip, jis kūno atžvilgiu... Taip irgi, vienuoliai, vienuolis gyvena kūno atžvilgiu kontenpliuodamas kūną.
+Ir vėlgi, vienuoliai, vienuolis, kai eina į priekį ir kai eina atgal, daro tai aiškiai suprasdamas, kai žiūri į priekį ir kai žiūri į šalis, daro tai aiškiai suprasdamas, kai sulenkia ir kai ištęsia [galūnes], daro tai aiškiai suprasdamas, kai dėvi apdarus ir kai neša dubenį aukoms, daro tai aiškiai suprasdamas, kai valgo, geria, kramto ir kai ragauja, daro tai aiškiai suprasdamas, kai tuštinasi ir kai šlapinasi, daro tai aiškiai suprasdamas, kai eina, stovi, sėdi, guli, pabunda, kalba ir kai tyli, daro tai aiškiai suprasdamas. Taip, jis gyvena kontenpluodamas kūną... Taip irgi, vienuoliai, vienuolis gyvena kontenpliuodamas kūną kūne.
 
 ### Kūno kontenpliacija, šlykštėjimosi skyrius
 
 *Kāyānupassanā paṭikūlamanasikārapabbaṃ*
 
-Ir vėlgi, vienuoliai, vienuolis šitą patį, padengtą oda, kūną, pilną visokiausių nešvarumų, mintyse apžiūri nuo kojų padų į viršų ir žemyn nuo galvos plaukų: "Šiame kūne yra galvos plaukai, kūno plaukai, nagai, dantys, oda, mėsa, sausgyslės, kaulai, čiulpai, inkstai, širdis, kepenys, pleura, blužnis, plaučiai, žarnos, virškinamasis traktas, skrandžio turinys, išmatos, [išmatos, smegenys,] tulžis, gleivės, pūliai, kraujas, prakaitas, lašiniai, ašaros, riebalai, seilės, snargliai, sąnarinis tepalas, šlapimas."
+Ir vėlgi, vienuoliai, vienuolis šitą patį, padengtą oda, kūną, pilną visokiausių nešvarumų, mintyse apžiūri nuo kojų padų į viršų ir žemyn nuo galvos plaukų: „Šiame kūne yra galvos plaukai, kūno plaukai, nagai, dantys, oda, mėsa, sausgyslės, kaulai, čiulpai, inkstai, širdis, kepenys, pleura, blužnis, plaučiai, žarnos, virškinamasis traktas, skrandžio turinys, išmatos, [išmatos, smegenys,] tulžis, gleivės, pūliai, kraujas, prakaitas, lašiniai, ašaros, riebalai, seilės, snargliai, sąnarinis tepalas, šlapimas."
 
 Panašiai, vienuoliai, kaip kad būtų maišas, turintis dvi angas pilnas visokiausių grūdų, tokių kaip: basmati ryžiai, nevalyti ryžiai, pupos, pupuolės, sezamo sėklos, valyti ryžiai; jį atidaręs, apžiūrėtų turintis akis žmogus: "Tai basmati ryžiai, tai nevalyti ryžiai, tai pupos, tai pupuolės, tai sezamo sėklos, tai valyti ryžiai"; lygiai gi, vienuoliai, taip vienuolis šitą patį, padengtą oda, kūną, pilną visokiausių nešvarumų, mintyse apžiūri nuo kojų padų į viršų ir žemyn nuo galvos plaukų: "Šiame kūne yra galvos plaukai, kūno plaukai... šlapimas."
 
